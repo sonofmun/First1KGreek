@@ -1,8 +1,14 @@
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg0096" xml:lang="grc" urn="urn:cts:greekLit:tlg0096.tlg002">
-  <ti:title xml:lang="lat">Fabulae</ti:title>
-  <ti:edition urn="urn:cts:greekLit:tlg0096.tlg002.First1K-grc1" workUrn="urn:cts:greekLit:tlg0096.tlg002">
-    <ti:label xml:lang="lat">Fabulae Aesopicae Collectae</ti:label>
-    <ti:label xml:lang="grc">ΑΙΣΩΠΕΙΩΝ ΜΥΘΩΝ ΣΥΝΑΓΩΓΗ</ti:label>
-    <ti:description xml:lang="lat">Fabulae Aesopicae Collectae, Halm, Teubner, 1872</ti:description>
-  </ti:edition>
+<ti:work xmlns:cpt="http://capitains.github.io/xmlns" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:dct="http://purl.org/dc/terms/" xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg0096" xml:lang="eng" urn="urn:cts:greekLit:tlg0096.tlg002">
+  <ti:title xml:lang="eng">Fabulae</ti:title>
+  <ti:translation xml:lang="grc" urn="urn:cts:greekLit:tlg0096.tlg002.First1K-grc1" workUrn="urn:cts:greekLit:tlg0096.tlg002">
+    <ti:label xml:lang="eng">Fabulae</ti:label>
+    <ti:description xml:lang="mul">Aesop, Fabulae, Caroli Halmii, Lipsiae, 1872</ti:description>
+    <cpt:structured-metadata>
+      <dc:creator xml:lang="eng">Aesop</dc:creator>
+      <dc:title xml:lang="eng">Fabulae</dc:title>
+      <dc:contributor xml:lang="lat">Caroli Halmii</dc:contributor>
+      <dc:publisher xml:lang="eng">Lipsiae</dc:publisher>
+      <dct:dateCopyrighted>1872</dct:dateCopyrighted>
+    </cpt:structured-metadata>
+  </ti:translation>
 </ti:work>

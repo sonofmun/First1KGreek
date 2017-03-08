@@ -1,7 +1,14 @@
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg2041" xml:lang="grc" urn="urn:cts:greekLit:tlg2041.tlg001">
-  <ti:title xml:lang="eng">Fragmenta</ti:title>
-  <ti:edition urn="urn:cts:greekLit:tlg2041.tlg001.opp-grc1" workUrn="urn:cts:greekLit:tlg2041.tlg001">
-    <ti:label xml:lang="eng">Fragmenta</ti:label>
-    <ti:description xml:lang="eng">Marcellus, Fragmenta</ti:description>
+<ti:work xmlns:cpt="http://capitains.github.io/xmlns" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:dct="http://purl.org/dc/terms/" xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg2041" xml:lang="eng" urn="urn:cts:greekLit:tlg2041.tlg001">
+  <ti:title xml:lang="eng">Eusebius Werke</ti:title>
+  <ti:edition xml:lang="eng" urn="urn:cts:greekLit:tlg2041.tlg001.opp-grc1" workUrn="urn:cts:greekLit:tlg2041.tlg001">
+    <ti:label xml:lang="eng">Eusebius Werke</ti:label>
+    <ti:description xml:lang="mul">None, Eusebius Werke, Professor Lic. Dr. Erich Klostermann, J. C. Hinrichs'Sche Buchhandlung, 1906.</ti:description>
+    <cpt:structured-metadata>
+      <dc:creator xml:lang="eng">None</dc:creator>
+      <dc:title xml:lang="eng">Eusebius Werke</dc:title>
+      <dc:contributor xml:lang="lat">Professor Lic. Dr. Erich Klostermann</dc:contributor>
+      <dc:publisher xml:lang="eng">J. C. Hinrichs'Sche Buchhandlung</dc:publisher>
+      <dct:dateCopyrighted>1906.</dct:dateCopyrighted>
+    </cpt:structured-metadata>
   </ti:edition>
 </ti:work>

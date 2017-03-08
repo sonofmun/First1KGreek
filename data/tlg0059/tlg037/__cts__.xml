@@ -1,7 +1,14 @@
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg0059" xml:lang="grc" urn="urn:cts:greekLit:tlg0059.tlg037">
-  <ti:title xml:lang="lat">Definitiones</ti:title>
-  <ti:edition urn="urn:cts:greekLit:tlg0059.tlg037.First1K-grc1" workUrn="urn:cts:greekLit:tlg0059.tlg037">
-    <ti:label xml:lang="lat">Definitiones</ti:label>
-    <ti:description xml:lang="eng">Plato, Definitiones, Burnet, Clarendon, 1907</ti:description>
-  </ti:edition>
+<ti:work xmlns:cpt="http://capitains.github.io/xmlns" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:dct="http://purl.org/dc/terms/" xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg0059" xml:lang="eng" urn="urn:cts:greekLit:tlg0059.tlg037">
+  <ti:title xml:lang="eng">Definitiones</ti:title>
+  <ti:translation xml:lang="grc" urn="urn:cts:greekLit:tlg0059.tlg037.First1K-grc1" workUrn="urn:cts:greekLit:tlg0059.tlg037">
+    <ti:label xml:lang="eng">Definitiones</ti:label>
+    <ti:description xml:lang="mul">Plato, Definitiones, Iohannes Burnet, Oxonii, 1907</ti:description>
+    <cpt:structured-metadata>
+      <dc:creator xml:lang="eng">Plato</dc:creator>
+      <dc:title xml:lang="eng">Definitiones</dc:title>
+      <dc:contributor xml:lang="lat">Iohannes Burnet</dc:contributor>
+      <dc:publisher xml:lang="eng">Oxonii</dc:publisher>
+      <dct:dateCopyrighted>1907</dct:dateCopyrighted>
+    </cpt:structured-metadata>
+  </ti:translation>
 </ti:work>

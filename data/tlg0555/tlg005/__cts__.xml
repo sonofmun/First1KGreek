@@ -1,7 +1,14 @@
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg0555" xml:lang="grc" urn="urn:cts:greekLit:tlg0555.tlg005">
-  <ti:title xml:lang="eng">Eclogae propheticae</ti:title>
-  <ti:edition urn="urn:cts:greekLit:tlg0555.tlg005.opp-grc1" workUrn="urn:cts:greekLit:tlg0555.tlg005">
-    <ti:label xml:lang="eng">Eclogae propheticae</ti:label>
-    <ti:description xml:lang="eng">Eclogae propheticae, Clement of Alexandria</ti:description>
+<ti:work xmlns:cpt="http://capitains.github.io/xmlns" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:dct="http://purl.org/dc/terms/" xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg0555" xml:lang="eng" urn="urn:cts:greekLit:tlg0555.tlg005">
+  <ti:title xml:lang="eng">Eclogae Propheticae</ti:title>
+  <ti:edition xml:lang="eng" urn="urn:cts:greekLit:tlg0555.tlg005.opp-grc1" workUrn="urn:cts:greekLit:tlg0555.tlg005">
+    <ti:label xml:lang="eng">Eclogae Propheticae</ti:label>
+    <ti:description xml:lang="mul">Clement Of Alexandria, Eclogae Propheticae, Otto Stahlin, Hinrichs, 1909</ti:description>
+    <cpt:structured-metadata>
+      <dc:creator xml:lang="eng">Clement Of Alexandria</dc:creator>
+      <dc:title xml:lang="eng">Eclogae Propheticae</dc:title>
+      <dc:contributor xml:lang="eng">Otto Stahlin</dc:contributor>
+      <dc:publisher xml:lang="eng">Hinrichs</dc:publisher>
+      <dct:dateCopyrighted>1909</dct:dateCopyrighted>
+    </cpt:structured-metadata>
   </ti:edition>
 </ti:work>

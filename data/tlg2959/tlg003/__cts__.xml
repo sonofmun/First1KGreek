@@ -1,7 +1,14 @@
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg2959" xml:lang="grc" urn="urn:cts:greekLit:tlg2959.tlg003">
-  <ti:title xml:lang="lat">De Resurrectione</ti:title>
-  <ti:edition urn="urn:cts:greekLit:tlg2959.tlg003.opp-ger1" workUrn="urn:cts:greekLit:tlg2959.tlg003">
-    <ti:label xml:lang="lat">De Resurrectione</ti:label>
-    <ti:description xml:lang="eng">Methodius, De Resurrectione, Bonwetsch, Hinrichs, 1917</ti:description>
+<ti:work xmlns:cpt="http://capitains.github.io/xmlns" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:dct="http://purl.org/dc/terms/" xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg2959" xml:lang="eng" urn="urn:cts:greekLit:tlg2959.tlg003">
+  <ti:title xml:lang="eng">Methodius</ti:title>
+  <ti:edition xml:lang="eng" urn="urn:cts:greekLit:tlg2959.tlg003.opp-ger1" workUrn="urn:cts:greekLit:tlg2959.tlg003">
+    <ti:label xml:lang="eng">Methodius</ti:label>
+    <ti:description xml:lang="mul">None, Methodius, D.G. Nathanael Bonwetsch, J. C. Hinrichs'Sche Buchhandlung, 1917</ti:description>
+    <cpt:structured-metadata>
+      <dc:creator xml:lang="eng">None</dc:creator>
+      <dc:title xml:lang="eng">Methodius</dc:title>
+      <dc:contributor xml:lang="lat">D.G. Nathanael Bonwetsch</dc:contributor>
+      <dc:publisher xml:lang="eng">J. C. Hinrichs'Sche Buchhandlung</dc:publisher>
+      <dct:dateCopyrighted>1917</dct:dateCopyrighted>
+    </cpt:structured-metadata>
   </ti:edition>
 </ti:work>

@@ -1,7 +1,14 @@
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg0358" xml:lang="grc" urn="urn:cts:greekLit:tlg0358.tlg005">
-  <ti:title xml:lang="lat">Problemata arithmetica</ti:title>
-  <ti:edition urn="urn:cts:greekLit:tlg0358.tlg005.1st1K" workUrn="urn:cts:greekLit:tlg0358.tlg005">
-    <ti:label xml:lang="lat">Problemata arithmetica</ti:label>
-    <ti:description xml:lang="lat">UNKNOWN, Problemata arithmetica, Hoche, Teubner, 1866</ti:description>
-  </ti:edition>
+<ti:work xmlns:cpt="http://capitains.github.io/xmlns" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:dct="http://purl.org/dc/terms/" xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg0358" xml:lang="eng" urn="urn:cts:greekLit:tlg0358.tlg005">
+  <ti:title xml:lang="eng">Problemata Arithmetica</ti:title>
+  <ti:translation xml:lang="grc" urn="urn:cts:greekLit:tlg0358.tlg005.1st1K" workUrn="urn:cts:greekLit:tlg0358.tlg005">
+    <ti:label xml:lang="eng">Problemata Arithmetica</ti:label>
+    <ti:description xml:lang="mul">None, Problemata Arithmetica, Richard Hoche, Lipsiae, 1866</ti:description>
+    <cpt:structured-metadata>
+      <dc:creator xml:lang="eng">None</dc:creator>
+      <dc:title xml:lang="eng">Problemata Arithmetica</dc:title>
+      <dc:contributor xml:lang="lat">Richard Hoche</dc:contributor>
+      <dc:publisher xml:lang="eng">Lipsiae</dc:publisher>
+      <dct:dateCopyrighted>1866</dct:dateCopyrighted>
+    </cpt:structured-metadata>
+  </ti:translation>
 </ti:work>

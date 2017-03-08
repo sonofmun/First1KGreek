@@ -1,7 +1,14 @@
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg2058" xml:lang="grc" urn="urn:cts:greekLit:tlg2058.tlg001">
-  <ti:title xml:lang="lat">Philostorgius Historia ecclesiastica (fragmenta ap. Photium)</ti:title>
-  <ti:edition urn="urn:cts:greekLit:tlg2058.tlg001.1st1K-grc1" workUrn="urn:cts:greekLit:tlg2058.tlg001">
-    <ti:label xml:lang="ger">Philostorgius Kirchengeschichte</ti:label>
-    <ti:description xml:lang="ger">Philostorgius, Kirchengeschichte, Bidez, Hinrich, 1913</ti:description>
-  </ti:edition>
+<ti:work xmlns:cpt="http://capitains.github.io/xmlns" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:dct="http://purl.org/dc/terms/" xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg2058" xml:lang="eng" urn="urn:cts:greekLit:tlg2058.tlg001">
+  <ti:title xml:lang="eng">Historia Ecclesiastica (Fragmenta Ap. Photium)</ti:title>
+  <ti:translation xml:lang="grc" urn="urn:cts:greekLit:tlg2058.tlg001.1st1K-grc1" workUrn="urn:cts:greekLit:tlg2058.tlg001">
+    <ti:label xml:lang="eng">Historia Ecclesiastica (Fragmenta Ap. Photium)</ti:label>
+    <ti:description xml:lang="mul">Philostorgius, Historia Ecclesiastica (Fragmenta Ap. Photium), Dr. Joseph Bidez, J. C. Hinrichs'Sche Buchhandlung, 1913</ti:description>
+    <cpt:structured-metadata>
+      <dc:creator xml:lang="eng">Philostorgius</dc:creator>
+      <dc:title xml:lang="eng">Historia Ecclesiastica (Fragmenta Ap. Photium)</dc:title>
+      <dc:contributor xml:lang="eng">Dr. Joseph Bidez</dc:contributor>
+      <dc:publisher xml:lang="eng">J. C. Hinrichs'Sche Buchhandlung</dc:publisher>
+      <dct:dateCopyrighted>1913</dct:dateCopyrighted>
+    </cpt:structured-metadata>
+  </ti:translation>
 </ti:work>

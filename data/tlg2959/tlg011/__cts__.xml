@@ -1,7 +1,14 @@
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg2959" xml:lang="grc" urn="urn:cts:greekLit:tlg2959.tlg011">
+<ti:work xmlns:cpt="http://capitains.github.io/xmlns" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:dct="http://purl.org/dc/terms/" xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg2959" xml:lang="eng" urn="urn:cts:greekLit:tlg2959.tlg011">
   <ti:title xml:lang="lat">In Genesim (In Catenis)</ti:title>
-  <ti:edition urn="urn:cts:greekLit:tlg2959.tlg011.opp-ger1" workUrn="urn:cts:greekLit:tlg2959.tlg011">
+  <ti:translation xml:lang="deu" urn="urn:cts:greekLit:tlg2959.tlg011.opp-ger1" workUrn="urn:cts:greekLit:tlg2959.tlg011">
     <ti:label xml:lang="lat">In Genesim (In Catenis)</ti:label>
-    <ti:description xml:lang="lat">Methodius, In Genesim (In Catenis), Bonwetsch, Hinrichs, 1917</ti:description>
-  </ti:edition>
+    <ti:description xml:lang="mul">Methodius, In Genesim (In Catenis), D.G. Nathanael Bonwetsch, J. C. Hinrichs'Sche Buchhandlung, 1917</ti:description>
+    <cpt:structured-metadata>
+      <dc:creator xml:lang="eng">Methodius</dc:creator>
+      <dc:title xml:lang="lat">In Genesim (In Catenis)</dc:title>
+      <dc:contributor xml:lang="eng">D.G. Nathanael Bonwetsch</dc:contributor>
+      <dc:publisher xml:lang="eng">J. C. Hinrichs'Sche Buchhandlung</dc:publisher>
+      <dct:dateCopyrighted>1917</dct:dateCopyrighted>
+    </cpt:structured-metadata>
+  </ti:translation>
 </ti:work>

@@ -1,7 +1,14 @@
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg0062" xml:lang="grc" urn="urn:cts:greekLit:tlg0062.tlg052">
+<ti:work xmlns:cpt="http://capitains.github.io/xmlns" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:dct="http://purl.org/dc/terms/" xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg0062" xml:lang="eng" urn="urn:cts:greekLit:tlg0062.tlg052">
   <ti:title xml:lang="lat">Abdicatus</ti:title>
-  <ti:edition urn="urn:cts:greekLit:tlg0062.tlg052.1st1K-grc1" workUrn="urn:cts:greekLit:tlg0062.tlg052">
+  <ti:translation xml:lang="grc" urn="urn:cts:greekLit:tlg0062.tlg052.1st1K-grc1" workUrn="urn:cts:greekLit:tlg0062.tlg052">
     <ti:label xml:lang="lat">Abdicatus</ti:label>
-    <ti:description xml:lang="mul">Lucianus, Abdicatus, Harmon, Harvard, 1962</ti:description>
-  </ti:edition>
+    <ti:description xml:lang="mul">Lucianus Samosatenus, Abdicatus, A. M. Harmon, Harvard University Press, 1962</ti:description>
+    <cpt:structured-metadata>
+      <dc:creator xml:lang="lat">Lucianus Samosatenus</dc:creator>
+      <dc:title xml:lang="lat">Abdicatus</dc:title>
+      <dc:contributor xml:lang="eng">A. M. Harmon</dc:contributor>
+      <dc:publisher xml:lang="eng">Harvard University Press</dc:publisher>
+      <dct:dateCopyrighted>1962</dct:dateCopyrighted>
+    </cpt:structured-metadata>
+  </ti:translation>
 </ti:work>

@@ -1,7 +1,14 @@
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg0530" xml:lang="grc" urn="urn:cts:greekLit:tlg0530.tlg032">
-  <ti:title xml:lang="eng">De theriaca ad Pamphilianum</ti:title>
-  <ti:edition urn="urn:cts:greekLit:tlg0530.tlg032.1st1K-grc1" workUrn="urn:cts:greekLit:tlg0530.tlg032">
-    <ti:label xml:lang="eng">De theriaca ad Pamphilianum</ti:label>
-    <ti:description xml:lang="eng">pseudo-Galen, De theriaca ad Pamphilianum</ti:description>
-  </ti:edition>
+<ti:work xmlns:cpt="http://capitains.github.io/xmlns" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:dct="http://purl.org/dc/terms/" xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg0530" xml:lang="eng" urn="urn:cts:greekLit:tlg0530.tlg032">
+  <ti:title xml:lang="eng">De Theriaca Ad Pamphilianum</ti:title>
+  <ti:translation xml:lang="grc" urn="urn:cts:greekLit:tlg0530.tlg032.1st1K-grc1" workUrn="urn:cts:greekLit:tlg0530.tlg032">
+    <ti:label xml:lang="eng">De Theriaca Ad Pamphilianum</ti:label>
+    <ti:description xml:lang="mul">Pseudo-Galen, De Theriaca Ad Pamphilianum, Karl Gottlob Kühn, Cnobloch, 1827</ti:description>
+    <cpt:structured-metadata>
+      <dc:creator xml:lang="eng">Pseudo-Galen</dc:creator>
+      <dc:title xml:lang="eng">De Theriaca Ad Pamphilianum</dc:title>
+      <dc:contributor xml:lang="eng">Karl Gottlob Kühn</dc:contributor>
+      <dc:publisher xml:lang="eng">Cnobloch</dc:publisher>
+      <dct:dateCopyrighted>1827</dct:dateCopyrighted>
+    </cpt:structured-metadata>
+  </ti:translation>
 </ti:work>

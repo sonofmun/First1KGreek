@@ -1,7 +1,14 @@
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg2959" xml:lang="grc" urn="urn:cts:greekLit:tlg2959.tlg005">
-  <ti:title xml:lang="lat">De Creatis (Fragmenta Ap. Photium, Bibl. Cod. 235)</ti:title>
-  <ti:edition urn="urn:cts:greekLit:tlg2959.tlg005.opp-grc1" workUrn="urn:cts:greekLit:tlg2959.tlg005">
-    <ti:label xml:lang="lat">De Creatis (Fragmenta Ap. Photium, Bibl. Cod. 235)</ti:label>
-    <ti:description>Methodius, De Creatis (Fragmenta Ap. Photium, Bibl. Cod. 235), Bonwetsch, Hinrichs, 1917</ti:description>
+<ti:work xmlns:cpt="http://capitains.github.io/xmlns" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:dct="http://purl.org/dc/terms/" xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg2959" xml:lang="eng" urn="urn:cts:greekLit:tlg2959.tlg005">
+  <ti:title xml:lang="eng">De Creatis (Fragmenta Ap. Photium, Bibl. Cod. 235)</ti:title>
+  <ti:edition xml:lang="eng" urn="urn:cts:greekLit:tlg2959.tlg005.opp-grc1" workUrn="urn:cts:greekLit:tlg2959.tlg005">
+    <ti:label xml:lang="eng">De Creatis (Fragmenta Ap. Photium, Bibl. Cod. 235)</ti:label>
+    <ti:description xml:lang="mul">Methodius, De Creatis (Fragmenta Ap. Photium, Bibl. Cod. 235), D.G. Nathanael Bonwetsch, J. C. Hinrichs'Sche Buchhandlung, 1917</ti:description>
+    <cpt:structured-metadata>
+      <dc:creator xml:lang="eng">Methodius</dc:creator>
+      <dc:title xml:lang="eng">De Creatis (Fragmenta Ap. Photium, Bibl. Cod. 235)</dc:title>
+      <dc:contributor xml:lang="lat">D.G. Nathanael Bonwetsch</dc:contributor>
+      <dc:publisher xml:lang="eng">J. C. Hinrichs'Sche Buchhandlung</dc:publisher>
+      <dct:dateCopyrighted>1917</dct:dateCopyrighted>
+    </cpt:structured-metadata>
   </ti:edition>
 </ti:work>

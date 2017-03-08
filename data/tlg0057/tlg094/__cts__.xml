@@ -1,7 +1,14 @@
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg0057" xml:lang="grc" urn="urn:cts:greekLit:tlg0057.tlg094">
-  <ti:title xml:lang="eng">Adversus ea quae Juliano in Hippocratis Aphorismos enuntiata sunt</ti:title>
-  <ti:edition urn="urn:cts:greekLit:tlg0057.tlg094.1st1K-grc1" workUrn="urn:cts:greekLit:tlg0057.tlg094">
-    <ti:label xml:lang="eng">Adversus ea quae Juliano in Hippocratis Aphorismos enuntiata sunt</ti:label>
-    <ti:description xml:lang="eng">Galen, Adversus ea quae Juliano in Hippocratis Aphorismos enuntiata sunt</ti:description>
-  </ti:edition>
+<ti:work xmlns:cpt="http://capitains.github.io/xmlns" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:dct="http://purl.org/dc/terms/" xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg0057" xml:lang="eng" urn="urn:cts:greekLit:tlg0057.tlg094">
+  <ti:title xml:lang="eng">Adversus Ea Quae Juliano In Hippocratis Aphorismos Enuntiata Sunt</ti:title>
+  <ti:translation xml:lang="grc" urn="urn:cts:greekLit:tlg0057.tlg094.1st1K-grc1" workUrn="urn:cts:greekLit:tlg0057.tlg094">
+    <ti:label xml:lang="eng">Adversus Ea Quae Juliano In Hippocratis Aphorismos Enuntiata Sunt</ti:label>
+    <ti:description xml:lang="mul">Galen, Adversus Ea Quae Juliano In Hippocratis Aphorismos Enuntiata Sunt, Karl Gottlob Kühn, Cnobloch, 1829</ti:description>
+    <cpt:structured-metadata>
+      <dc:creator xml:lang="eng">Galen</dc:creator>
+      <dc:title xml:lang="eng">Adversus Ea Quae Juliano In Hippocratis Aphorismos Enuntiata Sunt</dc:title>
+      <dc:contributor xml:lang="eng">Karl Gottlob Kühn</dc:contributor>
+      <dc:publisher xml:lang="eng">Cnobloch</dc:publisher>
+      <dct:dateCopyrighted>1829</dct:dateCopyrighted>
+    </cpt:structured-metadata>
+  </ti:translation>
 </ti:work>

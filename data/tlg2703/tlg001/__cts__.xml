@@ -1,7 +1,18 @@
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg2703" xml:lang="grc" urn="urn:cts:greekLit:tlg2703.tlg001">
-  <ti:title xml:lang="eng">Alexias</ti:title>
-  <ti:edition urn="urn:cts:greekLit:tlg2703.tlg001.opp-grclat1" workUrn="urn:cts:greekLit:tlg2703.tlg001">
-    <ti:label xml:lang="eng">Alexias</ti:label>
-    <ti:description xml:lang="eng">Anna Comnena, Alexias</ti:description>
+<ti:work xmlns:cpt="http://capitains.github.io/xmlns" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:dct="http://purl.org/dc/terms/" xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg2703" xml:lang="eng" urn="urn:cts:greekLit:tlg2703.tlg001">
+  <ti:title xml:lang="eng">Annae Comnenae</ti:title>
+  <ti:edition xml:lang="eng" urn="urn:cts:greekLit:tlg2703.tlg001.opp-grc1" workUrn="urn:cts:greekLit:tlg2703.tlg001">
+    <ti:label xml:lang="eng">Annae Comnenae</ti:label>
+    <ti:description xml:lang="mul">None, Annae Comnenae, Augustus Reifferscheidii, In Aedibus B. G. Teubneri, 1884</ti:description>
+    <cpt:structured-metadata>
+      <dc:creator xml:lang="eng">None</dc:creator>
+      <dc:title xml:lang="eng">Annae Comnenae</dc:title>
+      <dc:contributor xml:lang="lat">Augustus Reifferscheidii</dc:contributor>
+      <dc:publisher xml:lang="eng">In Aedibus B. G. Teubneri</dc:publisher>
+      <dct:dateCopyrighted>1884</dct:dateCopyrighted>
+    </cpt:structured-metadata>
   </ti:edition>
-<ti:edition urn="urn:cts:greekLit:tlg2703.tlg001.opp-grc1" workUrn="urn:cts:greekLit:tlg2703.tlg001"><ti:label xml:lang="eng">Alexias</ti:label><ti:description xml:lang="eng">Anna Comnena, Alexias</ti:description></ti:edition></ti:work>
+  <ti:edition urn="urn:cts:greekLit:tlg2703.tlg001.opp-grclat1" workUrn="urn:cts:greekLit:tlg2703.tlg001">
+    <ti:label xml:lang="lat">Corpus Scriptorum Historiae Byzantinae.</ti:label>
+    <ti:description xml:lang="lat">None, Corpus Scriptorum Historiae Byzantinae., Ludovicus Schopenus; B. G. Niebuhrii C.F., Impensis Ed. Weberi, 1839</ti:description>
+  </ti:edition>
+</ti:work>

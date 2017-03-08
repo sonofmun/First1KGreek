@@ -1,7 +1,14 @@
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg0732" xml:lang="grc" urn="urn:cts:greekLit:tlg0732.tlgX01">
+<ti:work xmlns:cpt="http://capitains.github.io/xmlns" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:dct="http://purl.org/dc/terms/" xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg0732" xml:lang="eng" urn="urn:cts:greekLit:tlg0732.tlgX01">
   <ti:title xml:lang="eng">In Aristotelis Sophisticos Elenchos Commentarius [Sp.]</ti:title>
-  <ti:edition urn="urn:cts:greekLit:tlg0732.tlgX01.opp-grc1" workUrn="urn:cts:greekLit:tlg0732.tlgX01">
+  <ti:edition xml:lang="eng" urn="urn:cts:greekLit:tlg0732.tlgX01.opp-grc1" workUrn="urn:cts:greekLit:tlg0732.tlgX01">
     <ti:label xml:lang="eng">In Aristotelis Sophisticos Elenchos Commentarius [Sp.]</ti:label>
-    <ti:description xml:lang="eng">Alexander of Aphrodisias, In Aristotelis Sophisticos Elenchos Commentarius [Sp.], Wallies, Reimer, 1898</ti:description>
+    <ti:description xml:lang="mul">Alexander Of Aphrodisias, In Aristotelis Sophisticos Elenchos Commentarius [Sp.], Maximilianus Wallies, Typis Et Impensis G. Reimeri, 1898</ti:description>
+    <cpt:structured-metadata>
+      <dc:creator xml:lang="eng">Alexander Of Aphrodisias</dc:creator>
+      <dc:title xml:lang="eng">In Aristotelis Sophisticos Elenchos Commentarius [Sp.]</dc:title>
+      <dc:contributor xml:lang="lat">Maximilianus Wallies</dc:contributor>
+      <dc:publisher xml:lang="eng">Typis Et Impensis G. Reimeri</dc:publisher>
+      <dct:dateCopyrighted>1898</dct:dateCopyrighted>
+    </cpt:structured-metadata>
   </ti:edition>
 </ti:work>

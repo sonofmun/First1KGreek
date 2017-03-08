@@ -1,7 +1,14 @@
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg4015" xml:lang="grc" urn="urn:cts:greekLit:tlg4015.tlg003">
-  <ti:title xml:lang="eng">In Aristotelis Analytica Posteriora Commentaria (Prooemium E</ti:title>
-  <ti:edition urn="urn:cts:greekLit:tlg4015.tlg003.opp-grc1" workUrn="urn:cts:greekLit:tlg4015.tlg003">
-    <ti:label xml:lang="eng">In Aristotelis Analytica Posteriora Commentaria (Prooemium E</ti:label>
-    <ti:description xml:lang="eng">Joannes Philoponus, In Aristotelis Analytica Posteriora Commentaria (Prooemium E</ti:description>
+<ti:work xmlns:cpt="http://capitains.github.io/xmlns" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:dct="http://purl.org/dc/terms/" xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg4015" xml:lang="eng" urn="urn:cts:greekLit:tlg4015.tlg003">
+  <ti:title xml:lang="eng">Commentaria In Aristotelem Graeca</ti:title>
+  <ti:edition xml:lang="eng" urn="urn:cts:greekLit:tlg4015.tlg003.opp-grc1" workUrn="urn:cts:greekLit:tlg4015.tlg003">
+    <ti:label xml:lang="eng">Commentaria In Aristotelem Graeca</ti:label>
+    <ti:description xml:lang="mul">None, Commentaria In Aristotelem Graeca, Maximillanus Wallies, Tyis Et Impensis Georgh Reimeri, 1909</ti:description>
+    <cpt:structured-metadata>
+      <dc:creator xml:lang="eng">None</dc:creator>
+      <dc:title xml:lang="eng">Commentaria In Aristotelem Graeca</dc:title>
+      <dc:contributor xml:lang="lat">Maximillanus Wallies</dc:contributor>
+      <dc:publisher xml:lang="eng">Tyis Et Impensis Georgh Reimeri</dc:publisher>
+      <dct:dateCopyrighted>1909</dct:dateCopyrighted>
+    </cpt:structured-metadata>
   </ti:edition>
 </ti:work>

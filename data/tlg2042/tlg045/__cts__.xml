@@ -1,7 +1,14 @@
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg2042" xml:lang="grc" urn="urn:cts:greekLit:tlg2042.tlg045">
-  <ti:title xml:lang="lat">Epistula ad Africanum</ti:title>
-  <ti:edition urn="urn:cts:greekLit:tlg2042.tlg045.1st1K-grc1" workUrn="urn:cts:greekLit:tlg2042.tlg045">
-    <ti:label xml:lang="lat">Epistula ad Africanum</ti:label>
-    <ti:description xml:lang="lat">Origenes, Epistula ad Africanum, Migne, PL, 1857</ti:description>
-  </ti:edition>
+<ti:work xmlns:cpt="http://capitains.github.io/xmlns" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:dct="http://purl.org/dc/terms/" xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg2042" xml:lang="eng" urn="urn:cts:greekLit:tlg2042.tlg045">
+  <ti:title xml:lang="eng">Epistula Ad Africanum</ti:title>
+  <ti:translation xml:lang="grc" urn="urn:cts:greekLit:tlg2042.tlg045.1st1K-grc1" workUrn="urn:cts:greekLit:tlg2042.tlg045">
+    <ti:label xml:lang="eng">Epistula Ad Africanum</ti:label>
+    <ti:description xml:lang="mul">None, Epistula Ad Africanum, Dd. Caroli Et Caroli Vincentii Delarue, Excudebatur Et Venit Apud J.-P. Migne Editorem, 1857</ti:description>
+    <cpt:structured-metadata>
+      <dc:creator xml:lang="eng">None</dc:creator>
+      <dc:title xml:lang="eng">Epistula Ad Africanum</dc:title>
+      <dc:contributor xml:lang="lat">Dd. Caroli Et Caroli Vincentii Delarue</dc:contributor>
+      <dc:publisher xml:lang="eng">Excudebatur Et Venit Apud J.-P. Migne Editorem</dc:publisher>
+      <dct:dateCopyrighted>1857</dct:dateCopyrighted>
+    </cpt:structured-metadata>
+  </ti:translation>
 </ti:work>

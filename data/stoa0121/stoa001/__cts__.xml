@@ -1,9 +1,14 @@
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:stoa0121"
-	xml:lang="grc" urn="urn:cts:greekLit:stoa0121.stoa001">
-	<ti:title xml:lang="eng">Breviarium historiae romanae</ti:title>
-	<ti:edition urn="urn:cts:greekLit:stoa0121.stoa001.opp-grc1"
-		workUrn="urn:cts:greekLit:stoa0121.stoa001">
-		<ti:label xml:lang="eng">Breviarium historiae romanae</ti:label>
-		<ti:description xml:lang="eng">Eutropius 4th cent, Breviarium historiae romanae</ti:description>
-	</ti:edition>
+<ti:work xmlns:cpt="http://capitains.github.io/xmlns" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:dct="http://purl.org/dc/terms/" xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:stoa0121" xml:lang="eng" urn="urn:cts:greekLit:stoa0121.stoa001">
+  <ti:title xml:lang="eng">Breviarium Historiae Romanae</ti:title>
+  <ti:edition xml:lang="eng" urn="urn:cts:greekLit:stoa0121.stoa001.opp-grc1" workUrn="urn:cts:greekLit:stoa0121.stoa001">
+    <ti:label xml:lang="eng">Breviarium Historiae Romanae</ti:label>
+    <ti:description xml:lang="mul">Eutropius, Breviarium Historiae Romanae, Hans Droysen, Weidmann, 1879</ti:description>
+    <cpt:structured-metadata>
+      <dc:creator xml:lang="eng">Eutropius</dc:creator>
+      <dc:title xml:lang="eng">Breviarium Historiae Romanae</dc:title>
+      <dc:contributor xml:lang="eng">Hans Droysen</dc:contributor>
+      <dc:publisher xml:lang="eng">Weidmann</dc:publisher>
+      <dct:dateCopyrighted>1879</dct:dateCopyrighted>
+    </cpt:structured-metadata>
+  </ti:edition>
 </ti:work>
