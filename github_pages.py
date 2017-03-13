@@ -235,7 +235,7 @@ def cmd():
     parser.add_argument('--head', default="./header.txt", help='The name of the file that contains the header for your HTML file.')
     parser.add_argument('--foot', default='./footer.txt',help='The name of the file that contains the footer for your HTML file.')
     parser.add_argument('--url_base', help='The string that will serve as the base URL for the links to the text files in the repository.')
-    parser.add_argument('--hook_results', default="./results.json", help='The location of the HookTest results JSON file.')
+    parser.add_argument('--hook_results', default="../results.json", help='The location of the HookTest results JSON file.')
     args = parser.parse_args()
     CreateHTML(**vars(args)).run_all()
 
