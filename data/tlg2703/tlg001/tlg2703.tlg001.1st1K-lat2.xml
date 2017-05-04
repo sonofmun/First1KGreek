@@ -1,0 +1,2604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader xml:lang="eng">
+  <fileDesc>
+   <titleStmt><title xml:lang="mul">Index Nominum et Rerum to Alexias</title>
+    <author xml:lang="lat">Augustus Reifferscheidii</author>
+    <sponsor>University of Leipzig</sponsor>
+    <funder>European Social Fund Saxony</funder>
+    <principal>Gregory Crane</principal>
+    <principal>Monica Berti</principal>
+    <meeting/>
+    <respStmt>
+     <persName>Gregory R. Crane</persName>
+     <resp>Editor-in-Chief, Perseus Digital Library</resp>
+    </respStmt>
+    <respStmt>
+     <persName xml:id="DDD">Digital Divide Data</persName>
+     <resp>Corrected and encoded the text</resp>
+    </respStmt>
+    <respStmt>
+     <persName>Matt Munson</persName>
+     <resp>Project Manager (University of Leipzig), 2016 - present</resp>
+    </respStmt>
+    <respStmt>
+     <persName>Annette Geßner</persName>
+     <resp>Project Assistant (University of Leipzig), 2015 - present</resp>
+    </respStmt>
+    <respStmt>
+     <persName>Thibault Clérice</persName>
+     <resp>Lead Developer (University of Leipzig)</resp>
+    </respStmt>
+    <respStmt>
+     <persName>Bruce Robertson</persName>
+     <resp>Technical Advisor</resp>
+    </respStmt>
+    <respStmt>
+     <persName>Greta Franzini</persName>
+     <resp>Project Manager (University of Leipzig), 2013-2014</resp>
+    </respStmt>
+    <respStmt>
+     <persName>Frederik Baumgardt</persName>
+     <resp>Technical Manager (University of Leipzig), 2013-2015</resp>
+    </respStmt>
+    <respStmt>
+     <persName>Simona Stoyanova</persName>
+     <resp>Project Manager (University of Leipzig), 2015</resp>
+     <resp>Project Assistant (University of Leipzig), 2013-2014</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>University of Leipzig</authority>
+    <idno type="filename">tlg2703.tlg001.opp-grc1.xml</idno>
+    <availability>
+     <p>Available under a Creative Commons Attribution-ShareAlike 4.0 International
+      License</p>
+    </availability>
+    <date>2014</date>
+    <publisher>University of Leipzig</publisher>
+    <pubPlace>Germany</pubPlace>
+   </publicationStmt>
+   <sourceDesc>
+    <listBibl>
+     <biblStruct>
+      <monogr>
+       <title xml:lang="lat">Annae Comnenae</title>
+       <editor>
+        <persName>
+         <name xml:lang="lat">Augustus Reifferscheidii</name>
+        </persName>
+       </editor>
+       <author ref="urn:cts:greekLit:tlg2703">Annae Comnenae</author>
+       <imprint>
+        <publisher>Teubner</publisher>
+        <pubPlace>Leipzig</pubPlace>
+        <date>1884</date>
+       </imprint>
+       <biblScope unit="volume">1</biblScope>
+      </monogr>
+      <ref target="https://books.google.de/books?id=_kgH6r0_bQ0C">Google Books</ref>
+     </biblStruct>
+    </listBibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <p>Text encoded in accordance with the latest EpiDoc standards (January 2014)</p>
+   <refsDecl n="CTS">
+    <cRefPattern n="paragraph" matchPattern="(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:p[@n='$1'])"/>
+   </refsDecl>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="lat">Latin</language>
+   </langUsage>
+  </profileDesc>
+  <revisionDesc>
+   <change/>
+  </revisionDesc>
+ </teiHeader>
+<text>
+<body>
+ <div type="commentary" subtype="index" xml:lang="lat" n="urn:cts:greekLit:tlg2703.tlg001.1st1K-lat2">
+<pb n="318"/>
+<head>INDEX NOMINVM ET RERYM</head>
+<p n="1">Aaron (Moysis frater) II 84, 30</p>
+<p n="2">Aaron Alexio insidiatur II 175,
+20 sqq. eius mater 178, 6</p>
+<p n="3">Abrilebo II 71, 5 Abydus II 36, 4 sqq. 117, 1.
+224, 29. 235, 31. 245, 10</p>
+<p n="4">academia II 18, 30. 58, 27. 260,
+11</p>
+<p n="5">Ace arx II 232, 29 sqq.</p>
+<p n="6">Achaei I 231, 5 Achilles I 36, 14. 231, 4</p>
+<p n="7">Achridiotae I 167, 31</p>
+<p n="8">Achrido I 138, 3</p>
+<p n="9">Achris, quae et Lychnitis, lacus
+II 172, 9</p>
+<p n="10">Achris locus I 152, 23. 155, 25</p>
+<p n="11">Achrides 165, 21. 167, 32</p>
+<p n="12">aciei Romanae nova forma II
+274, 25 sqq. 289, 9 sqq.</p>
+<p n="13">acontias (cometa) II 153, 22</p>
+<p n="14">Acrocus II 247, 15. 249, 19</p>
+<p n="15">Acronium II 285, 8 Acrunus II 236, 24</p>
+<p n="16">Adana II 140, 5. 218, 6</p>
+<p n="17">Admetus I 15, 30</p>
+<p n="18">Adonidis horti II 262, 29</p>
+<p n="19">Adralestus II 202, 10. 205, 3</p>
+<p n="20">Adrianopolis I 171, 18. 215, 2.
+224, 10. 226, 15. 228, 30 II
+62, 7 sqq. 70, 22 sqq. 256, 15</p>
+<p n="21">Adrianopolitani II 62, 8</p>
+<p n="22">Adrianus Comnenus Alexii frater
+I 103, 14. 228, 20. 236,
+10. 237, 6. 243, 22 II 10, 24. 23,
+14 sqq. 45, 22 sqq. 65, 26 sqq.</p>
+<p n="23">Adriani Dalasseni I 113, 16</p>
+<p n="24">Adriaticum mare I 8, 2. 54, 7.
+215, 6 II 18, 23. 58, 19. 74,
+5. 170, 10 sqq. 216, 20. 24.
+258, 16</p>
+<p n="25">Aegaeum mare I 18, 1</p>
+<p n="26">Aegiali II 244, 14. 265, 21</p>
+<p n="27">Aeginus II 25, 22</p>
+<p n="28">Aegyptium mare I 18, 3</p>
+<p n="29">Aegyptius Alexandrinus astrologus
+I 200, 26 sqq.</p>
+<p n="30">Aegyptus I 174,1. 214, 27. 222,
+15. 243, 11 II 293 16</p>
+<p n="31">Aeliani tactice II 274, 27</p>
+<p n="32">Aemilius Romanus I 11, 3</p>
+<p n="33">Aenus II, 8, 6 sqq. 256, 17</p>
+<p n="34">Aer Malagnorum II, 267, 8 sqq. aerarium imperatorium exhaustum
+I 118, 17. 156, 4</p>
+<p n="35">Aeschines orator I 76, 5</p>
+<p n="36">Aethiopia II 293, 18</p>
+<p n="37">Aethiops II 43, 29</p>
+<p n="38">Aeti thema II 219, 21</p>
+<p n="39">Agamemno I 233, 15</p>
+<p n="40">Agareni I 65, 29. 102, 17. II
+74, 22. 113, 2. 120, 10. 121,
+3. 11. 123, 31</p>
+<p n="41">Agathonice II 71, 4</p>
+<p n="42">Agelaus I 151, 20 aguri I 247, 17</p>
+<p n="43">Aiax II 85, 10 Aiaces II 90, 2</p>
+<pb n="319"/>
+<p n="44">Alacaseus II 66, 23 sqq.</p>
+<p n="45">Alamaniae rex v. Henricus</p>
+<p n="46">Alani II 24, 3. 193, 10 sqq. Alanus
+quidam 268, 27 Alanus
+magister I 66, 31</p>
+<p n="47">Albertes regis Alamaniae fidelis
+Ι 122, 11</p>
+<p n="48">Alcestis Admeti uxor Ι 15, 30</p>
+<p n="49">Alcibiades Ι 213, 16. 25</p>
+<p n="50">Alethina II 247, 14</p>
+<p n="51">Alexander (Paris) Ι 31, 27</p>
+<p n="52">Alexander Cabalica Ι 251, 24</p>
+<p n="53">Alexander Cabasilas Ι 138, 1
+II 189, 31. 190, 5. 196, 4</p>
+<p n="54">Alexander Euphorbenus Ι 220,
+21 sqq. II 31, 19. 168, 22.
+196, 27</p>
+<p n="55">Alexander Magnus Ι 8, 23. 243,
+9 II 39, 17. 293, 15</p>
+<p n="56">Alexanderia Aegypti Ι 243, 11
+II 293, 17 Alexandrinorum
+logica Ι 200, 31</p>
+<p n="57">Alexandria Indica I 243, 11</p>
+<p n="58">Alexandrinus astrologus Ι 200,
+26 sqq.</p>
+<p n="59">Alexiopolis urbs quae et Neocastrum
+II 262, 25</p>
+<p n="60">Alexius Comnenus imp. ubique</p>
+<p n="61">Alexius Isaacii sebastocratoris
+filius Dyrrachii dux II 154,
+23. 166, 3. 172, 24 sqq. 181,
+25 sqq. 184, 23 sqq. 198, 14.
+200, 23 sqq. 205, 29</p>
+<p n="62">Alexius Armenius dux Coryphus
+II 141, 28 sqq. 143, 22</p>
+<p n="63">Aliphas Petri pater Ι 147, 9</p>
+<p n="64">Allage locus Ι 172, 5</p>
+<p n="65">Alopus Mitylenensis curator Ι
+248, 12
+alumni ecclesiae Constantionpolitanae
+II 217, 28</p>
+<p n="66">Alyates II 190, 28 sqq.</p>
+<p n="67">Amalphae episcopus II 221, 17.
+23</p>
+<p n="68">Amalpheni Ι 199, 12</p>
+<p n="69">Amasea Ι 12, 21 II 128, 15</p>
+<p n="70">Amaseni Ι 13, 20</p>
+<p n="71">Amastris II 236, 24</p>
+<p n="72">Amer v. Apelchasem. Muhumet.
+Puzanus. Saisan. Solymas</p>
+<p n="73">Amerae oppidulum II 219, 13
+ameras Ι 247, 30</p>
+<p n="74">Amerimnes Babylonis princeps
+II 123, 28 sqq.</p>
+<p n="75">Amicetes comes Ι 144, 10. 145,
+13. 147, 9. 13</p>
+<p n="76">Amorium II 276, 4. 277, 28</p>
+<p n="77">Ampelas Romanorum dux II
+247, 26. 248, 23 sqq.</p>
+<p n="78">Amphion et zethus Ι 129, 3</p>
+<p n="79">Amphipolis Ι 34, 10</p>
+<p n="80">amphorae pice impletae II 232,
+6 naphthae plenae 232, 10</p>
+<p n="81">Ampus II 284, 8</p>
+<p n="82">Amyntas II 256, 18</p>
+<p n="83">Anabarza II 218, 6</p>
+<p n="84">Anastasius Dicurus II 72, 28</p>
+<p n="85">Anchialus 1 208, 17. 215, 2 II
+61, 11 sqq. 66, 20. 69, 5.
+178, 8</p>
+<p n="86">Ancyra II 128, 8
+8. Andreae monasterium in
+Longibardia in Brundisii insula
+situm II 221, 20</p>
+<p n="87">Andronia Ι 169, 23</p>
+<p n="88">Andronicus Comnenus porphyrogenitus</p>
+<p n="89">Annae frater II
+282, 7 sqq.</p>
+<p n="90">Andronicus Iohannis Ducae
+filius pater Irenes Ι 100, 31</p>
+<p n="91">Andronicus Tzintziluces II 125,
+9. 126, 25. 127, 6</p>
+<p n="92">Andronici Ι 101, 1</p>
+<p n="93">Anelius II 155, 27</p>
+<p n="94">Anemas v. Michael. Leo.</p>
+<p n="95">Anemades fratres II 158, 3 sqq.</p>
+<p n="96">Angelocomites fluvius II 245, 9</p>
+<p n="97">Anna Comnena Alexii et Irenes
+filia Ι 3, 10 sqq. 94, 31. 203,
+2 sqq. 216, 15. 217, 19 II 162,
+6. 306, 14 sqq. 310, 15 sqq.
+312, 9 sqq. 314, 22 sqq. 315,
+27 sqq. de historia sua II
+
+<pb n="320"/>
+252, 8 sqq. 273, 7 sqq. 305,
+7 sqq. de studiis suis II 294,
+13 sqq.</p>
+<p n="98">Anna Dalassena Alexii Comneni
+mater Ι 9, 13. 67, 7. 69,
+13 sqq. 95, 16. 96, 1. 22. 97,
+7. 99, 14 sqq. 105, 17. 107,
+1 sqq. 108, 1 sqq. 117, 18.
+137, 15. 156, 26. 201, 23 II
+23, 9. 68, 33</p>
+<p n="99">Anna Georgii Palaeologi uxor
+Ι 74, 8</p>
+<p n="100">Antaradus II 125, 16 strategis
+218, 11</p>
+<p n="101">Antarto strategis II 218, 12</p>
+<p n="102">Anthelius II 155, 22 sqq.</p>
+<p n="103">Antiocheni II 112, 19. 130, 26</p>
+<p n="104">Antiochia Ι 5, 20. 58, 10. 206,
+2 sqq. 216, 14 II 59, 2 sqq.
+65, 2. 109, 25. 110, 29. 112,
+12 sqq. 116, 18. 12.3, 29. 130,
+6 sqq. 133, 10. 139, 30. 140,
+12 sqq. 143, 17. 144, 7. 146,
+24. 147, 21. 208, 16. 215, 25.
+216, 29. 227, 16 sqq. Antiochiae
+ducatus 218, 1. 13. 219,
+1 ecclesia 217, 25 sqq. patriarcha
+217, 26 sqq.</p>
+<p n="105">Antiochus Ι 138, 1 II 10, 18</p>
+<p n="106">Antiochi II 158, 9. 159, 27</p>
+<p n="107">Antiphonetae secretum Ι 191,
+12</p>
+<p n="108">Aorata II 245, 19 sqq.</p>
+<p n="109">Apelchasem Turca 1 205, 19 sqq.
+217, 6. 247, 30 Amer Apelchasem
+216, 10</p>
+<p n="110">Apelles Ι 97, 26</p>
+<p n="111">Aphrodite II 75, 12
+apocrisiarii II 221, 29. 31</p>
+<p n="112">ΑροΙΙο II 89, 23 eius statua
+155, 21</p>
+<p n="113">Apollonias Ι 220, 16 sqq. II,
+244, 24
+apostoloram principum dies
+festus II 53, 6</p>
+<p n="114">Apros urbs Ι 247, 6. 8 II 95, 14</p>
+<p n="115">Apulia Ι 49, 8. 30. 54, 9. 13.
+128,29. 131,12. 132,12. 198,27</p>
+<p n="116">Apuli II 171, 19</p>
+<p n="117">Arabes II 123, 32</p>
+<p n="118">Arabia I 218, 7 II 234, 21</p>
+<p n="119">Aramisus castrum II 219, 12</p>
+<p n="120">Arbanitae Ι 202, 17</p>
+<p n="121">Arbanum II 190, 4 sqq.</p>
+<p n="122">Arbani Ι 153, 5
+archontopuli I 246, 15 sqq.</p>
+<p n="123">Aretae I 82, 22</p>
+<p n="124">Argonautae II 170, 15</p>
+<p n="125">Argyra Limne II 87, 10</p>
+<p n="126">Argyrocastrum II 138, 13</p>
+<p n="127">Argyrus Caratzas Scytha hetaeriarcha
+II 20, 2 sqq. Caratzas
+Sarmata Ι 236, II
+Scytha II, 71, 13</p>
+<p n="128">Ariebes Armenius Ι 168, 1 II
+19, 2
+arietaria estudo quomodo fuerit
+extructa II 180, 24</p>
+<p n="129">Aristerium in palatio Constantinopolitano
+II 250, 16</p>
+<p n="130">Aristophanes poeta Ι 30, 25</p>
+<p n="131">Aristoteles Ι 182, 28 II 158, 20.
+175, 8. 186, 10 eius artes Ι
+3, 14. 181, 12 libri 179, 19
+Organum 181, 12</p>
+<p n="132">Armenia Ι 205, 27. 258, 5 Armeniacum
+thema II 141, 28</p>
+<p n="133">Armenicae terrae II 213, 16</p>
+<p n="134">Armeniacus Ι 13, 5 II 128, 7.
+129, 8</p>
+<p n="135">Armenii Ι 67, 15 II 19, 2. 46,
+12. 132, 10. 146, 21. 147, 2.
+217, 11 haeretici II 57, 10 sqq.
+257, 7. 259, 9 Armenius quidam
+II 112, 21</p>
+<p n="136">Armenocastrum II 274, 21</p>
+<p n="137">Aronii II 175, 21</p>
+<p n="138">Artach strategis II 217, 6</p>
+<p n="139">Arsaces Armenius haereticus
+II 57, 12</p>
+<p n="140">Arsacidae II 148, 15</p>
+<p n="141">Asan archisatrapa II 111, 25.
+225, 21 sqq.</p>
+
+<pb n="321"/>
+<p n="142">Asan Catuch satrapa II 287, 21</p>
+<p n="143">Asclepiadae id est medici II
+310, 10 sqq.</p>
+<p n="144">Asia Ι 58, 8. 81, 12. 102, 17.
+157, 20. 205, 24. 208, 19. 25.
+216, 12. 14. 251, 23 II 74, 7.
+12. 144, 6. 154, 25. 190, 1.
+209, 10. 212, 5. 227, 22. 235,
+16. 248, 16. 258, 4. 264, 4.
+23. 270, 14. 277, 7. 11. 285,
+6. 305, 4 proprie vocata II
+237, 18</p>
+<p n="145">Ason II 82, 7</p>
+<p n="146">Aspietes Ι 147, 3</p>
+<p n="147">Aspietes Armenius II 146,20 sqq.</p>
+<p n="148">Asprae Ecclesiae Ι 168, 9. 20</p>
+<p n="149">Asprum Ι 257, 20</p>
+<p n="150">Assyrii II 160, 3</p>
+<p n="151">Assyriae mulieres Ι 101, 10</p>
+<p n="152">Astaroth II 75, 13</p>
+<p n="153">Astarte II 75, 12
+astrologia Ι 200, 3 sqq.</p>
+<p n="154">Atapacas Damasci II 125, 17 sqq.</p>
+<p n="155">Athanati Ι 18, 6. 20, 21. 84,
+17 sqq. II 35, 5</p>
+<p n="156">Athena Ι 101, 18. 20. 145, 22
+II 152, 9</p>
+<p n="157">Athenae I 201, 13. 213, 18. 23</p>
+<p n="158">Athenienses Ι 213, 19</p>
+<p n="159">Ather Cephaleniae promunturium
+Ι 198, 2 sqq.</p>
+<p n="160">Athyras Ι 77, 17 II 86, 30</p>
+<p n="161">Atlanticum mare Ι 8, 2</p>
+<p n="162">Atramytium II, 224, 30 sqq.
+235, 6. 245, 10</p>
+<p n="163">Atreus Ι 233, 15</p>
+<p n="164">Attalia II 131, 15. 224, 7 sqq.</p>
+<p n="165">Attici (grammatici) II 294, 6</p>
+<p n="166">Augustopolis II 112, 4. 285, 7</p>
+<p n="167">Aulon Ι 49, 1. 50, 9 sqq. 126,
+27. 30. 132, 26. 137, 3. 161,
+19. 177, 1. 187, 7. 11. 193, 6,
+194, 12 sqq. II 75, 32. 81, 31.
+168, 29 sqq. 189, 30. 194, 17.
+197, 11</p>
+<p n="168">Azalae mons II 108, 6</p>
+<p n="169">Baane lacus II 72, 23</p>
+<p n="170">Babagora I 158, 24</p>
+<p n="171">Babylon II 123, 28 sqq. 303, 30.</p>
+<p n="172">Babylonii II 124, 12 sqq.</p>
+<p n="173">Babylonii muri II 199,27. 228, 27</p>
+<p n="174">Babylonius (sultanus) II 144,
+4 sqq.</p>
+<p n="175">Baccheni consobrinus II 164, 3</p>
+<p n="176">Bacchus II, 75, 8. 9 eius columnae
+Ι 214, 25</p>
+<p n="177">Baga 1 206, 24</p>
+<p n="178">Bagelardus Ι 121, 29</p>
+<p n="179">Bagenetia Ι 163, 23</p>
+<p n="180">Baïmuntus v. Boëmundus</p>
+<p n="181">Balabista II 155, 14</p>
+<p n="182">Balanei castrum II 125, 10 strategatum
+218, 11</p>
+<p n="183">Balduinus comes II 94, 6. 12.
+124, 10 sqq. 127, 19 sqq. 229,
+13 sqq. 236, 9 sqq.</p>
+<p n="184">Barangia Ι 236, 20</p>
+<p n="185">Barangi Thule oriundi Ι 84,
+19 sqq. 118, 16. 141, 25. 144,
+18. 145, 29 II 50, 26. 161, 1</p>
+<p n="186">Barcinonis comes 1 44, 16</p>
+<p n="187">Bardales II 124, 28</p>
+<p n="188">Bardares Ι 165, 24. 168, 8</p>
+<p n="189">Bardarius fl. 1 28, 20</p>
+<p n="190">Bardas II 131, 5 sqq. idem fortasse
+atque qui sequitur</p>
+<p n="191">Bardas Burtzes Burtzae nepos
+II, 276, 27 sqq.</p>
+<p n="192">Barenus fl. II 245, 6</p>
+<p n="193">Bari Ι 128, 24 II 80, 19. 170, 22</p>
+<p n="194">Basilacius Ι 27, 14 sqq.</p>
+<p n="195">Basilacius v. Georgius Basilacius</p>
+<p n="196">Basilacii fons Ι 34, 15</p>
+<p n="197">Basilia Ι 209, 23</p>
+<p n="198">Basilica II 247, 12</p>
+<p n="199">Basilius porphyrogenitus imp.
+Ι 177, 29 II 103, 24. 172, 11.
+305, 2</p>
+<p n="200">Basilius Byzantii eparchus II
+154, 1</p>
+<p n="201">Basilius Curticius Iohannaces
+cognomine Ι 33, 2. 171, 16.
+
+<pb n="322"/>
+217, 29. 228, 6. 236, 20. 263,
+15 II 18, 16</p>
+<p n="202">Basilius monachus Bogomilorum
+antistes II 295, 14 sqq.</p>
+<p n="203">Basilius nobilissimus eunuchus
+II 222, 1</p>
+<p n="204">Basilius Psyllus eunuchus II
+176, 17 sqq.</p>
+<p n="205">Bathys Rhyax II, 6, 30</p>
+<p n="206">Beliatoba I 192, 15 sqq. 223, 4.
+18. 225, 10</p>
+<p n="207">Bembetziotes Ι 227, 10</p>
+<p n="208">Beneventum Ι 46, 20. 22</p>
+<p n="209">Beroë Ι 240, 6. 241, 28. 243, 23
+II 61, 14</p>
+<p n="210">Beroites dux Romanorum II
+194, 20</p>
+<p n="211">Berroea Macedoniae Ι 28, 23.
+168, 4</p>
+<p n="212">Berroea quae et Chalep II 219,
+9 v. Chalep</p>
+<p n="213">Betrinum Ι 236, 1</p>
+<p n="214">Bidyne II 261, 1</p>
+<p n="215">Bigla Ι 197, 14</p>
+<p n="216">Bithynia Ι 7, 1. 123, 22. 125,
+7. 205, 12. 212, 20 sqq. II 72,
+5. 11</p>
+<p n="217">Bithyni Ι 125, 24. 209, 3. 210,
+15. 22. II 101, 8. 268, 21.
+270, 21. 271, 2</p>
+<p n="218">Bitzina fluvius Ι 233, 17</p>
+<p n="219">Bitzina urbs Ι 222, 30</p>
+<p n="220">Blachernarum palatium Ι 70, 6
+73, 14. 189, 22 II 163, 23 in</p>
+<p n="221">Blachernis aedes deiparae Ι
+72, 30. 74,15 II 174, 16 sqq.</p>
+<p n="222">Blachernites haereticus II 57, 31</p>
+<p n="223">Blachi v. Vlachi</p>
+<p n="224">Blisnus Ι 224, 20</p>
+<p n="225">Bodina Ι 168, 5</p>
+<p n="226">Bodinus Dalmatarum exarchus
+Ι 57, 6 sqq. 125, 28. 141, 19.
+148, 3. 202, 18. 252, 26. 253,
+2 II 19, 11</p>
+<p n="227">Boditza v. Bontitza</p>
+<p n="228">Boëmundus Saniscus Roberti f.
+I 50 ,,3. 17. 52, 19. 126, 29. 127,
+1. 133,28sqq. 144, 11. 161,3 sqq.
+163, 12 sqq. 193, 6 sqq. 205, 16
+II, 76, 18. 79, 8.81, 16.86,18.87,
+1. 93, 27. 95, 13 sqq. 101, 1. 109,
+28 sqq. 1 12, 21 sqq. — 123, 15.
+126, 25. 130, 2 sqq. 135, 6 sqq.
+137, 30 sqq. 140, 7 sqq. 143,
+1 sqq. 152, 3. 20. 154, 16 sqq.
+157, 29. 165, 29 sqq. 175, 13.
+179, 5 sqq. 206, 26 sqq. —
+222, 4. 223, 3. 224, 2. 227, 15</p>
+<p n="229">Boëmundi consobrinus quidam
+II 134, 28 sqq.</p>
+<p n="230">Boëmundi patruelis quidam II
+195, 20</p>
+<p n="231">Boeoti II 81, 24</p>
+<p n="232">Bogomili II 257, 8. 294, 31 sqq.</p>
+<p n="233">Bolcanus Ι 252, 31 II 20, 10 sqq.
+37, 5 sqq. 53, 16 sqq. 155, 5</p>
+<p n="234">Bolcanus Stephanus Dalmata
+II 53, 29</p>
+<p n="235">Bolissus oppidulum in Chio insula
+Ι 251, 7 sq. 253, 24</p>
+<p n="236">Bontitza Ι 197, 30</p>
+<p n="237">Boreum clima 214, 30 Boreus
+polus ibid.</p>
+<p n="238">Borilus Scytha 1 27, 10. 54, 21.
+55, 7 sqq. 58, 23 sqq. 65, 7
+sqq. 66, 27 sqq. 91, 28. 92, 27</p>
+<p n="239">Boritylas Roberti frater Ι 49, 31</p>
+<p n="240">Borze strategis II 217, 4</p>
+<p n="241">Bosporus, quae nunc Damalis
+1 123, 23. 125, 5. 205, 12. 215, 1</p>
+<p n="242">Botaniates ν. Nicephorus Botaniates</p>
+<p n="243">Botaniates imperatoris Botaniatae
+nepos Ι 69, 29 sqq.</p>
+<p n="244">Bothrentum v. Buthrontum</p>
+<p n="245">Boüsa II 81, 20</p>
+<p n="246">Branas v. Nicolaus Branas</p>
+<p n="247">Branea II 39, 12</p>
+<p n="248">Brentesium v. Brundisium
+brevia Ι 189, 29</p>
+<p n="249">Brundisium Ι 50, 26. 51,12. 53,
+17. 29. 54, 5. 126, 1. 128, 17.
+194, 17 Brundisii insula II
+221, 20</p>
+
+<pb n="323"/>
+<p n="250">Bryennius v. Nicephorus Bryennius</p>
+<p n="251">Bryennius comes Latinus Ι 172,
+28 sqq. 177, 7. 185, 1 sqq. 193,
+8. 202, 26</p>
+<p n="252">Brysis Carycei II 265, 29</p>
+<p n="253">Bucephale Mediae urbs ab
+Alexandro condita II 293, 17</p>
+<p n="254">Bucoleon superior palatii pars
+Ι 95, 21. 26</p>
+<p n="255">Bulchardus comes Ι 121, 23.
+122, 14</p>
+<p n="256">Buleuterium Scytharum Ι 233,
+23</p>
+<p n="257">Bulgariae archiepiscopus II 19,
+21</p>
+<p n="258">Bulgarophygum Ι 246,9. 263, 8</p>
+<p n="259">Bulgari I 74, 9. 235, 12 II 8,
+11. 10, 14 Bulgarica dynastia
+I 235, 13</p>
+<p n="260">Buranitzo be II 256, 8</p>
+<p n="261">Burtzes Ι 119, 5. 276, 26 eius
+oppida II 276, 24. 278, 10</p>
+<p n="262">Burtzes v. Bardas Burtzes</p>
+<p n="263">Buses fl. II 191, 29. 192, 16.
+194, 4</p>
+<p n="264">Buthrotum Ι 126, 28. 194, 14
+sqq. 196, 32</p>
+<p n="265">Butumites v. Manuel Butumites</p>
+<p n="266">Byzantius quidam Ι 75, 24 sqq.</p>
+<p n="267">Cabalica v. Alexander Cabalica</p>
+<p n="268">Cabailio II 81, 18. 82, 7</p>
+<p n="269">Cabasilas v. Alexander
+Cabasilas</p>
+<p n="270">Cace Pleura Ι 148, 24</p>
+<p n="271">Cadmea victoria II 250, 3. 261,
+28 Cadmeum proverbium de
+periculosa victoria 272, 10</p>
+<p n="272">Caesaris insignia Ι 81, 29</p>
+<p n="273">Caesaropolis II 49, 19. 30</p>
+<p n="274">Cala dendra II 17, 21 sqq.</p>
+<p n="275">Calathades II 65, 9</p>
+<p n="276">Calaure Ι 19, 16</p>
+<p n="277">Calliae monasterium Ι 104, 9</p>
+<p n="278">Callicles v. Nicolaus Callicles</p>
+<p n="279">Callinice Pauli et Iohannis mater
+II 258, 1</p>
+<p n="280">Calliope Homeri Ι 260, 17 II
+253, 7</p>
+<p n="281">Calliopolis II 239, 4</p>
+<p n="282">Calliparius II 34, 29</p>
+<p n="283">Caltzierin castrum II 219, 16</p>
+<p n="284">Camaterus v. Gregorius
+Camaterus</p>
+<p n="285">Camyres Turcarum dux I 168, 03</p>
+<p n="286">Camyres Turca II 69, 3</p>
+<p n="287">Camytzes v. Eustathius Camytzes</p>
+<p n="288">Canina, Ι 50, 11 II 189, 30. 192,
+27. 194, 18</p>
+<p n="289">canones de alienanda ecclesiarum
+supellectile Ι 157, 16.
+158, 5</p>
+<p n="290">Cantacuzenus II 62, 3. 132, 4. 137,
+3 sqq. 146, 14. 191, 12 sqq.
+cantilenae vulgares Ι 69, 1. 240,
+5 II 15, 28. 161, 27</p>
+<p n="291">Cantzus Ι 254, 6</p>
+<p n="292">Cappadocia Ι 119, 5. 208, 25.
+30 II 225, 22</p>
+<p n="293">Capua Ι 120, 17</p>
+<p n="294">Carambis II 25, 23</p>
+<p n="295">Caras II 190, 23</p>
+<p n="296">Caratzas v. Argyrus Caratzas</p>
+<p n="297">Carme II 248, 12 sqq.</p>
+<p n="298">Carpathus II 33, 5</p>
+<p n="299">Carpiani locus 1 79, 10</p>
+<p n="300">Caryces II 33, 2 sqq.</p>
+<p n="301">Casiotdis Thema, cuius metropolis
+Berroea quae et</p>
+<p n="302">Chalep II 219, 8</p>
+<p n="303">Caspax II 117, 2 sqq.</p>
+<p n="304">Cassopae portus Ι 195, 6. 9</p>
+<p n="305">Castamonites v. Nicetas Castamonites</p>
+<p n="306">Castoria urbs Ι 168, 20. 23. 169,
+5, 176, 13. 31. 177, 8. 185,
+1 sqq.</p>
+<p n="307">Castoriae lacus Ι 185, 7</p>
+<p n="308">Catacalo Chomatenis et Turcis
+in Alexii exercitu praeest Ι
+20, 23. 21, 23</p>
+
+<pb n="324"/>
+<p n="309">Catacalo v. Cecaumenus Catacalo.
+Constantinus Euphorbenus
+Catacalo. Tarchaniotes
+Catacalo</p>
+<p n="310">Catanances Atheniensis astrologus
+Ι 201, 8 sqq.</p>
+<p n="311">Catarodon Camytzae patruelis
+II 246, 19</p>
+<p n="312">Cathismatin II 219, 17</p>
+<p n="313">Catranes Ι 254, 6</p>
+<p n="314">Catuch v. Asan Catuch</p>
+<p n="315">Caucae locus II 216, 32</p>
+<p n="316">Cecaumenus v. Michael Cecaumenus</p>
+<p n="317">Cecaumenus Catacalo II 49, 18.
+53, 4</p>
+<p n="318">Cedocti campi Ι 18, 20</p>
+<p n="319">Cedrea II 276, 12 sqq. Cedri
+oppidum 276, 2</p>
+<p n="320">Celbianum II 226, 18. 25. 237,21</p>
+<p n="321">Cellia II 266, 25</p>
+<p n="322">Celliorum mons Ι 169, 20</p>
+<p n="323">Celtae v. Galli</p>
+<p n="324">Celtiberi II 170, 28</p>
+<p n="325">Centum Colles Ι 242, 22</p>
+<p n="326">Cephalas v. Leo Cephalas</p>
+<p n="327">Cephalenia Ι 197, 28 sqq. II
+132, 26</p>
+<p n="328">Cerbianum v. Celbianum</p>
+<p n="329">Cerynea v. Cyrenea</p>
+<p n="330">Chalcedon Ι 158, 14. 159, 23.
+240, 12</p>
+<p n="331">Chalcedonensis synodus Ι 46, 4</p>
+<p n="332">Chalcopratia Ι 158, 17. 191, 16</p>
+<p n="333">Chaldaei Ι 178, 17 II 257, 28
+Chaldia II 23, 20</p>
+<p n="334">Chalep Ι 206, 23. 27 II 219, 10.
+264, 5 v. Berroea</p>
+<p n="335">Chales Scytha Ι 222, 26</p>
+<p n="336">Chalintzes v. Nicetas Chalintzes</p>
+<p n="337">Chalybes II 258, 4</p>
+<p n="338">Cham Noë f. Ι 4, 23</p>
+<p n="339">Charatices Ι 206, 19. 208, 4 sqq.
+215, 30</p>
+<p n="340">Chariopolis Ι 227, 7 sqq. 246, 8.
+247, 5</p>
+<p n="341">Charones Ι 113, 17</p>
+<p n="342">Charsiae porta Ι 87, 11</p>
+<p n="343">Charzanes fl. Ι 140, 19. 148, 25.
+152, 23 II 192, 19</p>
+<p n="344">Chasii Ι 218, 11. 25. 219, 30</p>
+<p n="345">Chele II 72, 14</p>
+<p n="346">Cherronesus II 7, 18. 234, 24
+sqq. 239, 2</p>
+<p n="347">Cherson II 59, 32</p>
+<p n="348">Chimara II 81, 33. 168, 32 sqq.</p>
+<p n="349">Chius Ι 248, 24 sqq. II, 116, 11</p>
+<p n="350">Chlempian vicus Ι 34, 12</p>
+<p n="351">Chliara II 226, 20. 235, 10. 245,
+11</p>
+<p n="352">Chobar aurea II 75, 15</p>
+<p n="353">Choereni II 8, 31. 9, 6. 17, 22</p>
+<p n="354">choerobacchi II 2 sqq. 175, 1.
+178, 7</p>
+<p n="355">Choerosphactes Ι 120, 29</p>
+<p n="356">Choma Ι 18, 8. 92, 5. 93, 11.
+18,14. 119,6. 124,3 II 119,8</p>
+<p n="357">Chomateni Ι 20, 21. 21, 23</p>
+<p n="358">chonii castrum II 219, 12</p>
+<p n="359">Chorasan v. Chorosan</p>
+<p n="360">Chorosan Ι 218, 4. 219, sqq. II
+112, 17 sqq. 119, 30 sqq. 126,
+17. 127, 31. 129, 12. 130,26.
+237, 16. 239, 10. 264, 5. 288, 19</p>
+<p n="361">Chortarea clisura Zygi II 61, 20</p>
+<p n="362">Christopolis II 41, 26. 45, 10</p>
+<p n="363">Cibotus II 101, 2. 9. 128, 7. 244,
+15. 18. 265, 20 sqq.</p>
+<p n="364">Cilicia II 131, 3 sqq. 140, 6. 146,
+27 sqq. 218, 7</p>
+<p n="365">Cilices Ι 6, 27 sqq. 18, 2</p>
+<p n="366">Cissabus mons Ι 169, 22</p>
+<p n="367">Citzes Comanorum dux II 69, 8</p>
+<p n="368">Cius Ι 210, 22 II 105, 14. 269,
+28</p>
+<p n="369">Clareles v. Guilelmus Clareles</p>
+<p n="370">clavi Christi II 220, 24</p>
+<p n="371">Clazomenae Ι 248, 9</p>
+<p n="372">clisura Libotanii Ι 172, 4. 10</p>
+<p n="373">clisura Sidera i. e. Ferrea Ι 226,
+13. 233, 16 II 71, 26 sqq.</p>
+<p n="374">clisurae Ι 175, 2. 229, 6. 244,
+20 sqq. II 60, 17. 62, 29. 198,
+
+<pb n="325"/>
+25 sqq. ad Arbanum sitae
+190,4 Zygi 61,21</p>
+<p n="375">Clitziasthlan Solymae sultani
+filius natu maior primum
+Nicaeae tum Iconii sultanus Ι
+219, 6 II 35, 21 sqq. 111, 30.
+264, 10 sqq. 281, 21 sqq. 282,
+27 Saisan ab Anna nominatur
+inde 9, 286, 6. 286, 12 sqq.</p>
+<p n="376">Cnidus II 133, 23</p>
+<p n="377">Coelorum portus II 235, 19</p>
+<p n="378">Coelesyria II 146, 14. 216, 29</p>
+<p n="379">Colonea II 164, 28</p>
+<p n="380">Comani Ι 234, 16. 242, 2 sqq.
+119, 17–18, 18. 19, 10.
+240, 13. 256, 2. 260, 2. 31 sqq.</p>
+<p n="381">cometes magnus Gallorum adventus
+nuntius II 153, 21 cometae
+aut trabales aut iaculares
+153, 22</p>
+<p n="382">Comiscortes Albanus Ι 153, 6</p>
+<p n="383">Commermoëri II</p>
+<p n="384">Comneni ν. Adrianus. Alexius.
+Anna. Isaacius. Iohannes.
+Manuel. Nicephorus</p>
+<p n="385">Conostabli Ι 172, 29 II 189, 16</p>
+<p n="386">Constantinium forum Ι 70, 4.
+92, 6 II 155, 18. 250, 27</p>
+<p n="387">Constantinopolitana sedes I 46, 4</p>
+<p n="388">Constantinus Magnus Ι 213, 6.
+221, 7 II 155, 23. 259, 27 sqq.</p>
+<p n="389">Constantinus qui curam imperatoris
+accipitrum habet Ι
+254, 20</p>
+<p n="390">Constantinus Dalassenus Ι 208,
+11. 248, 32 sqq. II 14, 5. 29,
+20. 31, 28 sqq. 35, 16 sqq.</p>
+<p n="391">Constantinus Ducas imp. Ι 99,
+4. 146, 25 II 172, 11</p>
+<p n="392">Constantinus porphyrogenitus
+Michaelis Ducae f. Helenae
+Roberti f. sponsus Ι 35, 19.
+41, 1 sqq. 51, 6. 28. 61, 11 sqq.
+93, 22 sqq. 104, 12 sqq. 204,
+3 1141,4 sqq. 45, 11. 48, 28</p>
+<p n="393">Constantinus Exazenus Ducas II
+158, 10. 159, 13. 168, 21. 175, 11</p>
+<p n="394">Constantini Ducae Ι 101, 2</p>
+<p n="395">Constantinus eunuchus Alexii
+in mensa famulus II 176, 28</p>
+<p n="396">Constantinus Euphorbenus Catacalo
+tacalo II 62, 20 sqq. 65, 6
+sqq. 68, 24. 78, 26. 131, 25.
+202, 7. 205, 9 sqq. 223, 19</p>
+<p n="397">Constantinus Gabras II 196, 7
+sqq. 235, 7. 237, 18 sqq. 247,
+23. 279, 10</p>
+<p n="398">Constantinus Monomachusimp.
+Ι 105, 11. 113, 25. 177,22. 30</p>
+<p n="399">Constantinus notarius II 222, 1</p>
+<p n="400">Constantinus Opus Ι 137, 30.
+221, 22 sqq. 249, 10 sqq. II
+92, 3 sqq.</p>
+<p n="401">Constantinus protoprohedrus Ι
+121, 21. 122, 1</p>
+<p n="402">Constantinus Ubertopulus Ι 68,
+5. 138, 14. 224, 13 sqq. II 14,
+11. 19, 3. 61, 18</p>
+<p n="403">Constantius Constantini Ducae
+f. porphyrogenitus Ι 141, 24.
+146, 24. 147, 1</p>
+<p n="404">Contarinus ν. Petrus Contarinus</p>
+<p n="405">Contogmen Turcarum archisatrapa
+trapa 245, 1 sqq.</p>
+<p n="406">Contopaganus comes II 190, 7
+sqq. 194, 2. 5.</p>
+<p n="407">Contostephanus ν. Isaacius.
+Stephanus</p>
+<p n="408">Contostephani II 169, 13 sqq.
+196, 26</p>
+<p n="409">Coprisianus II 187, 26</p>
+<p n="410">Corcyra ν. Corypho</p>
+<p n="411">corona spinea Christi II 244, 14</p>
+<p n="412">Corone II 137, 22 sqq.</p>
+<p n="413">Corypho Ι 54, 11. 127, 3. 194,
+22 sqq. II 132, 26. 141, 18 sqq.
+142, 7 sqq. eius portus 1 196, 1</p>
+<p n="414">Cosmas Ι 99, 24</p>
+<p n="415">Cosmas patriarcha Cplitanus Ι
+92, 9. 97, 5. 99, 2 sqq. 104,
+4.107,6</p>
+<p n="416">Cosmidium monasterium Ι 73,
+20 II 86, 11. 93, 18. 96, 7</p>
+<p n="417">Cotoeracia II 266, 7</p>
+
+<pb n="326"/>
+<p n="418">Cotrone v. Croton</p>
+<p n="419">Cous insula II 117, 1</p>
+<p n="420">crales II 221, 30</p>
+<p n="421">Crenides postea Philippopolis
+II 256, 22</p>
+<p n="422">Cres II 98, 23 Cretes II 32, 5</p>
+<p n="423">Creta II 33, 2 sqq. 43, 13</p>
+<p n="424">Croesus Ι 68, 19</p>
+<p n="425">Croton urbs Ι, 43, 4
+sanctae crucis aedes in Cypro
+insula II 34, 19</p>
+<p n="426">Cucupetrus v. Petrus Cucuetrus
+a Antiochiae arx II 89, 15.
+90, 6</p>
+<p n="427">Cule oppidulum Ι 227, 16. 228,
+15</p>
+<p n="428">culeon Manichaeus Ι 138, 8.
+160, 22. 261, 19 sqq.</p>
+<p n="429">Curicum II 136, 2 sqq.</p>
+<p n="430">Curpagan II 113, 4. 114, 4. 30.
+120, 4. 122, 31</p>
+<p n="431">Curticius v. Basilius Curticius</p>
+<p n="432">Curticius quidam II 158, 12</p>
+<p n="433">Cusinus Manichaeus II 261,
+19 sqq.</p>
+<p n="434">Cutzomita v. Georgius Cutzomita</p>
+<p n="435">Cyclades insulae II 154, 24</p>
+<p n="436">Cydnus II 218, 8</p>
+<p n="437">Cydoniates v. Leo Cydoniates</p>
+<p n="438">Cymineanus v. Eustathius Cymineanus</p>
+<p n="439">Cyparissium Ι 211, 11</p>
+<p n="440">Cyperudae monasterium II 42,
+20</p>
+<p n="441">Cyprus II 33, 3 sqq. 113, 22.
+125, 11. 126, 18. 127, 8. 129,
+29. 131, 24 sqq. 134, 34. 135,
+13 sqq. 229, 25. 230, 14. 234,
+9 sq. Cypriae triremes 232, 34</p>
+<p n="442">Cypsella Ι 245, 15. 246, 5</p>
+<p n="443">Cyrene II 33, 12 sqq.</p>
+<p n="444">Cyrenea II 132, 5</p>
+<p n="445">Cyrus Persarum rex II 66, 27</p>
+<p n="446">Cyri templum Ι 178, 15</p>
+<p n="447">Cyzicus Ι 63, 15 sqq. 65, 29.
+220, 16 sqq. 224, 14 II 244, 27</p>
+<p n="448">Dabatenus Ι 119, 3 II 61, 18.
+163, 21 sqq.</p>
+<p n="449">Daci Ι 115, 19. 227, 5 II 74, 32.
+221, 29. 240, 13. 258. 19</p>
+<p n="450">daemon Ι 208, 8. 217, 26 II
+242, 29. 297, 24 Satanaëlis
+daemones 298, 10</p>
+<p n="451">Dalasseni v. Adriani. Anna.
+Constantinus</p>
+<p n="452">Dalmatae Ι 57, 7. 141, 20. 252,
+25.253, 1. II 19,11 sqq. 37, 6.
+58, 25. 155, 4. 172, 18</p>
+<p n="453">Dalmatia 1 57, 11. 140, 27. 202,
+17. 252, 28 II 20, 12. 28, 3.
+37, 14 sqq. 39, 20. 53, 16,
+240, 12</p>
+<p n="454">Damalis Ι 80, 22. 28. 83, 11.
+87, 24. 98, 11. 125, 19. 216,
+12. 239, 17. 243, 19. 265, 20</p>
+<p n="455">Damalium (Damalin) II 99, 18.
+250, 8. 290, 13</p>
+<p n="456">Damascus II 125, 17. 234, 20</p>
+<p n="457">Dampolis ν. Diampolis</p>
+<p n="458">Danubius fl. Ι 222, 23 sqq. 227,
+2. 281, 30 II 17, 18 sqq. 27,
+2. 61, 30. 260, 32. 261, 8</p>
+<p n="459">Daphnutium II 39, 24</p>
+<p n="460">David Ι 79, 19. 190, 29 II 153,
+9 Davidicum illud II 302, 14</p>
+<p n="461">Davidicus psalmus II 84, 23</p>
+<p n="462">Deabolis v. Diabolis</p>
+<p n="463">Decanus v. Georgius. Nicephorus</p>
+<p n="464">Decatum II 3, 8
+deiparae aedes in Blachernis
+Ι 72, 30. 74, 16 II 160, 9. 174,
+16 in Chalcopratiis Ι 191, 17
+ad Pallia Ι 138, 22 ad Pegen
+Ι 55, 10 Sinopica Ι 208, 8
+humerale Ι 237, 19. 239, 18
+imago Ι 178, 15</p>
+<p n="465">Delphinae horti Ι 169, 28</p>
+<p n="466">Demetrii martyris aedes Thessalonicensis
+Ι 82, 1. 171, 1</p>
+
+<pb n="327"/>
+<p n="467">eius intra regiam aedes II
+160, 10 dies festus 155, 16
+imago Ι 171, 5</p>
+<p n="468">Demetrius Poliorceta II 171, 3</p>
+<p n="469">Demetrius Scytha Aaronis servus
+II 175, 27 sqq.</p>
+<p n="470">Demosthenes orator Ι 76, 5.
+213, 24 II 18, 28. 58, 23</p>
+<p n="471">Deuteronomium II. 6, 5</p>
+<p n="472">Deure II 172, 16. 190, 2. 10</p>
+<p n="473">Deuriotae II 190, 15</p>
+<p n="474">Diabolis fl. II 179, 29</p>
+<p n="475">Diabolis urbs Ι 155, 27 II 185,
+29. 191, 22. 198, 26</p>
+<p n="476">Diampolis Ι 229, 1. 244, 1 II
+63, 8</p>
+<p n="477">Diblatius Bogomilus II 295, 23</p>
+<p n="478">Dice Ι 45, 28 II 176, 2 dice
+dei II 214, 22</p>
+<p n="479">Dicurus v. Anastasius Dicurus</p>
+<p n="480">Didymus haereticus II 54, 19</p>
+<p n="481">Dimylia II 4, 21</p>
+<p n="482">Diogenes ν. Leo. Nicephorus.
+Pseudodiogenes</p>
+<p n="483">Diogenes Romanus imp. Ι 6, 1.
+9. 4. 10, 1. 41, 32. 83, 1. 141,
+26. 205, 30 sqq. 229, 27. 235,
+24. 236, 18. 237, 4 II 42, 10
+sqq. 59, 1 sqq. 64, 14 sqq.
+285, 23. 304, 16</p>
+<p n="484">Dionysus ν, Bacchus</p>
+<p n="485">Doceanus Alexii patruelis Ι
+15, 30
+docis (comea) II 153, 22</p>
+<p n="486">Dolylum II 270, 4</p>
+<p n="487">Domenici palatium Ι 175, 3</p>
+<p n="488">Dorylaeum II 111, 7. 274, 22</p>
+<p n="489">Dracon fl. Ι 125, 22 II 78, 8</p>
+<p n="490">Dristra urbs Ι 192, 23. 222, 30.
+229, 3. 233, 27. 234, 9. 240, 5
+II 16, 7</p>
+<p n="491">Dromos ν. Oxys Dromos</p>
+<p n="492">Drymon fl. II 171, 25 sqq.</p>
+<p n="493">Ducas ν. Constantinus. Constantius.
+Iohannes. Michael</p>
+<p n="494">Ducae Ι 78, 9. 80, 9. 95, 31.
+96, 11. 99, 8. 179, 1</p>
+<p n="495">Dux locus II 216, 31</p>
+<p n="496">Dyrracheni II 21, 4</p>
+<p n="497">Dyrrachium Ι 17, 1. 27,23.53,
+24. 29. 54, 4 sqq. 119, 26.
+125, 26 sqq. 131, 9 sqq. 152,
+30 sqq. 154, 4 sqq. 197, 17.
+199, 7 sqq. 252, 24 sqq. II
+19, 22 sqq. 75, 32. 79, 25 sqq.
+95, 30. 154, 22. 165, 32 sqq.
+170, 31 sqq. 179, 16 80(1. 240,
+14</p>
+<p n="498">Ecclesiae ν. Asprae Ecclesiae</p>
+<p n="499">Edessa (Edesa) II 125, 7. 127,
+19. 219, 20. 23. 234, 21 eius
+ducatus 219, 27 sqq.</p>
+<p n="500">Elchan ν. Scaliarius Elchan</p>
+<p n="501">Elchanes archisatrapa 1 220,
+15 sqq.</p>
+<p n="502">Elchanes Turcarum dux II 77,
+21</p>
+<p n="503">Eleemon comes II 134, 9</p>
+<p n="504">Elegmus satrapa II 288, 31</p>
+<p n="505">Elephantine custodia II 263, 23</p>
+<p n="506">Eleutherius Aegyptius astrologus
+Ι 201, 10</p>
+<p n="507">Elias II 80, 9</p>
+<p n="508">S. Elias strategis II, 217, 2</p>
+<p n="509">Elissus II 171, 22 sqq.</p>
+<p n="510">Elissus fl. II 171, 24</p>
+<p n="511">Empelus fl. II 245, 9</p>
+<p n="512">enthusiastae II 57, 32</p>
+<p n="513">Ephesiorum urbs II 116, 6.
+118, 10</p>
+<p n="514">Epidamnus Ι 53, 23 sqq. 128,
+27. 179, 9. 199, 13. 252, 22
+II 29, 16. 81, 6. 82, 18. 170,
+30 171, 3. 21. 172, 1. 179, 9
+ν. Dyrrachium</p>
+<p n="515">Epirota Ι 128, 29
+equi generosi e Damasco Edessa
+Arabia II, 234, 20</p>
+<p n="516">Erbius Capuae archiepiscopus
+Ι 120, 17</p>
+<p n="517">Eros I 94, 24 II 75, 9</p>
+<p n="518">Erymanthius aper Ι 34, 17</p>
+<p n="519">Eubulus comes illustris Ι 44, 17</p>
+
+<pb n="328"/>
+<p n="520">Eudocia imperatrix I 98, 9 II
+42, 19 sqq.</p>
+<p n="521">Eudocia porphyrogenita Annae
+Commnenae soror II 312, 4.
+315, 18</p>
+<p n="522">Eudoxus astronomus I 200, 5</p>
+<p n="523">Eumathius Philocales dux Cypri
+II 34, 32. 125, 11. 135, 1. 224,
+13 sqq. 229, 26 sqq. 234, 10.19</p>
+<p n="524">Euphemianus I 71, 5</p>
+<p n="525">Euphorbenus v. Alexander.
+Constantinus. Georgius. Nicephorus</p>
+<p n="526">Euphrates I 215, 7</p>
+<p n="527">Euripus I 65, 11 II 105, 2</p>
+<p n="528">Europa II 74, 7. 154, 25. 209, 9</p>
+<p n="529">Eurus v. Hebrus</p>
+<p n="530">Eustathius Camytzes Camytzae
+Filius II 26, 8 sqq. 119, 9. 190,
+3 sqq. 196, 3. 244, 2. 245, 13
+Sqq. 249, 12 sqq. 255, 5. 276
+1 sqq.</p>
+<p n="531">Eustathius Cymineanus eunuchus
+Magnus classis drungarius
+Caniclei praepositus praepositus I
+212, 25 II 69, 1.. 136, 10. 174, 10
+Eustratius Nicaeae antistes II
+260, 9</p>
+<p n="532">Eustratius Garidas eunuchus
+Patriarcha Cplitanus I 99, 11.
+104, 11. 183, 9. 14 II 60, 32</p>
+<p n="533">Exazenus v. Constantinus. Nicephorus</p>
+<p n="534">Exazeni II 158, 10</p>
+<p n="535">Excubitarum agmen I 137, 29</p>
+<p n="536">Excussata navis II 82, 10. 169, 23</p>
+<p n="537">Ezeban oppidum Vlachicum I
+169, 22</p>
+<p n="538">Famosi libelli II 176, 9 sqq.</p>
+<p n="539">Flantras comes I 243, 25. 247,
+21 II 8, 14. 122, 23</p>
+<p n="540">Flantrae duo fratres Normanorum
+Duces II 127, 24</p>
+<p n="541">Fortuna II 59, 17. 156, 21. 159,
+1.	162, 6 Fortuna imperri 157,
+22 Romanorum 59, 20. 213, 12</p>
+<p n="542">Fossa in Bithynia prope Nicomediam
+Ab Anastasio Dicuro
+Excavate, ab Alexio restaurata
+Et munita II 72, 23</p>
+<p n="543">Francia II 74, 19. 119, 21 eius
+rex II 79, 16. 143, 15</p>
+<p n="544">Francica classis I 134, 7 II 235,
+22 sqq. 238, 30</p>
+<p n="545">Franci 1 23, 18 sqq. 138, 12.
+170, 29 II 73, 26. 75, 29. 80,
+14. 94, 24. 99, 21. 120, 6.
+124, 20. 127, 29. 132, 17. 137,1.
+139, 22. 142, 25. 170, 25. 179.
+7. 27. 182, 3. 187, 5. 209, 8.
+216, 14. 227, 19. 228, 8. 241,
+31 opp. Longibardis Latinis
+Germanis II 142, 25</p>
+<p n="546">Gabala II 138, 14 Gabalorum
+Strategatum II 218, 10</p>
+<p n="547">Gabras v. constantinus. Theodorus
+Gades lI 181, 15</p>
+<p n="548">Gaita Roberti coniux I 43, 1.
+50, 23. 145, 20 197, 3. 198, 19</p>
+<p n="549">Gaita locus Ii 274, 18</p>
+<p n="550">Galabatzes Tzachae frater II
+29, 28</p>
+<p n="551">Galli I 18, 9. 20, 21. 32, 11.
+120, 19. 140, 1. 144, 29 sqq.
+159, 1 sqq. 209, 17 ssq. 224,
+15. 226, 16. 250, 27 sqq. II 8,
+15. 14, 12. 19, 2. 73, 29 sqq.
+164, 31. 240, 3 sqq. 246, 14.
+251, 24. 252, 5. 275, 8 Gallica
+Classis II 236, 16 Gallorum
+Lingua II 202, 10</p>
+<p n="552">Ganze v. Guilelmus Ganze</p>
+<p n="553">Garidas v. Eustratius Garidas</p>
+<p n="554">Gauras v. Gabras</p>
+<p n="555">Gazes filius Asan Catuch satrapae
+II 287, 21 sqq.</p>
+<p n="556">Gelielmus v. Guilelmus</p>
+<p n="557">Genesius v. Gregorius Genesius</p>
+<p n="558">Genua II 143, 24. 234, 29</p>
+<p n="559">Genuenses II 137, 7 sqq. Genuensium
+Classis 136, 32 sqq.</p>
+
+<pb n="329"/>
+<p n="560">S. Georgius megalomartyr II
+124, 4 eius dies festus Ι
+169, 9</p>
+<p n="561">S. Georgii qui Syceotes dicitur
+campus Ι 90, 18</p>
+<p n="562">S. Georgii castellum Ι 215, 16
+II 105, 24. 107, 24. 265, 25.
+267, 21. 269, 11</p>
+<p n="563">S. Georgii monasterium prope
+Mangana Ι 105, 10</p>
+<p n="564">S. Georgii templum prope Castoriam
+Ι 186, 5 prope Mesampela
+II 104, 28</p>
+<p n="565">Georgius Basilacius II 158, 13.
+160, 21</p>
+<p n="566">Georgius Cutzomita Ι 236, 1</p>
+<p n="567">Georgius Decani II 26, 8 sqq.
+236, 28 sqq.</p>
+<p n="568">Georgius Euphorbenus Ι 229,
+2. 231, 21. 232, 1 II 61, 18</p>
+<p n="569">Georgius Lebunes II 250, 6. 276,
+27. 278, 32</p>
+<p n="570">Georgius Manganes Ι 81, 23.
+82, 13. 20. 85, 13. 21. 28</p>
+<p n="571">Georgius Maniaces Ι 177, 22
+Maniacae copiae 19, 20 v.
+Maniacati Latini</p>
+<p n="572">Georgius Mesopotamites Philippopolis
+dux II 26, 29</p>
+<p n="573">Georgius Monomachatus Ι 54,
+16 sqq. 119, 17 sqq. 125, 27
+sqq.</p>
+<p n="574">Georgius Palaeologus Ι 73, 26
+sqq. 77, 31. 86, 8 sqq. 87, 31
+sqq. 96, 4. 119, 25. 125, 26
+sqq. 130, 13 sqq. 134, 26. 135,
+1. 138, 20 sqq. 141, 3 sqq. 153,
+1. 186,8 sqq. 229,23. 234, 31.
+240, 8 sqq. II 4, 12. 14, 5. 61,
+13. 110, 13 sqq. 253, 22</p>
+<p n="575">Georgius Pyrrhus Ι 173, 16.
+256, 16 sqq.</p>
+<p n="576">Geranium extra Cplim II 174,14</p>
+<p n="577">Germanicea II 217, 7</p>
+<p n="578">Germanus Scytha Ι 54, 21. 55,
+7 sqq. 59, 1 sqq. 65, 7 sqq.
+66, 17 sqq.</p>
+<p n="579">Germani II 142, 24. 170, 28</p>
+<p n="580">Germiorum iuga II 269, 4</p>
+<p n="581">Getae Ι 115, 26</p>
+<p n="582">Gidus Roberti Giscardi filius
+Ι 194, 6. 197, 3. 198, 19 II
+187, 25. 189, 17. 190, 6 sqq. 192,
+24 sqq. 204, 30 sqq. 206, 17</p>
+<p n="583">gigas I 20, 2. 28, 13 II 229, 1
+gigantes II, 44, 9. 156, 22</p>
+<p n="584">Gilpractus Nemitzorum dux Ι
+86, 9 sqq.</p>
+<p n="585">Giscardus v. Robertus</p>
+<p n="586">Giscardus v. Robertus
+Giscardus</p>
+<p n="587">Glabinitza I 128, 14. 154, 7.
+192, 23 II 190, 28. 191, 21</p>
+<p n="588">Glossa promunturium I 127, 4
+II 169, 23</p>
+<p n="589">Glycys fl. I 136, 4. 15</p>
+<p n="590">Goloë I 229, 1. 233, 11. 240,
+4 sq. 244, 1 II 62, 30. 63, 6.
+71, 31</p>
+<p n="591">Gonates turris Nicaeae II 103,
+19 sqq. 105, 28</p>
+<p n="592">Gontophre v. Gotofredus</p>
+<p n="593">Gorgonis caput I 97, 28</p>
+<p n="594">Gotofredus comes II 76, 10. 86,
+6 sqq. 91, 31. 92, 23. 93. 23
+sqq. 101, 3. 123, 25—127, 13</p>
+<p n="595">Graeci I 129, 9. 180, 31 Homerici
+II 89, 24 Graecorum litterae
+I 178, 17. 182,30 II 56,
+9 mysteria II 257, 27</p>
+<p n="596">Grantemane v. Guilelmus
+Grantemane</p>
+<p n="597">Graul II 221, 28</p>
+<p n="598">Gregorius Camaterus imperatori
+ab epistulis II, 48, 8</p>
+<p n="599">Gregorius Genesius I 114, 31</p>
+<p n="600">Gregorius Maurocatacalo I 229,
+20. 234, 31. 235, 21</p>
+<p n="601">Gregorius Theodori Gabrae
+filius II 23, sqq. 28, 1</p>
+<p n="602">Gregorius Taronites Trapezuntis
+dux II 163, 22 sqq.</p>
+<p n="603">Guilelmus comes I 168, 4. 16</p>
+<p n="604">Guilelmus Clareles II 200, 25</p>
+<p n="605">Guilelmus Ganze II 221, 27</p>
+
+<pb n="330"/>
+<p n="606">Guilelmus Grantemane II 119,
+21</p>
+<p n="607">Guilelmus Isangelis nepos et
+heres II 129, 25 sqq. 139, 3</p>
+<p n="608">Guilelmus Mascabeles Ι 36, 30
+sqq.</p>
+<p n="609">Gules Cappadox Ι 31, 23. 167,
+11. 236, 21</p>
+<p n="610">gynaeceum palatii ex Monomachi
+tempore perditissimum
+Ι 113, 24</p>
+<p n="611">Hade locus Ι 254, 25</p>
+<p n="612">Hades II 152, 10</p>
+<p n="613">Haemus Ι 229, 25, 230, 12. 15
+II 258, 11 sqq.</p>
+<p n="614">Halmyrus fl. Ι 18, 18</p>
+<p n="615">Halycae Ι 211, 11</p>
+<p n="616">Halys II 128, 9</p>
+<p n="617">Hannibal Carthaginiensis I 11, 4</p>
+<p n="618">Hebdomum Ι 104, 6</p>
+<p n="619">Hebraei II 123, 23</p>
+<p n="620">Hebraica II 111, 24</p>
+<p n="621">Hebrus fl. Ι 76, 30 (224, 29)
+225, 18 II 175, 17. 256, 12 sqq.
+262, 25</p>
+<p n="622">Hecaton Buni ν. Centum Colles</p>
+<p n="623">Hector II 85, 9</p>
+<p n="624">S. Helena Ι 221, 8</p>
+<p n="625">Helena Roberti filia Ι 40, 32</p>
+<p n="626">sqq. 52, 1. 142, 14</p>
+<p n="627">Helenopolis II 77, 3 sqq. 121,
+32. 268, 23. 269, 18</p>
+<p n="628">Hellespontus Ι 17, 30 II 234,
+25. 245, 10</p>
+<p n="629">Henricus Alamaniae rex Ι 44,
+31. 120, 24. 160, 8 sqq. 161,
+13 sqq. 162, 18 sqq.</p>
+<p n="630">Heraclea Pontica Ι 119, 4</p>
+<p n="631">Hercules Ι 15, 29. 34, 16. 18.
+125, 13 1189,27. 195, 21. 197,
+26 Herculis columnae Ι 214,
+24 II 74, 6</p>
+<p n="632">Hercyniae silvae II 258, 17</p>
+<p n="633">Hermanus Longibardiae dux Ι
+120, 16</p>
+<p n="634">Hermon II 218, 8</p>
+<p n="635">Herodes rex Ι 49, 3. 19</p>
+<p n="636">hetaeria Ι 19, 22</p>
+<p n="637">Hiera Limne II 61, 27</p>
+<p n="638">Hiericho Ι 50, 11. 135, 29 II
+189, 30. 192, 26. 194, 17</p>
+<p n="639">Hierosolyma Ι 206, 22. 243, 25
+II 74, 22. 86, 25. 123, 17 sqq.
+127, 14 sqq. 129, 18. 132, 17.
+209, 10. 229, 13 sqq. 231, 7</p>
+<p n="640">Hierum II 93, 19</p>
+<p n="641">Hierusalem ν. Hierosolyma</p>
+<p n="642">Hierusalem urbs Ithacae sic 1
+198, 7 sqq.</p>
+<p n="643">Himerus deus Ι 98, 5</p>
+<p n="644">hinnitus equorum pro augurio</p>
+<p n="645">habetur Ι 171, 28</p>
+<p n="646">hippodromus Constantinopolitanus
+II 362, 5</p>
+<p n="647">historiae veteres Ι 243, 1</p>
+<p n="648">Homerus Ι 4, 26. 36, 13. 75, 26.
+86, 18. 145, 24. 150, 19. 175,
+25. 31. 194, 1. 231, 5. 253, 14.
+260, 18 II 40, 26. 58, 24. 81,
+23. 89, 22. 24. 90, 18. 93, 10.
+111, 32. 151, 32. 180, 31. 192,
+9. 237, 13. 242, 14. 253, 7.
+272, 9. 274, 32. 287, 1</p>
+<p n="649">horoscopus Ι 200, 8</p>
+<p n="650">Hugo ν. Ubus</p>
+<p n="651">Hunni Ι 242, 27 sqq.</p>
+<p n="652">Hyaleas ν. Nicephorus Exazenus</p>
+<p n="653">Hyaleas</p>
+<p n="654">Hydruntum urbs Ι 49, 25. 50,
+21. 53, 25. .54, 3. 126, 7. 194,
+18 II 166, 16</p>
+<p n="655">Hydrus ν. Hydruntum</p>
+<p n="656">Iacobus haereticus II 259, 10</p>
+<p n="657">Iamblichus philosophus Ι 181,
+11</p>
+<p n="658">Iapha II 124, 3. 18</p>
+<p n="659">Iapygia Ι 50, 27</p>
+<p n="660">Iasitae Ι 181, 17</p>
+<p n="661">Iasonis collis prope Aulonem
+II 169, 10</p>
+<p n="662">Iatzulinus comes II 233, 29</p>
+
+<pb n="331"/>
+<p n="663">Ibericae monachae II 293, 11</p>
+<p n="664">Iberitzae domus Ι 90, 24</p>
+<p n="665">Iberi Ι 207, 21</p>
+<p n="666">Ibis mons II 245, 7</p>
+<p n="667">Iconium Clitziasthlanis sultanicium
+II 264, 8. 270, 19. 274,
+8. 277, 3 sqq. 279, 27. 286, 25
+288, 27. 289, 12</p>
+<p n="668">Iericho ν. Hiericho</p>
+<p n="669">IIIyricum Ι 27, 24. 54, 16. 55,
+9. 120, 12. 128, 21. 131, 13.
+132, 15. 160, 13. 161, 2. 9.
+193, 29. 194, 18. 199, 26. 205,
+15. 216, 19 II 20, 17. 80, 20.
+143, 13sqq. 154, 21. 166, sqq.
+172, 28. 197, 6 sqq. 258, 15</p>
+<p n="670">inscriptiones in monumentis
+Epidamni Ι 186, 4</p>
+<p n="671">Indi Ι 214, 25. 243, 12</p>
+<p n="672">Iob II 291, 18</p>
+<p n="673">Iohannaces cf. Basilius Curticius</p>
+<p n="674">S. Iohannis apostoli theologi
+apparitio Ι 80, 3 dies festus
+104, 5 templum Ephesium
+II 116, 7 ad Hebdomum I 104,
+6 Thessalonicense II 154, 4</p>
+<p n="675">Iohannes cum Paulo Paulicianorum
+sectae conditor II 257,
+11 sqq.</p>
+<p n="676">Iohannes Alanus Ι 54, 27</p>
+<p n="677">Iohannes Bryennius Nicephori
+frater Ι 19, 19. 20, 31</p>
+<p n="678">Iohannes Comnenus Alexii pater
+Ι 58, 6. 138, 6 II 103, 22</p>
+<p n="679">Iohannes Comnenus Alexii
+filius porphyrogenitus imp.
+Ι 5, 18. 204, 20 sqq. II 155,
+14. 210, 1.25.32. 211, 5. 213,
+24. 215, 22. 220, 13.28. 242,
+32 sqq. 313, 18</p>
+<p n="680">Iohannes Isaacii Comneni filius
+Ι 122, 15 II 19, 22 sqq. 28,
+1. 38, 10 sqq. 79,25 sqq. 155,3</p>
+<p n="681">Iohannes Ducas Caesar 1 42, 6.
+72, 29. 74, 30 sqq. 77, 28 sqq.
+83, 30 sqq. 91, 6 sqq. 92, 17.
+95, 16. 97, 2 sqq. 104, 25</p>
+<p n="682">Iohannes Ducas Iohannis Ducae
+Caesaris nepos Irenes</p>
+<p n="683">imperatricis frater Ι 75, 4.
+77, 30. 252, 16 sqq. II 29. 16
+sqq. 33,4 sqq. 116, 19 sqq.</p>
+<p n="684">Iohannes Solomo Ι 187, 17 II
+158, 14 sqq. eius uxor 161, 14</p>
+<p n="685">Iohannes Taronites Alexii comsobrinus
+II 61, 13. 164, 20.
+175, 1</p>
+<p n="686">Iohannes Tzimisces imp. II 258,
+3 sqq. 305, 2</p>
+<p n="687">Iohannes Xiphilinus patriarcha
+Cplitanus Ι 99, 5</p>
+<p n="688">Iohannicius Alexii farmiliaris
+monachus Ι 29, 20. 30, 19. 33,
+23</p>
+<p n="689">Iohannina urbs Ι 155, 8. 163,
+23. 164, 2</p>
+<p n="690">Iosphere Male II 221, 28</p>
+<p n="691">Irene Alexii coniux Annae
+mater 3, 11. 80, 11. 96, 6 sqq.
+99, 10 sqq. 100, 29 sqq. 156,
+31. 181, 30 sqq. 203, 3 sqq.
+231, 13. 237, 22 II 11, 15. 40,
+17. 149, 19 sqq. 161, 13. 162,
+7 sqq. 175, 14. 176, 3 sqq.
+185, 27. 239, 5. 243, 3. sqq.
+244, 16. 250, 14. 253, 31. 267,
+9 sqq. 269, 19 sqq. 271, sqq.
+305, 15. 306, 24. 307, 7 sqq.
+309, 15. 311, 1 sqq. 22 sqq.sqq. 312,
+2.18. 30. 313, 4. 10. 23 sqq. 314,
+10 sqq. 315, 1 sqq. 316,5.317,7</p>
+<p n="692">Iasscius Comnenus imp. Ι 15,
+31. 115, 17 sqq. II 103, 21</p>
+<p n="693">Isaacius Comnenus Alexii frater
+Ι 58, 5 sqq. 72, 13 sqq. 77,
+23 sqq. 96, 21. 102, sqq. 105,
+13. 122, 16. 137, 10. 156, 26.
+157, 28 sqq. 183, 1 sqq. II 19,
+22. 21, 7 sqq. 23, 26 sqq. 79,
+25. 154, 23. 160, 27 sqq. 296,
+9. 23</p>
+<p n="694">Isaacius Contostephanus classis
+magnus dux II 165, 30 sqq.
+175, 10. 196, 26 sqq. 205, 29</p>
+
+<pb n="332"/>
+<p n="695">Isangeles II 99, 10 sqq. 101, 3
+sqq. 122, 20. 125, 8 sqq. —
+129,33. 139, 3 eius filius Pelctranus
+230, 2. 234, 8</p>
+<p n="696">Ismael II 72, 17. 216, 6. 251,
+25. 252, 6</p>
+<p n="697">Ismael sultsani Chorosanis filius
+II 119, 31. 120, 6 archisatrapa
+121, 16</p>
+<p n="698">Ismaelitae II 75, 7. 78, 10. 216,
+6. 227, 28. 255, 1</p>
+<p n="699">Isocrates Siren II 253, 5</p>
+<p n="700">Ister fl. Ι 115, 23. 28. 228, 23.
+231, 22 sqq. 234, 10 sqq. 242,
+1. 244, 11 II 240, 13. 256, 2.
+260, 81. 261, 6 v. Danubius</p>
+<p n="701">Italia Ι 177, 12 sq. 179, 6</p>
+<p n="702">Italus haereticus Ι 177, 6 sqq.
+II 56, 3</p>
+<p n="703">Itali Ι 19, 20. 177, 15. 19. 179,
+5. 8. II 167, 26. 171, 17</p>
+<p n="704">Ithaca Ι 198, 6</p>
+<p n="705">Ithacensis Ι 89, 27</p>
+<p n="706">Iudaei Ι 235, 14</p>
+<p n="707">Iuppiter II 286, 30</p>
+<p n="708">ius iurandum sollemne II 220,
+18 Latinis usitatum (homagium)
+Ι 243, 27 II 81, 14.
+97, 10</p>
+<p n="709">Lacedaemon Ι 213, 20</p>
+<p n="710">Lacedaemonii Ι 213, 17. 22 Lacedaemoniorum
+sacer lochus
+246, 26</p>
+<p n="711">Lampe Ι 216, 27 II 119, 9. 225, 6</p>
+<p n="712">lancea sancta Cpli adservata
+II 26, 17 iuri iurando adhibita
+220, 24 Antiochiae effossa
+122, 13</p>
+<p n="713">Lantulphus classis Romanae
+praefectus II 133, 12 sqq. 137,
+4 sqq. 169, 17 sqq. 196, 23.
+198, 13</p>
+<p n="714">Lantulphus Saxonum dux Ι 47,
+13. 48, 3. 8</p>
+<p n="715">Laodicea II 119, 5. 125, 9. 126,
+26 sqq. 130, 1 sqq. 135, 5. 17.
+137, 29 sqq. 146, sqq. 191,
+15. 214, 4. 218, 9</p>
+<p n="716">Laparae thema II 219, 10</p>
+<p n="717">Lardea I 228, 30</p>
+<p n="718">Larissa Ι 168, 24. 169, 8 sqq.
+II 86, 21. 95, 30 senex Larissaeus
+Ι 170, 21 sqq.</p>
+<p n="719">Larissa ν. Sezer</p>
+<p n="720">Latinus episcopi Barensis legatus
+Ι 128, 3. 140, 12</p>
+<p n="721">Latini Ι 45, 30. 120, 1. 131, 32.
+146, 14. 147, 8. 148, 15. 164,
+14 sqq. 170, 26 sqq. 179, 15.
+180, 30. 186, 6 sqq. 199, 17.
+202, 26. 211, 19 sqq. 216, 9.
+224, 16. 225, 29. 236, 10. 237,
+7. 243, 27. 247, 15. 250, 25
+II 74, 18. 78, 4 sqq. 142, 24
+etc. 202, 6 opp. Francis Longibadis
+Germanis II 142, 24
+eorum classis 239, 7 lingua
+76, 7. 83, 6. 90, 13. 94, 14.
+17. 229, 20</p>
+<p n="722">Lebunes ν. Georgius Lebunes</p>
+<p n="723">Lebunis locus II 12, 4 Lebunium
+14, 2</p>
+<p n="724">Lentiana II 245, 3. 266, 6</p>
+<p n="725">Leo Anemas II 158, 4</p>
+<p n="726">Leo Cephalas Ι 169, 12. 29</p>
+<p n="727">Leo Chalcedonensis episcopus
+Ι 158, 15 sqq. 240, 12 sqq.</p>
+<p n="728">Leo Cydoniates eunuchus Ι 98,
+15</p>
+<p n="729">Leo (Diogenes) Diogenis Romani
+imp. filius porphyrogenitus
+Ι 141, 27. 229, 28. 235,
+26. 236, 18. 237, 4 II 42, 14
+sqq. 43, 14. 52, 4. 58, 32 sqq.
+ν. Pseudodiogenes</p>
+<p n="730">Leo Nicerita eunuchus Ι 233,
+1 sqq. II 26, 32 sqq. 190, 2.
+270, 7</p>
+<p n="731">Leo Rupenius Armenius II 217,
+11</p>
+<p n="732">Leucae II 111, 3. 274, 22</p>
+<p n="733">Leucas II 132, 26</p>
+
+<pb n="333"/>
+<p n="734">Leucusia II 33, 13. 34, 23</p>
+<p n="735">Libanus II 126, 12 sq.</p>
+<p n="736">Libotanii clisura Ι 172, 4. 10</p>
+<p n="737">Libya Ι 222, 15</p>
+<p n="738">Limniorum thema II 219, 21</p>
+<p n="739">Lipenium II 37, 9 sqq. 53, 17
+Lipenii flunius II 38, 13</p>
+<p n="740">lizius homo II 209, 24. 210, 10.
+211, 1. 217, 24. 220, 2</p>
+<p n="741">Lobitzus Ι 116, 19</p>
+<p n="742">Longibardia Ι 36, 25. 30. 37, 1.
+40, 19. 25. 47, 19. 48, 32. 49,
+7 sqq. 120, 16. 121, 29. 125,
+12. 126, 6. 132, 11. 135, 11.
+142, 5. 160, 11. 30. 162, 13.
+19. 24. 167, 24. 168, 18. 177,
+25. 179, 6. 190, 19. 193, 10
+II 75, 23 sqq. 80, 6. 81, 26.
+82, 3. 136, 4 sqq. 143, 11. 145,
+23. 146, 3. 166, 13 sqq. 175,
+13. 196, 28. 216, 20. 221, 19.
+224, 1. 234, 30. 235, 27</p>
+<p n="743">Longibardi opp. Latinis Francis
+Germanis II 142, 23</p>
+<p n="744">Longibardi grammatici II 294,4</p>
+<p n="745">Longinias II 140, 4</p>
+<p n="746">Lopadium II 244,26. 265, 22 sqq.
+267, 1 sqq. 269, 25 sqq.</p>
+<p n="747">Luli locus II 217, 1</p>
+<p n="748">Lychnitis lacus, quem lingua
+vulgaris Achridem vocat II
+172, 8</p>
+<p n="749">Lycostomium Ι 171, 27. 174, 10.
+176, 11</p>
+<p n="750">Lydia Ι 7, 1</p>
+<p n="751">Lydius currus Ι 226, 12</p>
+<p n="752">Lydi Ι 6, 29</p>
+<p n="753">Lysimachia Ι 243, 13 II 293,
+18</p>
+<p n="754">Lysimachus Alexandri Μ. comes
+Ι 243, 13</p>
+<p n="755">Macabaei II 260, 19</p>
+<p n="756">Macedones Ι 19, 24. 26. 32, 1.
+137, 30. 243, 10 II 256, 18.
+258, 21</p>
+<p n="757">Macedonia Ι 228, 22</p>
+<p n="758">Madyti portus II 235, 18</p>
+<p n="759">Maeander II 118, 24 sqq. 227, 5</p>
+<p n="760">Maistromilii II 186, 32</p>
+<p n="761">Malagina II 247, 12</p>
+<p n="762">Malagna II 267, 8</p>
+<p n="763">Maleae promunturium II 137, 18</p>
+<p n="764">Male v. Iosphre Male</p>
+<p n="765">Mamista II 140, 5</p>
+<p n="766">Manes Manichaicae sectae conditor
+II 257, 12. 30</p>
+<p n="767">Manetho apotelesmaticus Ι
+200, 7</p>
+<p n="768">Mangana Ι 105, 12 II 309, 20</p>
+<p n="769">Manganes v. Georgius Manganes</p>
+<p n="770">Maniac Comanorum princeps
+II 9, 24 sqq.</p>
+<p n="771">Maniacatae Latini Ι 254, 13</p>
+<p n="772">Maniaces v. Georgius Maniaces</p>
+<p n="773">Manichaei I 138, 7. 160, 22. 187,
+25. 188, 17. 30. 192, 10 sqq.
+223, 9. 234, 1 II 257, 10—264,
+2. 294, 26 sqq.</p>
+<p n="774">Manuel (Comnenus) universae
+militiae orientali a Basilio
+imperatore praefectus II 103,
+20</p>
+<p n="775">Manuel Basilacii frater I 32, 32</p>
+<p n="776">Manuel Butumites Ι 210, sqq.
+II 31, 19. 34, 2 sqq. 81, 6.
+100, 13. 18. 102, 1 sqq. 110,
+31. 131, 2 sqq. 135, 15 sqq.
+229, 19 sqq. 232, 33 sqq.</p>
+<p n="777">Manuel Comnenus Alexii frater
+Ι 9, 14. 58, 5. 69, 14</p>
+<p n="778">Manuel Modenus II 206, 17</p>
+<p n="779">Manuel Philocales II 40, 2 sqq.</p>
+<p n="780">manus aeneae Cpli fixae II
+162, 28</p>
+<p n="781">Maracei castrum II 125, 10
+strategatum 218, 11</p>
+<p n="782">Maraces satrapa Turcarum II
+118, 11</p>
+<p n="783">Marasin (Marasium) II 132, 11</p>
+<p n="784">Marcella Ι 244, 2. 20</p>
+<p n="785">Marceses pater Tancredi II
+140, 13</p>
+
+<pb n="334"/>
+<p n="786">Marchapin (Marchapium) II
+138, 14</p>
+<p n="787">S.Marci ecclesia Veneta I 197, 11</p>
+<p n="788">S. Maria v. deipara</p>
+<p n="789">Maria Lazari soror II 312, 5</p>
+<p n="790">Maria porphyrogenita Annae
+soror Nicephori Euphorbeni
+coniux Ι 204, 15 II 65, 15.
+312, 4 sqq. 313, 9. 314, 18</p>
+<p n="791">Maria imperatorum Michaelis
+Ducae et Nicephori Botaniatae
+coniux Ι 16, 30. 42, 17.
+54, 25. 59, 17 sqq. 64, 31. 67,
+5. 93, 22sqq. 96, 13. 97, 2 sqq.
+104, 12sqq. II 41, 27 sqq. 48,
+13 sqq.</p>
+<p n="792">Maria protovestiaria Georgii
+Palaeologi socrus Iohannis
+Ducae Caesaris nurus Andronici
+uxor Irenes imperatricis
+mater Ι 72, 29. 74, 5. 8. 203, 9</p>
+<p n="793">Mariandeni v. Maryandeni</p>
+<p n="794">Marianus Maurocatacalo filius
+Nicolai Maurocatacalonis Nicephori
+Bryennii sororius II
+65, 31 sqq. 82, 32 sqq. 196,15.
+198, 16 sqq. 200, 11</p>
+<p n="795">Marinus Neapolitanus sebastus
+II 186, 32 sqq. 202, 5. 205, 2.
+221, 26</p>
+<p n="796">Mars Ι 20, 1. 86, 18. 165, 18 II
+131,4.142,25. 147,12.279,15</p>
+<p n="797">Martyrun quadraginta aedes
+I 70, 10. 179, 16 lacus II
+279, 23</p>
+<p n="798">Maryandeni II 72, 18</p>
+<p n="799">Mascabeles v. Guilelmus Mascabeles</p>
+<p n="800">Massagetis II 152, 7</p>
+<p n="801">Massaliani II 294, 29 sq.</p>
+<p n="802">Masut Saisanis frater nothus II
+286, 11 sqq.</p>
+<p n="803">Maurix classis Romanae praefectus
+Ι 135, 17</p>
+<p n="804">Maurocatacalo v. Gregorius.
+Marianus. Nicolaus</p>
+<p n="805">Mauropotamus II 12, 15</p>
+<p n="806">Maurus Amalfae episcopus,
+papae ad imp. Aexium legatus
+II 221, 17. 23</p>
+<p n="807">Maurus mons II 217, 8</p>
+<p n="808">Maximus philosophus et martyr
+Ι 181, 32</p>
+<p n="809">Medi II 293, 17</p>
+<p n="810">Megalopolis Ι 235, 1</p>
+<p n="811">Melissenus v. Nicephorus
+Melissenus</p>
+<p n="812">Melitene Ι 220, 13</p>
+<p n="813">Melpha Ι 44, 11. 154, 11. 21.
+197, 12</p>
+<p n="814">Menelaus Ι 31, 26. 94, 1</p>
+<p n="815">Meroe Ι 214, 27</p>
+<p n="816">Mesampela II 104, 28</p>
+<p n="817">Mesanacta II 279, 24</p>
+<p n="818">Mesopotamia I 206, 23 II 219, 19</p>
+<p n="819">Mesopotamites v. Georgius
+Mesopotamites</p>
+<p n="820">Mestus II 175, 14</p>
+<p n="821">Metaxas Ι 158, 8</p>
+<p n="822">metempsychoses I 181, 23. 184, 7</p>
+<p n="823">Methymna Ι 248, 20 sqq.</p>
+<p n="824">Methymnes Ι 160, 9</p>
+<p n="825">S. Michaelis archistrategi templum
+Ι 146, 10</p>
+<p n="826">Michael Amastrinus Acruni
+praefectus II 236, 24 sqq.</p>
+<p n="827">Michael Anemas II 62, 24. 158,
+4 sqq.</p>
+<p n="828">Michael Cecaumenus II 119, 4.
+189, 31. 192, 28. 279, 11</p>
+<p n="829">Michael Ducas imp. 19, 23.
+10, 29. 16, 31 sqq. 35, 9 sqq.
+40, 29 sqq. 43, 13 sqq. 51, 2
+sqq. 58, 14. 93, 23. 97, 12. 99,
+3. 104, 13. 131, 18 sqq. 132,
+30. 133, 29. 141, 31. 142, 13.
+178, 29. 179, 2. 204, 3 II 41,
+31. 42, 17 eius nummi II 219,
+25. 220, 9</p>
+<p n="830">Michael pseudonymus v. Raector</p>
+<p n="831">Michael Iohannis Ducae Caesaris
+nepos Irenes Aug. frater
+protostrator Ι 77, 30. 175, 5
+sqq. 237, 21 II 10, 23</p>
+
+<pb n="335"/>
+<p n="832">Michael eunuchus imperatricis
+famulus Gregorii Gabrae
+paedagogus II 25, 30</p>
+<p n="833">Michael eunuchus medicus
+II 311, 21</p>
+<p n="834">Michael (Ducas?) logothetes
+secretorum Ι 93, 2</p>
+<p n="835">Michael Pantechnes medicus
+II 306, 8. 311, 20</p>
+<p n="836">Michael pincerna II 26, 9 sqq.
+131, 6 sqq.</p>
+<p n="837">Michael Psellus Ι 178, 10 sqq.</p>
+<p n="838">Michael Stypeota II 268, 30sqq.
+276, 4 sqq.</p>
+<p n="839">Michael Taronites protosebastus
+et proto vestiarius, postea
+panhy perse bastus, Alexii affinish
+Ι 103, 11 II, 44, 18. 49,
+25</p>
+<p n="840">Michaelas Dalmatarum exarchus
+Ι 57, 11 sqq. 125, 28</p>
+<p n="841">Michaelati nummi II 219, 25.
+220, 9</p>
+<p n="842">Midas Ι 68, 20</p>
+<p n="843">Migidenus Ι 174, 26. 245, 25
+eius filius 245, 26</p>
+<p n="844">Milium Ι 92, 6</p>
+<p n="845">Minerva v. Athena</p>
+<p n="846">Miscura II 270, 1</p>
+<p n="847">Mitylenaei II 31, 16 sqq.</p>
+<p n="848">Mitylene I 248, 12 sqq. 253, 31
+II 22 sqq.</p>
+<p n="849">Moameth Ι 222, 16</p>
+<p n="850">Mocrus rex Bulgarorum Ι 235,
+11 II 172, 9</p>
+<p n="851">Modenus v. Manuel Modenus</p>
+<p n="852">Moerae v. Parcae</p>
+<p n="853">Moglena Ι 168, 5. 21
+monasterium Patriarchae II 91,
+29</p>
+<p n="854">Monastra mixobarbarus Ι 257,
+19. 258, 18 II 14, 7. 62, 22.
+71, 14. 107, 23. 108, 9 sqq.
+132, 8. 14. 138, 23 sqq. 146,
+15. 20. 235, 9. 247, 24
+moneta imperatoria Ι 156, 30</p>
+<p n="855">Monolycus Turcarum archisatrapa
+II 244, 21. 245, 5. 270, 4
+sqq. 277, 26 sqq. 280, 14 sqq.</p>
+<p n="856">Monomachatus v. Georgius Monomachatus</p>
+<p n="857">Monomachus v. Constantinus</p>
+<p n="858">Monomachus</p>
+<p n="859">Mons Admirabilis II 217, 1</p>
+<p n="860">Mopsuestiae II 147, 23. 26.
+218, 6</p>
+<p n="861">morbus Alexii II 305, 27 sqq.</p>
+<p n="862">Morobundi praedium Ι 74, 31</p>
+<p n="863">Moses II 84, 30</p>
+<p n="864">Mosynopolis Ι 188, 11</p>
+<p n="865">Amer Muchumet Turcarum acchisatrapa
+Ι 220, 11 II 245,
+2 sqq.</p>
+<p n="866">Musulmani II 237, 26. 248, 14</p>
+<p n="867">Muzaces II 47, 26 sqq.</p>
+<p n="868">Myli oppidum II 179, 29. 191,
+24. 30. 193, 33</p>
+<p n="869">Mysia, Ι 28, 21</p>
+<p n="870">Μysi Ι 115, 21</p>
+<p n="871">Νampites Barangorum dux I
+141, 25. 144. 19. 29. 145, 15.
+30. 236, 21</p>
+<p n="872">Νauatus v. Novatus
+naves ignivomae ab Alexio
+fabricatae II 133, 2 sqq.</p>
+<p n="873">Νaupactus Ι 53, 26
+Naziraei II 300,. 8. 301, 28</p>
+<p n="874">Neantzes Scytha Ι 245, 25. 254,
+4 sqq. II 12, 9</p>
+<p n="875">Neapolis II 186, 31</p>
+<p n="876">Necran II 219, 18</p>
+<p n="877">Nelei filius II 287, 2</p>
+<p n="878">Nemesus II 34, 13</p>
+<p n="879">Nemitzi Ι 84, 20 sqq.</p>
+<p n="880">Neocastrum sive Alexiopolis II
+262, 26</p>
+<p n="881">Nicaea Ι 123, 19. 205, 22 sqq.
+220, 12. 247, 28 II 77, 6 sqq.
+ο, 4 sqq. 101, 7 sqq. 116,
+24 sqq. 243, 32 sqq. 247, 11.
+260, 9. 265, 26 sqq. 268, 27.
+269, 24 sqq. 274, 10</p>
+
+<pb n="336"/>
+<p n="882">Nicaea parva Ι 233, 6. 263, 8 II
+69, 8 70, 19</p>
+<p n="883">Nicephorus ex fratre Irenes
+Augustae nepos II 279, 12</p>
+<p n="884">Nicephorus Botaniates imp. Ι 6,
+10. 16, 23 sqq. 26, 3. 41,21.42,
+3. 51, 1 sqq. 58 4sqq. 71,1sqq.
+77,16.83, 8sqq. 87,21sqq. 90,
+10 sqq. 92, 15 sqq. 93, 4 sqq.
+95, 9. 97, 13. 98, 10. 104, 15.
+119, 21. 23. 142, 12. 16. 149,
+19. 156, 5. 191, 31. 251, 26</p>
+<p n="885">Nicephori Botaniatae imp. nepos
+Ι 69, 15 sqq.</p>
+<p n="886">Nicephorus Bryennius dux Dyrrachii
+tyrannus Ι 16, 24 sqq.
+77, 15. 149, 17. 23. 229, 19.
+230, 13 sqq. 231, 16 II 62, 11</p>
+<p n="887">Nicephorus Bryennius Nicephori
+Bryenni tyranni filius
+II 62, 10 sqq. 65, 25</p>
+<p n="888">Nicephorus Bryennius Caesar
+Annae Comnenae maritus Nicephori
+Bryennii tyranni nepos
+Ι 5, 12 sqq. 230,27 sqq. II
+88, 21 sqq. 165, 29. 196,20.208,
+31 sqq. 253, 32. 260, 14. 279,
+10. 281, 32. 282, 24. 316, 18.
+317, 7 eius historiae Ι 17, 5.
+230, 27. 231, 14 II 59, 5 in
+secundo historiae libro Ι
+11, 10. 58, 2</p>
+<p n="889">Nicephorus Comnenus Alexii
+frater I 103, 15</p>
+<p n="890">Nicephorus Decani II 175, 10
+Nicephorus (Diogenes) Diogegenis
+Romani filius porphyrogenitus
+Ι 141, 27. 229, 28.
+235, 26. 236, 18. 237, 21. 239,
+11 sqq. II 39, 28 sqq. 53, 12.
+54, 3 sqq.</p>
+<p n="891">Nicephorus Constantini Euphorbeni
+Catacalonis filius
+Mariae Alexii filiae maritus
+II 65, 14</p>
+<p n="892">Nicephorus Exazenus Hyaleas
+II 168, 20 Hyaleus Exazenus
+158, 10. 159, 13 Hyaleas 118,
+6. 175, 12</p>
+<p n="893">Nicephorus Caesar Melissenus
+Ι 80, 21 sqq. 83, 11. 85, 11
+sqq. 87, 23 sqq. 102, 20. 144,
+24. 171, 15. 236, 11. 241, 27
+II 6,21. 8, 5. 11, 2 sqq. 17,
+23. 22, 18 sqq. 61, 12</p>
+<p n="894">Nicephorus Palaeologus Georgii
+pater Ι 73, 29, 89, 24 sqq.
+147, 3</p>
+<p n="895">Nicephorus Synadenus Ι 141,
+25. 146, 28</p>
+<p n="896">Nicerita ν. Leo Nicerita</p>
+<p n="897">Nicetas Castamonites Ι 236, 13.
+248, 27 sqq. II 158, 12</p>
+<p n="898">Nicetas Chalintzes II 129, 29</p>
+<p n="899">Nicetas Panucomites Ι 138, 12
+II 144, 13 sqq.</p>
+<p n="900">Nicolaus Callicles medicus II
+305, 31 sqq. 311, 19</p>
+<p n="901">S. Nicolai dies festus II 82, 26
+templa Ι 70, 19. 140, 22. 29.
+148, 17 II 87, 16</p>
+<p n="902">Nicolaus Branas Ι 137, 19. 223,
+15 sqq.</p>
+<p n="903">Nicolaus grammaticus patriarcha
+Cplitanus II 57, 23.
+60, 29. 297, 13. 301, 29</p>
+<p n="904">Nicolaus Maurocatacalo Ι 227,
+10. 22. 229, 23. 236, 18. 263,
+15 II 71, 9, 79, 26, 80, 3. 82,
+3 sqq.</p>
+<p n="905">Nicolaus scriba Alexii Ι 232, 17</p>
+<p n="906">Nicomedia Ι 125, 8. 210, 3. 212,
+19.247,31 118,15. 72, 19 sqq.
+101, 8. 270, 21 sqq.</p>
+<p n="907">Nicopoles Ι 53, 26</p>
+<p n="908">Niliaci fluctus II 309, 5</p>
+<p n="909">Nilus haereticus II 56, 2 sqq.</p>
+<p n="910">Ninus Assyrius (Nimrod) II
+228 32</p>
+<p n="911">Niobe II 316, 26. 317, 5</p>
+<p n="912">Nisi thema II 256, 7
+ë Ι 4, 23</p>
+<p n="913">Nomades II 252, 7 nomades
+Scythae I 222, 14 II 258, 22. 29</p>
+
+<pb n="337"/>
+<p n="914">Normania Ι 35, 4. 36, 22 II
+65, 21</p>
+<p n="915">Normani II 77, 4 sqq. 127, 28 sqq.</p>
+<p n="916">Novatus haeresiarcha, cuius
+superbia in proverbium abiit
+Ι 219, 19 II 79, 17</p>
+<p n="917">Nymphaeum II 226, 19. 29</p>
+<p n="918">Olympus Asiae mons II 247, 14.
+267, 7</p>
+<p n="919">Opus v. Constantinus Opus</p>
+<p n="920">Orestes et Pylades amici Ι 59,26</p>
+<p n="921">Orestias Ι 77, 14. 137, 21 II 65,
+10. 66, 6</p>
+<p n="922">orphanotrophium ab Alexio extructum
+II 290, 26 sqq.</p>
+<p n="923">Orpheus vates Ι 7, 21</p>
+<p n="924">Ostroubus Ι 168, 2</p>
+<p n="925">Oxys dromos prope Antiochiam
+11 112, 13</p>
+<p n="926">Ozolimne Ι 242, 15 sqq.</p>
+<p n="927">Pacurianus occidentis magnus
+domesticus Ι 67, 13 sqq. 137,
+2 sqq. 144, 25. 160, 18. 223,
+12 sqq.</p>
+<p n="928">Paeanieus (Deosthenes) I 213,
+24</p>
+<p n="929">Pagras strategatum II 217, 13</p>
+<p n="930">Païpert II 121, 23</p>
+<p n="931">Palaeologus v. Georgius. Nicephorus</p>
+<p n="932">Palamedeus dolus Ι 14, 28. 63, 7</p>
+<p n="933">palatium inferius Ι 95, 17 superius
+95, 21 palatia ad Argyran
+Limnen sita II 87, 11</p>
+<p n="934">Palatza strategatum II 217, 14</p>
+<p n="935">Pallas dea Ι 145, 21</p>
+<p n="936">Pallia locus Ι 133, 22</p>
+<p n="937">Palus II 80, 24</p>
+<p n="938">Pamphylia Ι 18, 2</p>
+<p n="939">Pamphylii Ι 6, 29</p>
+<p n="940">Pamphylius sinus II 234, 22</p>
+<p n="941">Pamphylum oppidum Ι 227,
+12. 15</p>
+<p n="942">panhypersebastus Ι 103, 20</p>
+<p n="943">panopliae dogmaticae liber</p>
+<p n="944">Alexii iussu a Zygabeno confectus
+fectus II 299, 8 sqq.</p>
+<p n="945">Pantechnes v. Michael
+Pantechnes</p>
+<p n="946">Panucomites v. Nicetas Panucomites</p>
+<p n="947">papa Romae Ι 44, 29. 120, 16.
+162, 21 sqq. 167, 26. 168, 13</p>
+<p n="948">Paphlagonia Ι 119, 4</p>
+<p n="949">Paradanubium II 27, 1 v.
+Paristrium</p>
+<p n="950">Parasceuiotes Basilii haeretici
+custos II 298, 13 sqq.</p>
+<p n="951">Parcarum filum I 152, 5</p>
+<p n="952">Pargiaruch Taparae filius sultanus
+Ι 209, 27. 219, 16</p>
+<p n="953">Paristrium Ι 192, 22. 229, 22.
+26. II 60, 19</p>
+<p n="954">Parium II 245, 9</p>
+<p n="955">Pasarorum portus Ι 195, 7. 18</p>
+<p n="956">Patara II 133, 29</p>
+<p n="957">Patriarchae monasterium II
+91, 29</p>
+<p n="958">Patzinacae (Patzinaci) Ι 235, 1.
+239, 26. 240, 26. 241, 14. 245,
+28. 247, 4. 248, 2 II 10, 7.
+12, 22. 13, 3</p>
+<p n="959">Pauliciani Ι 187, 21 sqq. II 257,
+10 sqq.</p>
+<p n="960">Paulus apostolus Ι 47, 17 eius
+templum Cplitanum II 290,
+31. 293, 5</p>
+<p n="961">Paulus Paulicianorum sectae
+conditor Iohannis frater Callinices
+filius II 257, 11 sqq.</p>
+<p n="962">Paulus Romanus II 221, 28</p>
+<p n="963">Pauraë II 129, 9</p>
+<p n="964">pacis inter Alexium et Boëmundum
+initae instrumentum
+II 209, 6 — 222, 2</p>
+<p n="965">Pegasius II 92, 15</p>
+<p n="966">Pegasus equus Ι 149, 22</p>
+<p n="967">Pege Ι 55, 10. 179, 15</p>
+<p n="968">Pelagonia Ι 169, 4 II 185, 29</p>
+<p n="969">Pelctranus Isangelis filius Tripolis
+dux II 230, 2 sqq. filius
+eius 234, 3 sqq.</p>
+
+<pb n="338"/>
+<p n="970">Pelecanus II 91, 23. 93, 32. 100,
+3. 101, 16. 104, 28. 109, 2.
+21. 32</p>
+<p n="971">Peloponnesius comes II 133, 32</p>
+<p n="972">Penelope I 89, 29</p>
+<p n="973">Pentegostis villa II 41, 8</p>
+<p n="974">peregrini II 219,2 eorum duces 221, 21</p>
+<p n="975">Peres v. Zupanus peres</p>
+<p n="976">Pergamus II 226, 20. 235, 10</p>
+<p n="977">Peribleptae nomasterium I 93,6</p>
+<p n="978">Perichytes Pelopnnesius comes
+II 133, 33</p>
+<p n="979">Pericles I 190, 26</p>
+<p n="980">peripatetice I 179, 22</p>
+<p n="981">Pernicus II 41, 27</p>
+<p n="982">Persae I 190, 18. 215, 26. 247,
+29 eorum lingua 218, 11. 247,
+29 sultanus 205, 23. 216, 22. 30</p>
+<p n="983">Persia I 12, 6. 217, 21. 222, 15
+II 237, 31. 304, 24 sqq. Persicum
+telum II 199, 19</p>
+<p n="984">Petriorum monasterium I 72, 27</p>
+<p n="985">Petrizus II 41, 27. 256, 7</p>
+<p n="986">Petrula I 179, 28. 189, 10. 31.
+196, 9. 198, 18</p>
+<p n="987">S. Petri vexillum II 80, 13</p>
+<p n="988">Petrus Aliphs Aliphae filius
+I 147, 9. 167, 11. 176, 32 II
+119, 22. 187, 5. 221, 27</p>
+<p n="989">Petrus Contarinus Venetus I
+195, 26</p>
+<p n="990">Petrus Cucupetrus II 74, 10sqq.
+76,24 sqq. 86, 16. 121, 32sqq.</p>
+<p n="991">Petrus Tornicius Macedo I 32, 1</p>
+<p n="992">Petzeas II 118, 27. 146, 18</p>
+<p n="993">Pharus II 25, 10 sqq.</p>
+<p n="994">Phersia II 217, 2</p>
+<p n="995">Phildias I 97, 26 II 155, 4</p>
+<p n="996">Philadelphia II 119, 3. 225, 20
+sqq. 234, 31 sqq. 237, 19. 249, 18</p>
+<p n="997">Philaretus Armenius I 205, 28
+sqq. eius filius 206, 6 sqq.</p>
+<p n="998">Phileas II 86, 31</p>
+<p n="999">Philippi I 34, 9</p>
+<p n="1000">Philippoplis I 192, 20. 224, 19.
+225, 4. 228, 22. 245, 1 II 19,
+20. 21, 9. 29. 26, 29. 28, 2.
+81, 9. 256, 6. — 264 1 eius
+archiepiscopus 260, 12</p>
+<p n="1001">Philippus Macedo Amyntae
+filius II 256, 18</p>
+<p n="1002">Philippus imperator Romanus
+II 256, 20 sqq.</p>
+<p n="1003">Philocales v. Eumathius. Manuel</p>
+<p n="1004">Philocali vadum II 11, 26</p>
+<p n="1005">phililologi I 178, 1</p>
+<p n="1006">Philomelium II 119, 17. 121, 1.
+277, 16 sqq. 279, 22 sqq. 288,
+1. 289, 19</p>
+<p n="1007">philosophus quidam 14, 7</p>
+<p n="1008">Phocaea I 248, 10</p>
+<p n="1009">S. Phocae aedes II 24, 31. 86, 12</p>
+<p n="1010">Pholus Manichaeus II 261, 19sqq.</p>
+<p n="1011">Phrygia II 227, 6</p>
+<p n="1012">Pindarimagniloquentia II 253, 6</p>
+<p n="1013">Pisa II 143, 23. 234, 29 Pisae
+episcopus II 132, 19 Pisana
+classis II 133, 19 sqq.</p>
+<p n="1014">Pisani II 133, 1 sqq.</p>
+<p n="1015">Pithecas II 274, 20</p>
+<p n="1016">Pitican Scytha II 276, 28</p>
+<p n="1017">Plabitza I 169, 24</p>
+<p n="1018">Plasta II 219, 11</p>
+<p n="1019">Plato I 181, 10. 200, 6 II 58,
+24. 158, 21 eius dialoi I 3,
+15 eius henas sive hen II
+257, 24 sqq. ideae 181, 23.
+184, 8 libri 179, 20</p>
+<p n="1020">Pleura v. Cace Pleura</p>
+<p n="1021">Pliscoba I 233, 22</p>
+<p n="1022">podagra Alexii eiusque causae
+II 239, 18 sqq.</p>
+<p n="1023">Podandum thema II 218, 4</p>
+<p n="1024">Poemanenum I 221, 25 II 245,
+3. 246, 2. 266, 22. 276, 19</p>
+<p n="1025">Polemo rhetor II 58, 24. 253, 6</p>
+<p n="1026">Polobus II 39, 12 Polobi I 167,
+29. 176, 32</p>
+<p n="1027">Polybotum Asiae II 118, 25 sqq.
+276, 1 sqq. 280, 16</p>
+<pb n="339"/>
+<p n="1028">Polybotum Thraciae I 254, 2 sqq.</p>
+<p n="1029">Polycliti canon Ι 100, 4 II 207,4</p>
+<p n="1030">pons prope Cosmidium II 86, 11</p>
+<p n="1031">Pontus Euxinus Ι 17, 30. 119,
+4. 159, 30. 231, 25 II 25, 16.
+63, 31. 86, 32. 258, 14</p>
+<p n="1032">Porphyra aedificium in palatio
+Cplitano Ι 202, 30. 229, 31</p>
+<p n="1033">Porphyrius philosophus Ι 181,
+10. 257, 20</p>
+<p n="1034">porphyrogeniti unde nominati
+Ι 202, 31</p>
+<p n="1035">porta iuxta S. Romanum Cplitana
+II 88, 31</p>
+<p n="1036">Prebentzae comes II 81, 26sqq.</p>
+<p n="1037">Prenetus Ι 210, 8</p>
+<p n="1038">Principatus II 187, 27</p>
+<p n="1039">Principus II 267, 9</p>
+<p n="1040">Printzitas v. Ritzardus
+Printzitas</p>
+<p n="1041">Pristhlaba magna I 235, 2. 8. 17</p>
+<p n="1042">Proclus philosophus Ι 181, 9</p>
+<p n="1043">Propontis Ι 123, 17. 205, 20.
+209, 4 II 24, 32. 86, 9. 13. 91,
+28. 99, 17</p>
+<p n="1044">Prosphygion II 70, 19</p>
+<p n="1045">Prosuch Turcarum dux Ι 209,
+26. 212, 7. 213, 31 sqq.</p>
+<p n="1046">protosebastus Ι 103, 11. 14</p>
+<p n="1047">protostrator Ι 237, 22</p>
+<p n="1048">Prusa II 244, 23</p>
+<p n="1049">Psellus v. Michael Psellus</p>
+<p n="1050">Pseudodiogenes II 58, 31 sqq.
+—69, 4</p>
+<p n="1051">Pseudomichael I 52, 10 v.
+Raector</p>
+<p n="1052">Psyllus v. Basilius Psyllus</p>
+<p n="1053">Psyllus locus II 175, 17</p>
+<p n="1054">Pucheas satrapa II 276, 3 sqq.
+287, 28 sqq.</p>
+<p n="1055">Pudilus Vlachus II 61, 30</p>
+<p n="1056">Pulchases Apelchasemi frater
+I 208, 30. 219, 22 sqq.</p>
+<p n="1057">Punteses Ι 167, 28. 31. 168, 11.
+13</p>
+<p n="1058">Putza II 67, 12 sqq.</p>
+<p n="1059">Puzanus Ι 205, 23 sqq. 216, 3
+sqq. Amer Puzanus 217, 4.
+219, 3 sqq.</p>
+<p n="1060">Pylades et Orestes amici I 59, 26</p>
+<p n="1061">Pyrrhus v. Georgius Pyrrhus</p>
+<p n="1062">Pyrrhus Epirota rex Ι 128, 29</p>
+<p n="1063">Radenus Cplis praefectus Ι 93, 5</p>
+<p n="1064">Raector monachus Ι 41, 29 sqq.
+52, 10 sqq. 117, 31 sqq. 131,
+18 sqq. 132, 29</p>
+<p n="1065">Raedestus I 201, 6</p>
+<p n="1066">Raimundus comitis Barcinonensis
+filius Ι 44, 16</p>
+<p n="1067">Ramel II 124, 4 sqq.</p>
+<p n="1068">Raul Roberti Giscardi legatus
+Ι 51, 1 sqq. 52, 15</p>
+<p n="1069">Raul comes II 91, 26 sqq.</p>
+<p n="1070">Rebenicus Ι 172, 4</p>
+<p n="1071">Reboldus comes Ι 168, 11. 17</p>
+<p n="1072">Renardus Tarenti episcopus
+eiusque clerici II 221, 17</p>
+<p n="1073">Rhapsomates II 33, 3 sqq.</p>
+<p n="1074">Rhodope mons II 256, 14. 258, 13</p>
+<p n="1075">Rhodus II 116, 11. 133, 27 sqq.</p>
+<p n="1076">Ricardus II 187, 27. 31</p>
+<p n="1077">Riscardus Siniscardus II 221, 31</p>
+<p n="1078">Ritzardus comes II 194, 1</p>
+<p n="1079">Ritzardus Printzitas II 221, 27</p>
+<p n="1080">Robertus Giscardus Ι 35, 3. 36,
+1 sqq. 55, 27 sqq. 108, 32. 117,
+30 sqq. 119, sqq. 125, 10.
+126, 7 sqq. 131, 1 sqq. 154, 1
+sqq. 193, 11 sqq. 197, 25 sqq.
+199, 21. 201, 31 sqq. 205, 15
+II 142, 1. 148, 19. 210, 29</p>
+<p n="1081">Rodomerus Bulgarus nobilis
+Irenes propinquus II 11, 13.
+107, 23. 108, 11sqq.</p>
+<p n="1082">Rogeres Francus Alexio deditus
+II 187, 4. 202, 6. 205, 3</p>
+<p n="1083">Rogeres Raulis frater Ι 52, 15
+sqq.</p>
+<p n="1084">Rogeres Roberti Giscardi filius
+1 49, 29, 54, 9. 126, 9. 161,
+2 sqq. 194, 6. 198, 20</p>
+<p n="1085">Rogeres Tacuperti filius II
+221, 26</p>
+
+<pb n="340"/>
+<p n="1086">Roma I 44, 30. 46, 19. 48, 15.
+49. 31. 120, 16. 20. 163,
+8. 179 12. 230, 6 II 12, 21.
+80, 13. 18. 140, 21. 167, 22 </p>
+<p n="1087">Roma nova = Cplis II 217, 20 </p>
+<p n="1088">Romaïna II 219, 12</p>
+<p n="1089">Romanatum vetus argentum I
+121, 25</p>
+<p n="1090">Romania I 109, 30 II 142, 21.
+213, 13 239, 3</p>
+<p n="1091">S. Romani porta Cplitana II
+88, 31</p>
+<p n="1092">Romanus V. Diogenes Romanus </p>
+<p n="1093">Romanus Manichaeus I 176,
+17</p>
+<p n="1094">Rosmices Alanus exusiocrator
+II 193 , 10  sqq. 205, 7</p>
+<p n="1095">Rupeniorum Leonis et Theodori
+Amreniorum arger II 217,
+10</p>
+<p n="1096">Rusium I 254, 1 sqq. 256 , 11 sqq.</p>
+<p n="1097">Scacrdos quidam Latinus I 84, 7 sqq.</p>
+<p n="1098">Sagudia (vicus)II 269, 11</p>
+<p n="1099">Saisan v. Clitziasthlan</p>
+<p n="1100">Saisan (Amer Saisan) II 234,
+31 sqq. 237, 16 sqq.</p>
+<p n="1101">Salabraias fl. I (169, 26)(174, 7.
+176, 3</p>
+<p n="1102">Salernum Melphae metroplis
+I 43, 12. 33, 9., 46, 19. 23.
+49, 22. 50 31. 162, 14, 163,
+10. 193, 12</p>
+<p n="1103">Samuel ultimus Bulgarorum
+rex I 235, 13 II 172, 10</p>
+<p n="1104">Samus II 32, 32. 133, 16</p>
+<p n="1105">Sanctaegidianus comes v.
+Isangeles</p>
+<p n="1106">Sangaris fluvius II 72, 14 sqq.</p>
+<p n="1107">Sangeless v. Isangeles</p>
+<p n="1108">Saniscus I 144, 12 v.
+Boëmundus</p>
+<p n="1109">Santabaris II 275, 29</p>
+<p n="1110">Saphica lyra II 253, 7</p>
+<p n="1111">Sappho II 299, 1</p>
+<p n="1112">Saraceni II 74, 13. 123, 23. 32.
+138, 16. 216, 6. 231, 26. 251.
+27 Saracenus quidam I 138, 5
+II 117, 25 sqq.</p>
+<p n="1113">Saracenus comes I 168, 7. 22</p>
+<p n="1114">Saracenus comes II 190, 6. 14</p>
+<p n="1115">Sarbani castrum II 219, 13</p>
+<p n="1116">Sardes II 119, 3</p>
+<p n="1117">Sarmatae v. Sauromatae</p>
+<p n="1118">Saron fluvius II 147, 24</p>
+<p n="1119">Sarsapin II 219, 17</p>
+<p n="1120">Satanael II 295, 28. 297, 24 Satanael
+eiusque daemones II
+298, 10</p>
+<p n="1121">Satzas Scytha I 222, 27</p>
+<p n="1122">Saul I 105, 30</p>
+<p n="1123">Sauromatae I 115, 21 sqq. 175,
+14. 22, 22. 227, 4. 236, 15
+II 71, 13</p>
+<p n="1124">Saxones I 47, 12</p>
+<p n="1125">scalae I 197, 16 scala Hebraica
+vetus 197, 14</p>
+<p n="1126">Scaliarius Turca archisatrapa
+I 222, 5 II 190 24 Scaliarius
+Elchan II 62, 4</p>
+<p n="1127">Scamander fluvius II 235, 5.
+245, 8</p>
+<p n="1128">schedographia II 293, 28. 294,
+2. 19</p>
+<p n="1129">Schiza Thraciae vicus I 77, 18</p>
+<p n="1130">Scipio I 11, 3</p>
+<p n="1131">Sclerus contra Basilium imperatorem pugnat II 103, 24
+sqq.</p>
+<p n="1132">Sclerus Anemadum consilii
+particeps II 159, 11</p>
+<p n="1133">Scopia I 167, 30 II 37, 22. 38, 10</p>
+<p n="1134">Scotinum I 227, 9. 228, 14</p>
+<p n="1135">Scutarium II 71, 2</p>
+<p n="1136">Scythae I 20, 5 sqq. 159, 3. 190,
+18. 192, 22. 216, 10, 221m 21, sqq.
+227, 3 sqq. 251, 9. 254, 1 sqq.
+II 2 sqq. 37, 8. 167, 17 sqq.
+193, 11 sqq. 245, 23. 246, 13.
+251, 24. 252, 7. 257, 2. 258,
+9 sqq. 283, 3 sqq. mulieres
+Scythica 245, 28 Scythicae
+
+<pb n="341"/>
+mulieres 101, 10 Scytha
+Boëmundi traiectionis nuntius
+II 172, 30 Scytharum
+lingua Ι 255, 2. 8 Scythicum
+telum II 199, 19 Scytha =
+Comanus 65, 18. 70, 3 Scythae
+nomades Ι 222, 14 II
+258, 22. 29</p>
+<p n="1137">Scythula pygmaeus II 195, 23
+'sqq.</p>
+<p n="1138">sebasti Ι 103, 22</p>
+<p n="1139">sebastocrator Ι 102, 26</p>
+<p n="1140">Sedecias ultimus Iudaeorum
+rex Ι 235, 14</p>
+<p n="1141">sedes apostolica II 167, 23</p>
+<p n="1142">senatus Ι 71, 2. 109, 18. 189, 24.
+191,21.203,30 II44, 3 300, 7</p>
+<p n="1143">Seleucia II 136, 14 sqq. 233, 5</p>
+<p n="1144">Serbia II 37, 28. 240, 11</p>
+<p n="1145">Serbliae Ι 181, 17</p>
+<p n="1146">Serbii Ι 168, 3 Serbi II 37, 12</p>
+<p n="1147">Serae II 41, 4. 45, 19</p>
+<p n="1148">Sesthlabus Scytha Ι 222, 27</p>
+<p n="1149">Seth mathematicus Ι 199, 25
+200, 25</p>
+<p n="1150">Seutlus insula II 134, 25</p>
+<p n="1151">Sezer strategis Larissa Graecis
+dicta II 217, 5</p>
+<p n="1152">Sgenin (Sgenium) arx II 219,15</p>
+<p n="1153">Sguritzes equus Ι 149, 23</p>
+<p n="1154">Siaüs Turca Ι 207, 14 sqq. 215,
+28</p>
+<p n="1155">Sicilia Ι 177, 12. 23</p>
+<p n="1156">Siculi Ι 177, 14</p>
+<p n="1157">Sidera Ι 72, 27</p>
+<p n="1158">Sidera v. clisura Sidera</p>
+<p n="1159">Silvestri domus in urbe Adrianopolis
+II Ι 22</p>
+<p n="1160">Simon apocrisiarius II 221, 31</p>
+<p n="1161">Simuntus Balduini patruelis II
+231, 3. 7</p>
+<p n="1162">Sinaüs II 237, 17</p>
+<p n="1163">Siniscardus v. Riscardus
+Siniscarus</p>
+<p n="1164">Sinope Ι 206, 20. 208, 3 sqq.
+215, 31</p>
+<p n="1165">Siren Isocratis II 253, 5</p>
+<p n="1166">Slavi v. Sthlavogenae</p>
+<p n="1167">Slavonici generis Borilus et
+Germanus Ι 58, 23</p>
+<p n="1168">Slopimus II 155, 2</p>
+<p n="1169">Smyrna Ι 249, 5. 253, 20 sqq.
+II 29, 2 sqq.35, 11. 118, 5sqq.
+224, 7. 32. 226, 19 sqq.</p>
+<p n="1170">Smyrnaeus quidam Ι 248, 4 II
+117, 25</p>
+<p n="1171">Solomo rex II 152, 15. 293, 9
+Solomonis proverbia 268, 7
+porticus 291, 8</p>
+<p n="1172">Solomo Dacorum dux Ι 227, 6</p>
+<p n="1173">Solomo v. Iohannes Solomo</p>
+<p n="1174">Solymas sultanus Ι 123, 18. 205,
+13 sqq. 216, 17. 218, 6 Amer
+Solymas 205, 21. 206, 9 etc.
+magnus Solymas 219, 31 eius
+filii duo, quorum natu maior
+Clitziasthlan 219, 31 sqq.</p>
+<p n="1175">Solymas sulthanus II 264, 4 sqq.
+277, 5</p>
+<p n="1176">Sophiae templum Ι 70, 7. 92,
+25. 32. 99, 12. 157, 29. 183,
+11 sqq. 205, 6 II 60, 28. 217,
+29. 294, 7</p>
+<p n="1177">Soscus Ι 168, 3</p>
+<p n="1178">Sosthenium II 25, 6. 91, 30</p>
+<p n="1179">Sozopolis ad Pontum Ι 159, 30
+II 161, 16</p>
+<p n="1180">Spacha Ι 217, 1</p>
+<p n="1181">Sparethra Massagetis II 152, 7</p>
+<p n="1182">Sparta II 43, 17</p>
+<p n="1183">Sphentzanium II 37, 20 sqq.</p>
+<p n="1184">Stagirita v. Aristoteles</p>
+<p n="1185">Stephanus v. Bolcanus
+Stephanus</p>
+<p n="1186">Stephanus comes Franciae II
+119, 21</p>
+<p n="1187">Stephanus Contostephanus II
+196, 27</p>
+<p n="1188">Sthanitza II 149, 10</p>
+<p n="1189">Sthlavogenae Ι 58, 23. 235, 17</p>
+<p n="1190">Sthlavotinlin (Sthlavotilium) II
+219 15</p>
+<p n="1191">stoa II 18, 30. 58, 26. 260, 11</p>
+<p n="1192">Strabobasilius II 268, 30 sqq.</p>
+
+<pb n="342"/>
+<p n="1193">Straboromanus Ι 71, 5. 72, 4</p>
+<p n="1194">Strabus v. Strategius Strabus</p>
+<p n="1195">Strategius Aaronis famulus II
+177, 5 sqq.</p>
+<p n="1196">Strategius Strabus II 136, 16 sqq.</p>
+<p n="1197">Strugae Ι 165, 21</p>
+<p n="1198">Strumpitza II 155, 1</p>
+<p n="1199">studiorum ordo ab Alexio institutus
+Ι 182, 29 sqq.</p>
+<p n="1200">Styliani grammatici II 294, 4</p>
+<p n="1201">Stypeota v. Michael Stypeota</p>
+<p n="1202">Stypeota servus II 268, 31</p>
+<p n="1203">Sudi (Sudie) portus Antiochiae
+II 113, 21. 140, 20</p>
+<p n="1204">Suetium II 216, 31</p>
+<p n="1205">sultanicium Ι 123, 20. 206, 11.
+208, 29. 31</p>
+<p n="1206">sultanus Ι 133, 3. 168, 27. 209,
+27. 215, 28. 217, 2. 17. 28.
+218, 5. 20 II 35, 19. 102, 26
+sqq. 270, 12 sultani Ι 220,
+9. 14 sultanus Chorosanis Ι
+219, 21. 30 II 112, 17. 119,
+30 Persiae Ι 12, 13. 205, 23.
+216, 22. 30 = sultanus magnus
+Ι 206, 22. 207, 12</p>
+<p n="1207">Syce II 135, 29</p>
+<p n="1208">Syceotes v. S. Georgius</p>
+<p n="1209">Symeonis iugum Ι 233, 23</p>
+<p n="1210">Synadenus v. Nicephorus
+Synadenus</p>
+<p n="1211">Synadenus quidam Ι 61, 2</p>
+<p n="1212">Synesius Ι 244, 5 sqq. 257, 19
+II 16, 20 sqq.</p>
+<p n="1213">synodus Ι 157, 29. 189, 21 II
+57, 21 de Bogomilis habita
+301, 27 Chalcedonensis Ι 46, 4</p>
+<p n="1214">Syria Ι 6, 28 II 34, 14. 82, 22.
+132, 18. 142, 6. 146, 25. 214,
+4. 218, 9. 219, 19. 220, 10</p>
+<p n="1215">Syriacum mare Ι 18, 1 II 147,
+27. 234 22</p>
+<p n="1216">Syri 6, 27. 18, 1 Syrus = Saracenus
+II 117, 27</p>
+<p n="1217">tabulae Longiberdicae Illyricaeuqe
+orae II 197, 31 sqq.</p>
+<p n="1218">Tacupertus Rogeris pater II
+221, 26</p>
+<p n="1219">Tancredus Marcesis filius Boëmundi
+consobrinus II 110, 5
+sqq. 114, 28. 126, 28 sqq. 130,
+2. 140, 13 sqq. 143, 18. 146,
+25 sqq. 208, 15. 213, 28. 227,
+16 sqq.</p>
+<p n="1220">Tancredi mater II 166, 18 sqq.</p>
+<p n="1221">Tangres v. Tancredus</p>
+<p n="1222">Tangripermes Turcarum satrapa
+II 116, 6. 118, 10</p>
+<p n="1223">Tanisman sultanus II 111, 24
+Tanismanes 164, 30</p>
+<p n="1224">Tapares sultanus Persarum Ι
+205, 23. 219, 15</p>
+<p n="1225">Tarchaniotes Catacalo Ι 19, 23
+II 62, 9</p>
+<p n="1226">Tarentini Ι 128, 29</p>
+<p n="1227">Tarenti episcopus II 221, 17</p>
+<p n="1228">Taronites v. Gregorius. Iohannes.
+Michael.</p>
+<p n="1229">Tarsus II 119, 23. 140, 5. 146,
+16. 19 Tarsi strategatum II
+218, 5</p>
+<p n="1230">Taticius magnus primicerius Ι
+138, 2 sqq. 209, 9 sqq. 214,
+1. 224, 10 sqq. 236, 14. 247,
+11 II 41, 20. 44, 29. 51, 15.
+62, 3. 105, sqq. 110, 24.
+112, 5 sqq. 130, 24. 133, 10.
+135, 32. 239, 24</p>
+<p n="1231">Tatranes Scytha Ι 257, 26 sqq.</p>
+<p n="1232">Tatus Scytha Ι 222, 26. 234,
+15. 242 1</p>
+<p n="1233">Taurocomus Ι 246, 6 II 69, 12</p>
+<p n="1234">Tauri montes II 147, 25</p>
+<p n="1235">Tauri et Scythae II 257, 2</p>
+<p n="1236">Tebenna II 164, 1 sqq.</p>
+<p n="1237">Telchampson arx II 219, 14</p>
+<p n="1238">Telemachus Ι 89, 27. 30. 151, 19</p>
+<p n="1239">Teluch strategis II 217, 6</p>
+<p n="1240">templum sanctorum qudra
+ginta I 70, 10</p>
+<p n="1241">termini imperii Romani antiqui
+Ι 214, 21 sqq.</p>
+<p n="1242">Teucer Homericus II 89,22.90,2</p>
+
+<pb n="343"/>
+<p n="1243">Thaumaston Oros II 217, 1</p>
+<p n="1244">Theano II 149, 30</p>
+<p n="1245">theatrum a Constantino Magno
+extructum I 213, 6</p>
+<p n="1246">Theclae martyris dies festus I
+116, 21 templum 115, 16. 117,
+12. 17</p>
+<p n="1247">Theodora soror Alexii coniux
+Leonis Diogenis II 59, sqq.</p>
+<p n="1248">Theodori martyris templa I
+144, 5 II 6, 31 sqq. eius dies
+festus 45, 24</p>
+<p n="1249">Theodorus Aaronis frater II
+175, 24 sqq.</p>
+<p n="1250">Theodorus Gabras II 23, 16 sqq.
+121, 24 sqq.</p>
+<p n="1251">Theodorus Rupenius Armenius
+II 217, 11</p>
+<p n="1252">Theodotus I 21, 16</p>
+<p n="1253">Therma II 62, 4</p>
+<p n="1254">Thessalonice I 27, 25. 28, 10.
+23. 33, 16. 34, 7. 81, 31. 139,
+1. 155, 29. 171, 9. 176, 14 II
+80, 10. 146, 1. 149, 17. 153,
+16. 154, 15. 155, 11 sq. 174,
+23. 178, 10. 179, 4. 185, 27</p>
+<p n="1255">Thessalonicenses I 33, 16. 27</p>
+<p n="1256">Thessali I 138, 1 Thessali equites
+I 19, 21. 28</p>
+<p n="1257">Thracesium II 235, 6</p>
+<p n="1258">Thracia I 18, 18. 67, 12 II 256,
+12. 25. 258, 5. 10</p>
+<p n="1259">Thraces I 19, 24. 26 II 258, 20</p>
+<p n="1260">Thule I 84, 19. 90, 10. 214, 29
+II 170, 26</p>
+<p n="1261">Thynia I 123, 22. 125, 7</p>
+<p n="1262">Ticranes Armenius haereticus
+II 57, 12</p>
+<p n="1263">Tigris I 215, 7</p>
+<p n="1264">Tilia tria II 219, 14</p>
+<p n="1265">Timorum II 195, 11</p>
+<p n="1266">Timotheus Alexandri Magni
+tibicen I 7, 22 II 39, 17</p>
+<p n="1267">tituli ab Alexio inventi i 102,
+24 sqq.</p>
+<p n="1268">Togortac Comanorum princeps
+II 9, 24. 65, 32</p>
+<p n="1269">Tomyris II 152, 6</p>
+<p n="1270">Tornicius v. Petrus Tornicius
+tragoedia I 3, 4. 8, 16. 112, 14
+II 316, 8</p>
+<p n="1271">Trapezuntii II 164, 2</p>
+<p n="1272">Trapezus II 23, 18 sqq. 163,
+28 sq.</p>
+<p n="1273">Traulus Manichaeus 1 192, 1 sqq.
+223, 3</p>
+<p n="1274">Triaditza 1 116, 1 II 256, 7</p>
+<p n="1275">Tricala I 169, 4. 6. 28. 176, 9</p>
+<p n="1276">Trimus (Trimontium)
+quae et Crenides, postea,
+Philippopolis II 256, 22</p>
+<p n="1277">S. Trinitatis monasterium Venusinum
+I 199, 1</p>
+<p n="1278">Tripolis II 126, 10 sqq. 129, 22.
+138, 15. 230, 1 sqq.</p>
+<p n="1279">Tripolitanus episcopus II 234,
+4. cf. 230, 24. 231, 1</p>
+<p n="1280">Troglodytice I 214, 27</p>
+<p n="1281">Turcae I 10, 8. 20. 23, 9 sqq.
+63, 16. 76, 29. 117, 29. 119,
+2. 123, 17. 125,19. 133, 1. 138,
+3. 148, 2. 174, 26. 175, 14.
+205, 13 sqq. 221, 18. 247, 30.
+249, 7 sqq. II 7, 20. 23, 19.
+32, 20. 25. 46, 13. 59, 2. 69,
+17. 72, 5 sqq. 95, 6. 99, 4. 7.
+100, 5. 102, 7 sqq. 190, 1.
+193, 9 sqq. 211, 16. 213, 16.
+225, 5 sqq. 239, 9 sqq. 243
+28 sqq. 266, 5 eorum lingua
+108, 10</p>
+<p n="1282">Turcomani II 248, 16</p>
+<p n="1283">turris ingens 3. Boëmundo
+versus Dyrrachium extructa
+II 183, 13 sqq.</p>
+<p n="1284">turris Anemae Cpli II 163,
+24. 165, 14.</p>
+<p n="1285">Tutach Turcarum dux I 11,
+13 sqq.</p>
+<p n="1286">Tutuses Taparae sultani frater
+Solymae patruus I 205, 25
+sqq. 218, 6 sqq.</p>
+<p n="1287">Typhon I 28, 12</p>
+<p n="1288">Tyragium II 287, 32 sqq.</p>
+
+<pb n="344"/>
+<p n="1289">Tyrus II 144, 7. 231, 8 sqq. 236, 10</p>
+<p n="1290">Tzachas I 248, 1–263,
+II 7, 11 sqq. 28, 21 sqq. 35,
+9 sqq. 116, sqq. 224, 31 eius
+filia Clitziasthlanis uxor II
+106, 18. 116, 23</p>
+<p n="1291">tzangrae descriptio II 83, 8 sqq.</p>
+<p n="1292">Tzelgu dux Scytharum I 227,
+1 sqq.</p>
+<p n="1293">Tzerpenterius comes II 80, 9</p>
+<p n="1294">Tzibiscus I 169, 8</p>
+<p n="1295">Tzimisces v. Iohannes Tzimisces</p>
+<p n="1296">Tzintziluces v. Andronicus</p>
+<p n="1297">Tzintziluces</p>
+<p n="1298">Tzipureles Romanorum dux II
+247, 25. 248, 28 sqq.</p>
+<p n="1299">Tzitaw II 105, 21. 128, 4. 129,
+3 sqq.</p>
+<p n="1300">Tzurulus I 67, 11. 74, 27. 260,
+4 sqq. II 68, 31</p>
+<p n="1301">Tzycanistrein (Tzycanisterium)
+II 300, 30</p>
+<p n="1302">Ubertopulus v. Constantinus
+Ubertopulus</p>
+<p n="1303">Ubertus Graulis filius II 221, 28</p>
+<p n="1304">Ubus (Hugo) regis Franciae
+frater II 79. 16 sqq. sqq.</p>
+<p n="1305">Ubus (Hugo) comes II 194, 1
+5 idem ut videtur 204, 17</p>
+<p n="1306">Ulixes Ithacensis I 89, 27</p>
+<p n="1307">Umpertopulus v. Constantinus
+Ubertopulus</p>
+<p n="1308">Umpertus v. Ubertus</p>
+<p n="1309">Ungria I 176, 26 II 76, 27</p>
+<p n="1310">Unni V. Hunni</p>
+<p n="1311">Uresis Dalmata II 53, 29</p>
+<p n="1312">Urselius Gallus I 10, 2 sqq. 58,
+13. 19</p>
+<p n="1313">Uzas Sarmata I 175, 29. 176,
+4. 236, 14. 257, 19. 258, 17
+eius filius II 14, 11. 71, 12</p>
+<p n="1314">Uzolimne I 242, 30</p>
+<p n="1315">Uzi alias Hunni I 242, 29</p>
+<p n="1316">Velcus Saxonum dux I 47, 13</p>
+<p n="1317">Venetiae I 154, 11. 195, 13. 23
+II 143, 24 Venetiarum dux
+135, 6 ecclesiae 197, 9 patriarcha
+197, 7</p>
+<p n="1318">Veneti I 133, 3 sqq. 145, 18.
+153, 4. 194, 27 sqq. 199, 11
+sqq.</p>
+<p n="1319">Venus II 75, 12</p>
+<p n="1320">Venusia Ι 198, 32</p>
+<p n="1321">Vestiaritae I 138, 12</p>
+<p n="1322">Vetones II 171, 19. 251, 28</p>
+<p n="1323">Vlachi I 169, 23 II 8, 12. 61.
+30. 62, 28</p>
+<p n="1324">Xantas Manichaeus I 138, 8.
+160, 22</p>
+<p n="1325">Xerigordus II 77, 19. 21</p>
+<p n="1326">Xerogypsus fluvius I 260, 12</p>
+<p n="1327">Xerus Cplis eparchus II 159, 12</p>
+<p n="1328">Xiphilinus v. Iohannes
+Xiphilinus</p>
+<p n="1329">Zacharias I 147, 4</p>
+<p n="1330">Zacynthus II 132, 27</p>
+<p n="1331">zatricii lusus II 160, 2</p>
+<p n="1332">Zebel strategatum II 218, 10</p>
+<p n="1333">Zethus et Amphion I 129, 3</p>
+<p n="1334">Zoës imperatricis
+I 190, 8. 191, 15</p>
+<p n="1335">Zoë porphyrogenita
+imperatricis filia I 98, 13 .</p>
+<p n="1336">Zompi pons II 277, 27</p>
+<p n="1337">Zopyrus II 66, 27</p>
+<p n="1338">Zume thema II 217, 14</p>
+<p n="1339">Zupanus Peres apocrisiarius II
+221, 30 zupani Bolcani II
+53, 27</p>
+<p n="1340">Zygabenus monachus II 299, 9</p>
+<p n="1341">Zygus mons II 18, 18. 28, 5.
+37, 13 sqq. 61, 19 sqq. 70, 32</p>
+
+</div>
+</body>
+</text>
+</TEI>

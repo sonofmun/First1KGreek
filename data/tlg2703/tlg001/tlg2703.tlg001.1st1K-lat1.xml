@@ -1,0 +1,896 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader xml:lang="eng">
+  <fileDesc>
+   <titleStmt><title xml:lang="lat">Preface to Alexias</title>
+    <author xml:lang="lat">Augustus Reifferscheidii</author>
+    <sponsor>University of Leipzig</sponsor>
+    <funder>European Social Fund Saxony</funder>
+    <principal>Gregory Crane</principal>
+    <principal>Monica Berti</principal>
+    <meeting/>
+    <respStmt>
+     <persName>Gregory R. Crane</persName>
+     <resp>Editor-in-Chief, Perseus Digital Library</resp>
+    </respStmt>
+    <respStmt>
+     <persName xml:id="DDD">Digital Divide Data</persName>
+     <resp>Corrected and encoded the text</resp>
+    </respStmt>
+    <respStmt>
+     <persName>Matt Munson</persName>
+     <resp>Project Manager (University of Leipzig), 2016 - present</resp>
+    </respStmt>
+    <respStmt>
+     <persName>Annette Geßner</persName>
+     <resp>Project Assistant (University of Leipzig), 2015 - present</resp>
+    </respStmt>
+    <respStmt>
+     <persName>Thibault Clérice</persName>
+     <resp>Lead Developer (University of Leipzig)</resp>
+    </respStmt>
+    <respStmt>
+     <persName>Bruce Robertson</persName>
+     <resp>Technical Advisor</resp>
+    </respStmt>
+    <respStmt>
+     <persName>Greta Franzini</persName>
+     <resp>Project Manager (University of Leipzig), 2013-2014</resp>
+    </respStmt>
+    <respStmt>
+     <persName>Frederik Baumgardt</persName>
+     <resp>Technical Manager (University of Leipzig), 2013-2015</resp>
+    </respStmt>
+    <respStmt>
+     <persName>Simona Stoyanova</persName>
+     <resp>Project Manager (University of Leipzig), 2015</resp>
+     <resp>Project Assistant (University of Leipzig), 2013-2014</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>University of Leipzig</authority>
+    <idno type="filename">tlg2703.tlg001.opp-grc1.xml</idno>
+    <availability>
+     <p>Available under a Creative Commons Attribution-ShareAlike 4.0 International
+      License</p>
+    </availability>
+    <date>2014</date>
+    <publisher>University of Leipzig</publisher>
+    <pubPlace>Germany</pubPlace>
+   </publicationStmt>
+   <sourceDesc>
+    <listBibl>
+     <biblStruct>
+      <monogr>
+       <title xml:lang="lat">Annae Comnenae</title>
+       <editor>
+        <persName>
+         <name xml:lang="lat">Augustus Reifferscheidii</name>
+        </persName>
+       </editor>
+       <author ref="urn:cts:greekLit:tlg2703">Annae Comnenae</author>
+       <imprint>
+        <publisher>Teubner</publisher>
+        <pubPlace>Leipzig</pubPlace>
+        <date>1884</date>
+       </imprint>
+       <biblScope unit="volume">1</biblScope>
+      </monogr>
+      <ref target="https://books.google.de/books?id=_kgH6r0_bQ0C">Google Books</ref>
+     </biblStruct>
+    </listBibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <p>Text encoded in accordance with the latest EpiDoc standards (January 2014)</p>
+   <refsDecl n="CTS">
+    <cRefPattern n="paragraph" matchPattern="(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:p[@n='$1'])"/>
+   </refsDecl>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="lat">Latin</language>
+   </langUsage>
+  </profileDesc>
+  <revisionDesc>
+   <change/>
+  </revisionDesc>
+ </teiHeader>
+<text>
+<body>
+
+ <div type="commentary" subtype="preface" xml:lang="lat" n="urn:cts:greekLit:tlg2703.tlg001.1st1K-lat1">
+  <milestone unit="volume" n="1"/>
+<pb n="V"/>
+<head>Praefatio.</head>
+<p n="1">Oficio pietatis satisfeci, cum a. MDCCCLXXVIII Alexiadis
+libros x—xv, ut editionem Bonnensem a Ludovico
+Schopeno paratam ad finem perducerem, secundum codicem
+maxime Florentinum, quem olim in usum optimi magistri
+contuleram, recensitos in publicum emisi. quem
+proxime ab Annae Comnenae manu abesse, ut ex eo
+potissimum nova Alexiadis editio prodire deberet, quamvis
+iamdudum intellectum esset, non tamen licuit Schopeno
+eo uti in recensendis primis novem libris, quos a.
+MDCCCXXXIX edidit, quod ea aetate nondum ut hodie
+cuilibet philologo ἐς Κόρινθον ὁ πλοῦς patebat. itaque
+ego cum allectus Annae Comnenae opere, quod et rerum
+varietate distinxit et iucundo orationis genere commendavit,
+tum ut historicis Alexiae aetatis firma et solida
+subsidia praestarem, totam Alexiadem ad codicis Florentini
+fidem quoad eius fieri posset edere constitui: quo
+in incepto peragendo honestissimi bibliopolae voluntas mihi
+non defuit.</p>
+<p n="2">Codex igitur Florentinus (= F) inter Mediceos Laurentianos
+in pluteo LXX num. 2 signatur. scriptus est
+saec. XII. incipit a verbo τοίνυν praef. 4 (1 8, 24), desinit
+in verbo ἁπάσας 14, 8 (11 256, 5). illic eum supplet
+epitome Hoescheliana (v. infra), cui integra praefatio praemissa
+est, et fragmentum in codice Parisino (gr. n. 400 saec.
+XIV = Ρ) residuum, quo initium praefationis usque ad verba
+
+<pb n="VI"/>
+ὅσα ἡ φύσις (3, 17) continetur, hic codex Coislinianus
+(v. infra). ipse Florentinum codicem totum contuli.</p>
+<p n="3">Quot qualesque fructus ad Alexiadis emendationem
+ex huius codicis accruata notitia ut antea ita nunc quoque
+perceperim, ex adnotatione primorum novem librorum facile
+intellegitur, in qua omnem discrepantiam editionis
+Schopenianae collegi. verum ut praestantia codicis Florentini
+brevi conspectu cognosceretur, selecta eius testimonia
+hic proposui. totas igitur sententias eius ope restitui I
+100, 3—5 ἀλλὰ καὶ ὁ τοῦ Πολυκλείτου κανὼν ἐκεπῖνος ὁ
+πολυθρύλλητος εἰς ἀτεχνίαν ἄντικρυς ἤρχετο 216, 20 sq. καὶ
+ο ἀντικαθιστάμενός σοι τοῦ λοιποῦ οὐκ ἔσεται; idem codex
+mendatum suppeditat, item verbum διατρίψαντεσ vulgo
+praebet 168, 3 (Σοσκοῦ pro Σωσκοῦ) 11. 17 (῾Ρέβολδος
+ pro ῾Ρίκαλδος) 172, 4. 10 Λιβοτανίου κλεισούρα pro Λιβοτανίνου κλ.)
+ 175, 3 (Λομενίκου παλάτιον pro Δεμενίκου
+ π.) 195, 7. 18 (Πασάρων pro Πασσάρων) 235, 2. 8. 17
+(Πριθλάβα pro Περισθλάβα) 242, 1 (Τατοὺ pro Τατὸς)
+247, 6. 8 (Ἄπρων pro Ἄπρον) π 23, 20 (Χαλδίας pro
+Χαλδαίας); cf. praeterea I 212, 23. 24. 247, 26 II 6,
+13. 14 etc. inde a principio usque fere ad p. 73 huius
+ed. scriptura eius cum hic illic evanuisset, recentiore
+aetate lector quidam eam restituebat, in quo munere
+infelicissime verstatus est, cum αὐτοσχεδιάσματα sua in locum
+genuinae scrpturae substitueret. certum septem ultimi
+libri Alexiadis aliquantum monore cum diligentia exarati
+sunt quam priores.</p>
+<p n="4">Plerumque cum Florentino conspirat, interdum eum
+corrigit epitome Alexiamdis (= A) Annae Comnenae aetate
+confecta (cf. quae optime de ea disputavit Schopenus praef.
+p. XVII sqq.), quae ex codice Augustano nunc Monacensi
+saec. XV (Graec. CCCLV V. Heardt catal. cod. Mss. Graec.
+edita est. quem codicem benevolentia Caroli Halmii con-
+
+<pb n="VII"/>
+tigerat, ut Vratislaviae domi meae, cum volumen alterum
+editionis Bonnensis pararem, inspecere possem. epitome
+autem ipsa in octo libros divisa est: septem primi libri
+respondent libris Alexiadis I—VII, in librum octavum breviator
+ad finem properans relique usque ad XIV 9 med. coegit. epitomes discrepantias, cum typis satis accurate
+edita esset, non attuli, nisi ubi ex re esse visum est.</p>
+<p n="5">Quibus testibus longe posthabendus est codex Coislinianus
+saec. XII (= C), qui nunc Parisiis in bibliotheca
+maxima extat, numero inter Coislinianos CCCXI signatus.
+cf. Montfaucon bibl. Coislin. p. 521 sqq. et Schopen. praef.
+p. IX eudem codicem olim Tolosae fuisse suspicor et a
+Cuiacio Fabro possino adhibitum. cf. Schopen. praef.
+p. VII. XX sq. is a calligrapho scriptus est, qui non tam
+veitati quam nitori scripturae operam dedit. deinde interpolationibus
+plurimis obsitus est. in quarum numerum
+certe referendae sunt correctiones, quibus cautum est, ne
+Alexius eiusque frater Isaacius, qui Nicephoro Botaniatae
+imperium ademerant, ἀποστάται nomiarentur: sic I 73, 14
+pro ἀποστάται ιν C legitur Κομνηνοὶ, 30 C habet ἡ τῆς
+τοιαύτης βουλῆς προὸς τοῦτον ἀπογύμνωσις pro ἡ τῆς ἀποστασίας
+π. τ. ἀ. 74, 2 τὸ εἰς ἐκεῖνον τούτων βούλημα pro
+τὴν πρὸς ἐκεῖνον τούτων διαπιστίαν 75, 1 τὴν πρᾶξιν pro
+τὴν ἀποστασίαν 7 τὸ παρὰ τῶν Κομνηνῶν γενόμενον pro τὴν
+ἀποστασίαν 12 τὴν τοιαύτην πρᾶξιν αὐτοῦ pro τὴν τυρααννίδα
+21 συνακολουθῆσαι κἀκεῖνον τῷ τούτων θελήματι pro συναποστατῆσαι
+κἀκεῖνον 76, 27 τῶν Κομνηνῶν ἐπιχειρήσεως
+pro τοῦ Κομνηνοῦ ἀποστασίας 82, 6 τούτων pro τοῦ ἀπο
+στάτου 83, 8 τὴν τῶν Κομνηνῶν τοιαύτην ἐπιχείρησιν pro
+τῆν τῶν Κομνηνῶν ἀποστασίαν. Annam scilicet non veritam
+esse ἀποστάτου et ἀποστασίας verbis similibusque de patre
+uuti iam Florentini codicis cum epitome 73, 14. 75, 1.
+12. 21. 83, 8 consensu evinctitur. rem confirmat, ut omnis
+scrupulus eximatur, ipse Coislinianus, in quo talia 105, 7
+πρὸ τῆς ἀποστασίας 106, 26 τῆς ἀποστασίας 107, 17 πρὸς
+τὴν ἀποστασίαν, quae omnia ad Comnenos pertinent, stu-
+
+<pb n="VIII"/>
+dium correctoris subterfugerunt. alia interpholationis in C conspicuae
+exempla haec sunt: 100, 25 ῥητορικὴν Δημοσθένους
+pro ἡρτορικήν 101, 28 ἔμψυχον pro ἔμβιον 105, 21 ἴσως καὶ
+ἥσυχον ῥίζα (σχίζαν Schopenus) τοῦ δίοντος καὶ ἀποστασίαν
+ποιοῦσα (ποιοῦν Schopenus) τοῦ νοῦ εἰς ἀπόνοιαν ἄγει pro
+ἴσως καὶ εἰς ἀπόνοιαν ἄγει 156, 16 δοθησόμενα pro ἐπαρκέσοντα
+158, 26 μετὰ τῆς κοινῆς γνώμης καῖ τῶν νόμων ἅμα καὶ
+τοῦ δικαίου ὅθεν δήποτε συμποριζομένου χρήματα pro  μ.
+τ. κ. γν. ὅ. δ. σ. χ. μετὰ τ. ν. ἅμα κ. τ. δ. 241, 5 addita
+sunt in C ὅ δὴ καὶ γέγνεν, ΙΙ 254, 8 διὰ τὴν τῶν πραγμάτων
+παλίρροιαν et multa alia. quo magis dolendum est
+in extremo Annae opere ubi Florentinus nos deficit, ad
+hunc codicem nos confugere debere. reliquos enim Alexiadis
+qui innotuerunt codices Barberinum et Vaticanum ex
+eo fluxisse certissimo documento scimus. nimirum ultima
+quinque eius folia madore adeo sunt corrupta, ut modo
+principia modo exitus versuum desierentur. iam duo illi
+codices cum easdem plane lacunas ostendant, dubitari nequit
+quin e coisliniano descripti sint. quem ipse parisiis
+inde a XIV 8 identidem contuli lacunarumque spatia diligenter
+dimensus earum et versuum ambitus significavi,
+illarum quidem its, ut litterarum quae evanuissent aut
+interiissent numerum indicarem. qua computandi ratione
+cavendum est ne nimium fidamus propter ipsam litterarum
+inaequalitatem: tum reputanda compendia in finibus maxime
+versuum usitatissima: postremo scripturam, ut res et librarii
+libido ferebat, nunc angusius coartatam nunc latius diductam
+fuisse consentaneum est. itaque lacunarum supplementa
+saepe incerta: ubi certa videbantur esse, ea nunc
+non veritus sum in orationis contextum recipere duplicatis
+uncinis a litteris superstitibus discreta.</p>
+<p n="6">In reliqua Alexiadis parte ea collatione Coisliniani contentus
+fui, quam Montfauconius l. c. edidit, sed eius
+scripturas non attuli, nisi ubi necessarium aut utile esse
+iudicavi. tenendum autem est, Schopni editionem, cuius
+a mea discrepantiam ubique subieci, fere semper cum Cois-
+
+<pb n="IX"/>
+liniano consentire. codicum vero Barberini et Vaticani
+nullam nunc rationem habui affatim constare ratus nihil
+bonae frugis in his Coisliniani apographis inesse. praeterea
+nullius pretii sunt librorum xi. xii. xiii. epitomae
+in codicis Barberini apographo superstites, quod Ioa. Frid.
+Gronovius partim sua partim aliena manu confecit, quodque
+in bibliotheca Leidensi extat: quarum epitomarum exemplum
+a Schopeno paratum mihi praesto fuit. nec magis
+curavi editionem principem, quae incredibili neglegentia a
+Petro Possino foras missa est: scilicet in ea Florentini codicis
+obscura memoria cum codicis Barberini apographo contaminata
+est. immani certe squalore, quo Possini culpa oppressum
+diu iacuit, purgatum nunc demum pristino suo
+splendore porphyrogenitae opus nitescit.</p>
+<p n="7">Schopeni emendationes, quas ipse in adnotatione proponere
+quam in textum recipere, quae fuit eius modestia, maluit,
+s litterula indicavi, meas r: sin vero Schopeni coniecturae,
+ut saepe factum est, Florentini testimoniis comprobatae
+sunt, ne Schopenus merita laude fraudaretur, hoc signum
+(s) vulgatae scripturae, quam in textu reliquerat, addidi.</p>
+<p n="8">Quae nunc sequuntur observationes addidi, ut emendandi
+rationes, si opus erat, aperirem ; qua in re si cui
+forte nimius fuisse videbor, is Annam non tam a philologis
+quam ab historicis; qui artis criticae in codicum
+emendatione factitandae minus periti sunt, legi reputanerit :
+emendatione res ab Anna narratas, quantum praefationis fines
+permittebant, illustravi: praecterea correxi quae corrigenda
+esse sero intellexi.</p>
+<p n="9">Itaque 3, 3, ubi codex epitomae Augustanus λιθιου
+exhibet, quod Schopenus coniecit, λόγου ut sententiae subvenire
+ita libri memoriae non satisfacere apparet. contra
+ληκυθίου in ea latere non sine probabilitate conicitur:
+nam Anna artis rhetoricae studiosissima ληκύθους id est
+pigmenta oratoria nusquam aspernatur. deminutivo utitur
+Synesius, qui p. 55 c declamatorem ληκύθιον αἰτεῖν dicit.</p>
+<p n="10">5, 18 συνεστράτευσε δ’ Ἰωάννῃ τῷ αὐτοκράτορι ἐμῷ
+
+<pb n="X"/>
+ἀδελφὼ καὶ κατ᾿ ἄλλων μὲν βαρβάρων * * ἔχοντι τὴν Ἀντιόχου
+πόλιν] vidit Schopenus orationem hiulcam esse. intercidit
+eorum barbarorum mentio, quos prae ceteris scriptor
+nominaverat, certe eius nomen qui Antiochiam tenebat.</p>
+<p n="11">7, 4 τὸ μὲν ὅτι . . . τὸ δὲ ὅτι] sententiae, quam
+noli lacunosam putare, medemur, si ex usu Annae reponimus
+τὸ μέν τι . . . τὸ δέ τι cf. I 157, 7. 8. 173, 24. 25
+II 31, 5. 6. 42, 21. 22. 288, 19. 20 (ind. graec. s. ν. τις).</p>
+<p n="12">7, 13 οὐκ ἀξίου τυραννίδος, ὥς τινες λέγουσιν, ἀλλὰ
+καὶ θειοτέρας καὶ κρείττονος] non debedam Schopeni correctionem
+θειοτέρου recipere, sed meam potius coniecturam
+sequi. scilicet post θειοτέρας intercidit ἀρχῆς vel
+simile quid.</p>
+<p n="13">7, 16 καὶ τύχαις ἐχρησάμην οὐκ ἀγαθαῖς, εἰ μή τις
+θεῖτο τύχην οὐκ ἀγαθὴν καὶ προσμειδιῶσάν μοι τήν τε
+γειναμένην αὐτὴν καὶ τὸν τεκόντα τοὺς αὐτοκράτορας καὶ
+τὴν πορφύραν ἀφ’ ἧς ἐβλάστησα] οὐκ ante ἀγαθὴν perperam
+ex praecedentibus οὐκ ἀγαθαῖς repetitum esse sententia
+clamat: rursus intercidit negativa particula 121
+hoc vidit Schopenus, illud eum fugit, sed praefationem
+Anna non ea qua consuevit diligentia relegisse videtur.</p>
+<p n="14">7, 20 φεῦ τῶν κυμάτων, φεῦ τῶν ἐπαναστάσεων]
+κύματα non sic sine additamento ad humanos casus transfertur;
+reponendum est καμάτων, quod verbum Anna in
+deliciis habet.</p>
+<p n="15">8, 4 καί με προκατελάμβανεν ὁ καπνὸς τοῦ καμινιαίου
+τούτου πυρὸς καὶ ὁ καύσων ἐκεῖνος τῆς ἀρρήτου ταύτης
+φλογώσεως καὶ τὰ καθ’ ἡμέραν * * πυρὸς τῆς ἀφάτου
+πυρκαιὰς, ὢ πυρὸς ἄνευ ὕλης ἀποτεφροῦντος, πυρὸς e. q. s.]
+omissum est primum a librariis nomen plurale generis
+neutrius, quod ad τὰ καθ’ ἡμέραν pertinebat, deinde ante
+πυρὸς, ut sequentia indicant, ὢ , denique quae hanc interiectionem
+antecesserunt, saltem genetivus ex verbis τὰ
+καθ’ ἡμέραν aptus, quem membrorum aequalitas poscit.</p>
+<p n="16">9, 8 μηματος F habet.</p>
+<p n="17">10, 10 ὥσπερ ψάμμου ποδῶν ὑποσπασθείσης] deest
+
+<pb n="XI"/>
+quam addidi ὑπὸ praepositio, quae inter ψάμμου et ποδῶν
+librarios facili negotio fefellerat.</p>
+<p n="18">10, 22 ὅτε δὴ καὶ] saepe quidem ex more Byzantinorum,
+qui latinae consuetudini promiscuo olim utriusque
+linguae usu assuefacti erant, Anna relativis particulis pro
+demonstrativis in sententiarum coniunctione usa est, numquam
+tamen, quantum memini, praeter unum locum 240, 4
+qui valde suspectus est, hoc in ὅτε particula fecit. deinde
+quae sequuntur δὴ καὶ demonstrativum τότε requirunt.
+alibi τότε Anna geminat δὴ interposito τότε δὴ τότε cf. 1
+156, 10 11 211, 18. 306, 18 (ind. graec. s. ν. τότε).</p>
+<p n="19">12, 2 κἀκείνῃ περιγενέσθαι] aut mecum κἀκείνης aut
+cum Schopeno, quod sane difficilius est, παρελέσθαι scribendum
+est.</p>
+<p n="20">12, 4 παρασκιάζων] παρασκιάζειν nusquam alibi reperitur
+neque παρα a sententia non alienum est. itaque
+περισκιάζων scribendum videtur, sed fateor huius translationis
+exemplum frustra me quaesivisse.</p>
+<p n="21">12, 8 ἀλλ᾿ εἴ τι ἐμοὶ πείθῃ, ἐπειδὰν καὶ αὖθις ἐλεύσεται
+πρὸς ὑμᾶς, χρημάτων πολλῶν κρατῆσαι τὸν Οὐρσέλιον
+καὶ πρὸς ἡμᾶς ἐξαποστεῖλαι δεσμώτην] quae Schopenus sic
+vertit ῾quare si me audis, cum iterum Urselius ad vos
+venerit, eum capies et magna mercede nobis vinctum trades.
+graeca cum latinis minime conveniunt : in graecis
+autem nec infinitivi habent quo referantur et genetivus
+χρημάτων πολλῶν ratione prorsus destitutus est. leni vero
+manu restitui possunt quae Anna scripsit: ἀλλ᾿ εἴ τι ἐμοὶ
+πείθῃ, ἐπειδὰν καὶ αὖθις ἐλεύσεται πρὸς ὑμᾶς, χρὴ μετὰ
+πολλῶν κρατῆσαι τὸν Οὐρσέλιον καὶ πρὸς ἡμᾶς ἐξαποστεῖλαι
+δεσμώτην.</p>
+<p n="22">12, 25 γὰρ] Schopenus οὖν restituit; similiter constat
+saepissime particulas inter se confusas esse, veluti
+δὲ et γὰρ 32, δὲ et τε 117, 13 et alibi.</p>
+<p n="23">14, 29 ἥπλωτο μὲν τῇ γῇ] Schopenus ἐφήπλωτο; facilius
+id quod feci ἐν additur.</p>
+<p n="24">18, 1 tutius mihi visum est inextricabilem Florentini
+
+<pb n="XIV"/>
+νοῦν σου (wohl deinem Verstande, ο über deinen Verstand!),
+wenigstens ist das der Sinn derselben. — Im
+zweiten Verse scheint in dem corrupten ὔπα des Florentinus
+πετᾷς (= du fliegst) zu stecken, entsprechend dem
+ἀφίπτασο der Paraphrase (das Praesens im Liede ist doch
+wohl das einzig Angemessene). Endlich ist statt γεράκιν
+zu schreiben γιεράκιν, was dreisilbig zu sprechen ist
+γιεράκιν = ἱεράκιν, Vulgärform ür ἱέραξ). Dass
+ohne weiteres so angeredet wird, kann niemandem auffallen,
+der die mittel- und neugriechische Volkspoesie
+kennt. Das von mir gestrichene Wort Ἀλέξιε, welches
+das Metrum zerstöt, kann leicht entbehrt
+ist wohl aus der Paraphrase eingedrungen. Ebensowenig
+ist das Pronomen hinter γεράκιν unentbehrlich.᾿</p>
+<p n="25">71, 11 lege ὁ δὲ.</p>
+<p n="26">79, 19 ps. 44, 5.</p>
+<p n="27">84, 6 ὅτι καταγελῷτο ἂν ὑπὸ τῶν περὶ τὸ τεῖχος ἱσταμένων
+καὶ τὰς ἐπάλξεις, εἰκότως τὸν πλησιασμόν τῶν τειχῶν
+ἀνεδύετο] pro εἰκότως non potest dubitari quin Anna εἰ
+οὕτως (scilicet τὸ μοναχικὸν περιβεβλημένος ἀμφίον) scripserit.</p>
+<p n="28">105, 12 τῶν βασιλείων ἐκείνη ἐξέρχεται ἐν τοῖς . . .
+οἰκήμασι κατασκηνώσασα] immo κατασκηνώσουσα sic saepe
+participia futuri in aoristi participia corrupta sunt. cf.
+192, 28 11 163, 26. 215, 28. 286, 24 alibi.</p>
+<p n="29">127, 12 lege καρκίνον.</p>
+<p n="30">133, 20 πολλοὺς κελεύθους] egregie emendavit Schopenus
+πελάγους κελεύθους, nec minus praeclare Diesterwegius
+eius discipulus 164, 8 διὰ πελταστῶν, ubi F δι᾿
+ἀποστόλων, C διὰ πολοστῶν habet.</p>
+<p n="31">145, 4 cf. Hom. II. 5, 529.</p>
+<p n="32">165, 32 — 166, 2] μηχανώμενος τάχα τὴν πρώτην καὶ
+ἀνύποιστον τῶν Λατίνων ὁρμὴν διὰ τούτων ἀποθραῦσαι περιπαρέντων
+τῶν τριβόλων τοῖς ποσὶ τῶν ἵππων] περιπαρέντων
+τῶν τριβόλων non posse coniungi et genus nominis quod
+femininum est et sententia quae περιπαρέντων ad τῶν ἵππων
+
+<pb n="XV"/>
+nos referre iubet, indicat. verba igitur τῶν τριβόλων olim
+a quodam pronominis τούτων interpretandi causa adiecta
+postea in ipsam Annae sententiam recepta ineptum, ut
+fieri assolet, locum occupanerunt.</p>
+<p n="33">167, 29 τοὺς μὲν δύο Πολόβους 176, 32 τοὺς Πολόβους
+II 39, 12 τὸν Πόλοβον] iuvat Guilelmi Tomaschekii
+ν. c. in litteris ad me datis verba afferre : ‘corrigendum
+esse videtur Πολόγους et Πόλογον : nam sic apud ceteros
+Byzantinos (e. c. apud Pachymerem) audit urbs, et in
+documentis Serbicis scribitur Polog'b et plurali numero obe
+Polozi ῾ambae Pologi'), quae sitae sunt ad
+sive Vardarii prope hodiernam urbem Kaluandely.'</p>
+<p n="34">200, 8 ἀλλὰ λῆψις ἦν ἐκείνοις ὡροσκόπου] recepta
+Florentini scriptura λῆψις pro vulgata λεῖψις apparet sententiam
+mancam esse: nempe fuit ἐκείνοις ἄγνωστος
+λῆψις ὡροσκόπου, ἐν οἶς προὐμαντεύοντο, καὶ πῆξις τῶν
+κέντρων καὶ τοῦ ὅλου διαθέματος ἐπιτήρησις καὶ ὁπόσα
+ἄλλα ὁ τὴν μέθοδον ταύτην εὑρηκὼς τοῖς ἐς ὕστερον παρέδωκεν,
+ἅπερ ξυνετὰ τοῖς περὶ τὰ τοιαῦτα ματαιάζουσιν.</p>
+<p n="35">206, 17 ἐκεῖνος δὲ . . . διὰ δώδεκα νυκτῶν διὰ τὸ
+ἀνύποπτον τὰς γὰρ ἡμέρας ἠρέμει) καταλαμβάνει τὴν Ἀντιόχειαν]
+ubi Possinus Schopenum in errorem induxit, qui
+cum illo verbis διὰ τὸ ἀνύποπτον in parenthesin receptis
+γὰρ ante τὰς transposuit.</p>
+<p n="36">208, 6 lege Σινώπης.</p>
+<p n="37">213, 11 adn. σεβαστοτάτῳ libri] σεβαστατω F σεβαστοτάτω.
+Possinus.</p>
+<p n="38">214, 27 caput sententiae, qua septentrionales et
+australes veteris imperii Romanorum indicantur, deest.</p>
+<p n="39">217, 23 lege γνώμης οὕτω.</p>
+<p n="40">222, 6 desideratur nomen archisatrapae: sed ipsa
+Anna non posuisse videtur, quod ipsi praesto non fuit :
+itaque lacunam reliquit, quam postea non explevit. eadem
+imperfecti operis indicia habes II 73, 24. 158, 4.
+178, 7. 226, 19. 269, 8. 294, 22.</p>
+<p n="41">224; 20 Βλίσνον] sic C, Σαλίνον F. ‘de nomine Σαλίνον
+
+<pb n="XVI"/>
+nihil certi statui potest, Βλίβνον contra vel Βλίβμον vel
+potius Βλίσσινον (bulgarice ‘blizbno’ i. e. ‘vicinus’) probatur
+et loco Ansberti exped. Friderici imp. p. 39 (fontes rerum
+Austr. script, vol. v) “ad oppidum Blisimos” inter Philippopolim
+et Hadrianopolim situm, et loco Villehardouini p. 267 “Blisme”.᾿ Tomaschek.</p>
+<p n="42">224, 29 ῾correctio Schopeni Εὔρου satis est firma,
+cum fluvius Πυρός, Πυρρός nusquam inveniatur; locus quidem
+extiterat aevo Romano ‘Pizos’, qui et Πίνξος apud
+Procop. aedif. 305, 32, sine dubio a fluviolo quodam, qui
+cum Hebro miscetur, dictus, sed dubitari potest, num tam
+vetustum nomen apud Byzantinos remanserit.’ idem.</p>
+<p n="43">232,	 27] εἰ δ᾿ οὖν recte Schopenus pro εἰ δ᾿  οὑ.
+cf. 170, 5 II 160, 31. 177, 28 alibi (ind. graec. s. v. εἰ).</p>
+<p n="44">235, 2. 8 Πρισθλάβαν 17 Πρισθλάβα] sic F, Περισθλάβαν
+et Περισθλάβα C. ‘Obwohl Περισθλάβα, auch Περσθλάβα
+bei Kedrenos-Skylitzes, Zonaras, Georg. Acrop. p. 22 u. A.
+edirt wird, ist dennoch die von C. Hase in seinem Leon
+Diakonos aufgenommene und commentirte Lesart Πραισθλάβα,
+wofür auch Πρισθλάβα ganz gut eintreten kann,
+vorzuziehen; so steht auch bei Nicetas Chon. p. 486 Πρισθλάβα
+(cod. Β. Πρεσθλάβα, Ephraëm 2916). Bulgarisch
+lautet der Name Prẽ-slawũ, was auch Prje-, Prea-, Priaausgesprochen
+wurde; demgemäss wird auch von den Byzantinern
+der Yocal ẽ (je, ea, ia) auf die verschiedenste
+Weise, durch at, ε, ί, ferner ιαdurch ια (z. Β. Τριάδιτζα =
+Srẽdec, Πριζδρίανα = Prizrẽn), εα (z. Β. Λεάβολις = Dẽwol),
+α (z. Β. Πρίλαπος = Prilẽp, Πρόsακος = Prosẽk) wiedergegeben.’
+Tomaschek.</p>
+<p n="45">233,	19 adn. lege πορρωτέρω.</p>
+<p n="46">238, 11 “ἵνα τί”, φησι “βασιλεῦ, τοῦ λοιποῦ ἐνταῦθα
+πειρᾶσαι ἐγκaρτερεῖv; ἵνα τὴν ζωὴν προδίδως ἀφειδήσας παντάπασι
+τῆς ἑαυτοῦ σωτηρίας;”] pro infinitivo πειρᾶσαι, cuius
+nulla ratio est, scripsi leni mutatione πειρᾷ σὺ ἐγκαρτερεῖν.</p>
+<p n="47">240, 4 οτε καὶ ἔλεγον οἱ πολῖται “ἀπὸ τὴν Δρίστραν
+εἰς Γολόην καλὸν ἄπληκτον, Κομνηνέ”] in Florentino in
+
+<pb n="XVII"/>
+mg Byzantinorum dictum manu quidem prima additum
+est, sed sine coniunctionibus ὅτε καὶ, quibus illud in
+epitoma sententiarum conexui accommodatum est. mihi
+hoc in ipso Annae opere non extitisse sed in epitoma
+demum adiectum fuisse videtur, unde Florentini librarius
+sumpserit. de ipso dicto Β. Schmidt haec ad me dedit :
+‘Diesmal weiss ich leider keinen Vorschlag zu machen,
+der mich selbst befriedigte. Das Dictum ist zu kurz und
+abgerissen. ἄπληκτον ist vielleicht nicht die richtige Form,
+aber doch wohl das richtige Wort ; denn es findet hier,
+wie mir scheint, eine Beziehung auf das statt was Anna
+Comnena 239, 29 so erzählt: ἔπληξεν αὐτὸν κατὰ
+γλουτοῦ, διέτρησε μὲν τὸν χρῶτα οὐδαμῶς, ὀδύνην δὲ ἐνεποίησεν
+ἀνήκεστον, ἥτις καὶ ἐπὶ πολλοῖς διέμεινεν αὐτῷ ἔτεσι.
+Hält man an ἄπληκτον fest, so muss man
+wie ἐλθεῖν ergänzen. Die Rede der πολῖται ist
+etwas ironisch. Viel gefälliger und verständlicher
+dieselbe werden, wenn man ἀπλήκτῳ schriebe, und darauf
+dürfte der Florentinus mit seinem Circumflex
+paenultima hinzuweisen scheinen ('von Dr. nach
+eine schöne Reise für einen Unverwundeten.᾿)
+diversorium' der lateinischen Uebersetzung ist,
+sehe, ohne Fundament.᾿</p>
+<p n="48">243, 4 τὰ μὲν οὖν περὶ τῆς λίμνης ὧδέ πη ἐχέτω,
+ὥσπερ παρ’ ἡμῶν νῦν πρώτως ἱστορούμενα, ἵν’ ἐνδειξαίμεθα
+e. q. s.] ὥσπερ interpolatoris est, qui ad sententiae formam
+non attendit.</p>
+<p n="49">256, 24 εἴσεισιν εἰς τὸ Ῥούσιον, καὶ ὅσους τῶν φευγόντων
+στρατιωτῶν κεῖθι κατέλαβε, καὶ τοὺς αὐτόχθονας
+ἅπαντας ὁπόσοι στρατεύσιμον τὴν ἡλικίαν εἶχον Ῥουσιώτας]
+sic F; ἅπαντας Ῥουσιώτας . . εἶχον vulgo. Ῥουσιώτας apertum
+est emblema, quod in F iam falso loco proditur; in vulgata
+scriptura transposito vocabulo interpolationis
+aliquantum obscurata sunt.</p>
+<p n="50">II 27, 1 Παρίστριον, quod vulgo (cf. 1 192, 22.
+229, 22. 26 11 60, 19) vocatur, etiam Παραδανούβιον
+
+<pb n="XVIII"/>
+appellari certa emendatione discimus, qua hic ex Florentini
+scriptura τοῦ παρὰ recuperatur (δοῦκα) τοῦ
+vulgata τοῦ περὶ Δουνάβου inscitum interpolatorem
+prodit.</p>
+<p n="51">49, 1 περιωρᾶτο] deprehendendi verbum quod requirimus
+leni manu restituitur, si πεφώρατο scribimus. longius
+abest a tradita scriptura Schopeni ἐπεφώρατο nec intellegitur
+formae ratio.</p>
+<p n="52">49, 9 τοῖς λογισμοῖς ἀναλύων ἐς τὰ ἐξ ἀρχῆς] ἀναλύειν
+ἔς τι plane inauditum; reposui ἀλύων cf. 1 106, 2
+τούτοις ἀλύων τοῖς λογισμοῖς.</p>
+<p n="53">52, 19 eadem intercidisse puto atque Schopenus, sed
+homoeoteleuto observato ea uno eodemque loco addidi.</p>
+<p n="54">60, 23 πάντες δὲ πρὸς τοῦτο αὐτὸν ἀπειργόντων αὐτὸς
+ἑαυτῷ πιστεύειν οὐκ εἶχεν] locum aperte corruptum persanasse
+videor scribens ἀπεῖργον. τοίνυν e. q. s. τοίνυν
+enim in principio sententiae ab Anna poni loci quos in
+adnotatione indicavi ostendunt.</p>
+<p n="55">63, 18 περὶ δὲ τὸ ἄκρον τῆς Κομανικῆς παρατάξεως
+* ἐγκεκραγότος μέρους τῆς Ῥωμαϊκῆς φάλαγγος * ἐτρέψαντο
+μέχρις αὐτῆς θαλάττης διώξαντες] Romanorum partem cum
+Comanis manum conseruisse et fugatam esse ex laceris
+sententiae fragmentis, quae supersunt, intellegitur. quae
+si reputamus, consentaneum est non uno loco sed duobus
+saltem locis a me signatis verba aliquot intercidisse.</p>
+<p n="56">65, 32 Τογορτὰν] immo Τογορτὰκ cf. 11 9, 24.</p>
+<p n="57">71, 7 τὰ ἄπειρα ἅπερ ἀνῆψαν πυρὰ πόρρωθεν ἐξελθὼν]
+cum non ipse ad ignes accesserit, sed procul eos viderit,
+ἐξιδὼν scribendum est, quocum et πόρρωθεν et accusativus
+πυρὰ convenit.</p>
+<p n="58">75, 1 διὰ τῶν Δακῶν ὡς ἐπίπαν πρὸς τὰς πρὸς ἡμᾶς
+ἐπερχομένους πανστρατιᾷ] πρὸς τὰς ex insequentibus orta.</p>
+<p n="59">78, 2 ἐπιλαθόμενοι μονονοὺ καὶ στρατιωτικῆς ἐμπειρίας
+καὶ τῆς τοῖς πρὸς μάχην ἀπιοῦσιν εὐταξίας] dativus cum
+sic poni solus nequeat, post ἀπιοῦσι deesse apparet πρεπούσης
+vel simile quid.</p>
+
+<pb n="XIX"/>
+<p n="60">78, 15 κἄν τινες] nec κἀν nec κἄν loucm habet, sed
+καί reponendum est: idem scripturae vitium 11 260, 23
+contrarium 11 311, 1.</p>
+<p n="61">79, 31 ἐντειλάμενος τὸν μὲν δοῦκα . . . ἐφεδρεύειν . . .
+δοῦναι . . . ὑποδέξασθαι, τὸν δὲ δοῦκα τοῦ στόλου παρακελεύσασθαι
+μηδαμῶς ἀναπεπτωκέναι e. q. s.] ut sententia
+cohaereat, παρακελευσάμενος scribere debemus, quod recipiendum
+fuit.</p>
+<p n="62">88, 28 ἑτέρους δὲ τῶν ἐκκρίτων ἡγεμόνων τοὺς πλείους
+μὲν τόξα φέροντας, τοὺς δὲ ἔγχεα μακρὰ ἐναγκαλισαμένους
+τὴν κατὰ τὸν ἅγιον Ῥωμανὸν πύλην ἀναπετάσαντας σφοδρὰν
+ἐνδείξασθαι κατ’ αὐτῶν τὴν ὁρμὴν ἐκέλευε τοιαύτην καταστησαμένους
+τὴν παράταξιν] ἡγεμόνων ineptum glossema
+est, cum milites selectos dici appareat. in fine sententiae
+deest vinculum cum iis quae sequuntur: ἕκαστον τῶν τὰ
+δόρατα φερόντων ἐξ ἑκατέρου μέρους ὑπὸ δύο φυλάττεσθαι
+πελταστῶν.</p>
+<p n="63">91, 12 πίπτουσιν ἐξ ἑκατέρου μέρους ἱκανοί, τιτρώσκονται
+δὲ καὶ οἱ τοῦ αὐτοκράτορος, ὁπόσοι ἀναισχυντότερον
+αὐτῷ προσέβαλον] dixerat Anna sine dubio, multos vel
+adeo plures utrimque vulneratos esse. cf. 11 103, 2 sq.:
+tum transierat ad imperatoris milites, ut eorum virtutem
+in repellendo Latinorum impetu praedicaret. sic quae in
+lacuna ante οἱ τοῦ αὐτ. perierint intellegimus.</p>
+<p n="64">94, 1 πάντων οὖν συνεληλυθότων καὶ αὐτοῦ δὴ τοῦ
+Γοντοφρέ, ἐπεὶ καὶ ὁ ὅρκος ἤδη τετέλεστο, τολμήσας τις ἀπὸ
+πάντων τῶν κομητῶν εὐγενὴς εἰς τὸν σκίμποδα τοῦ βασιλέως
+ἐκάθισεν] verba ἀπὸ πάντων τῶν κομητῶν quid significent
+sic posita, frustra quaeris; cum vero in praecedentibus
+nunc non dicatur id quod dicendum fuit, omnes iam comites
+ius iurandum dedisse, transpositis illis ita, ut pro
+ἀπὸ scribatur ὑπὸ, duplex mendum tollitur.</p>
+<p n="65">102, 1 ἐπ᾿ αὐτῷ] τούτῳ addidi consuetudinem Annae
+secutus.</p>
+<p n="66">103, 2 πίπτουσι μὲν οὖν ἐξ ἑκατέρων πολλοί, κτείνονται
+δὲ οὐχ ἥττονες, τιτρώσκονται δὲ οἱ πλείους] verba
+
+<pb n="XX"/>
+κτείνονται δὲ οὐχ ἥττονες ab Anna profecta non esse certum
+est, sed vide mihi mirandum interpolatoris stuporem.</p>
+<p n="67">121, 8 in lacuna perierunt quae de captivis imperator
+statuit.</p>
+<p n="68">124, 5 ἑνωθέντες τῷ κατ᾿ αὐτῶν ἐρχομένῳ στρατεύματι
+τοῦ Ἀμεριμνῆ συνῆψαν πόλεμον μετ’ αὐτῶν] pro ἑνωθέντες
+scribendum est ἐπελθόντες. nempe occurrerunt hostium
+exercitui, non se cum eo coniunxerunt.</p>
+<p n="69">127, 8 βοήθειαν ἐκεῖθεν ᾐτεῖτο] ἐκ Κύπρου in epitoma
+legitur: quod qui scripsit, recto consilio, cum ἐκεῖθεν
+non haberet quo respiceret, usus est. sed quia probabile
+non est, ἐκ Κύπρου abiisse in ἐκεῖθεν, ego nomen Eumathii
+ducis Cypri (Εὐμάθιον) in ἐκεῖθεν</p>
+<p n="70">132, 7 περὶ τούτων, τοῦ Βἀρδα φημὶ καὶ τοῦ ἀρχιοινοχόου
+Μιχαήλ] τούτων addidi. cf. 11 269, 14
+ῥηθέντων γενναίων ἀνδρῶν, τοῦ τε Στθπειώτου καὶ τοῦ
+Στραβοβασιλείου φημί 291, 30 τὸ τοῦ ἐμοῦ σωτῆρος θαῦμα,
+τὸ τῶν ἑπτακισχιλίων φημὶ καὶ πεντακισχιλίων 1 34, 31
+τοὺς προειρημένους ἄνδρας ἐκείνους, λέγω δὴ Οὐρσελίους
+καὶ Βασιλακίους 100, 5 τὰ τῆς φύσεως ἀγάλματα ταῦτα,
+λέγω δὴ τοὺς ἀρτιστεφεῖς αὐτοκράτορας.</p>
+<p n="71">132, 17 ἐπεὶ δὲ ἐξερχόμενοι οἱ Φράγγοι πρὸς τὰ
+Ιεροσόλυμα πρὸς κατάσχεσιν τῶν πόλεων Συρίας] πρὸς prius
+falso praecepit librarius ex sequentibus. Hierosolymis enim
+egressi Franci Syriam occupaturi erant.</p>
+<p n="72">135, 28 ὅλοις ἱστίοις τὴν πρὸς τὴν μεγαλόπολιν ὑγρὰν
+ὑπέπλεον κέλευθον] ἐπέπλεον scribendum esse docet Homerus,
+quem more suo Anna sua exornatura adhibet.</p>
+<p n="73">137, 21 cf. ad 1 323, 27.</p>
+<p n="74">139, 26 lege ‘αὐτῶν C' pro ‘αὐῶν</p>
+<p n="75">142, 7 παρὰ σοῦ καὶ τῆς σῆς στρατιᾶς πικρίας ἀνεφορήθην]
+legendum est ἐνεφορήθην cf. 11 260, <lb n="4"/>
+γλυκέος ἐμφορῶν δόγματος.</p>
+<p n="76">150, 26 ὤκλαζε μὲν πρὸς τὴν φύσιν τῶν νοσημάτων,
+ἀντανέθορε δὲ πρὸς τὴν βοήθειαν τῶν πραγμάτων] pro
+φύσιν, quod ineptum est, φύρσιν scripsi. φύρσις enim
+
+<pb n="XXI"/>
+idem atque στάσις, σύγχυσις , ταραχὴ significat, ut lexicis
+docemur.</p>
+<p n="77">151, 9 τίς ex superioribus male repetitum est.</p>
+<p n="78">154, 5 ἀποστόλου recipiendum fuit.</p>
+<p n="79">157, 4 τοῦ εἰρηνεύειν ἐκτόπως ἐπεμελεῖτο καὶ παροῦσαν
+ἀεὶ πανταχόθεν συνεῖχε καὶ ἀπούσης ἐπηγρύπνει πολλάκις, ὅπως
+ἐπανέλθοι] ante παροῦσαν verbum veluti εἰρήνην intercidit.</p>
+<p n="80">157, 12 ἀλλ’ ὅπερ ἔλεγον τοῦ λόγου ἀρχομένη, ὅτι
+θαυμάζειν ἔχω τὴν τοσαύτην τῶν πραγμάτων τῶν πολεμικῶν
+ἐπίχυσιν] sententia integra est nec quidquam deest, ut olim
+falso credideram. cf. 1 215, 11 ἀλλ’ ὅπερ ἐξ ἀρχῆς
+ὅτι στρατιὰν ἀποστέλλων τῷ τῆς Νικαίας τυράννῳ Ἀπελχασὴμ
+γνώμης εἶχεν, οὐχ ἵν’ ἐκεῖνον ἐξέληται τοῦ κινδύνου, ἀλλ᾿
+ὅπως ἂν ἑαυτῷ τὴν νίκην περιποιήσηται.</p>
+<p n="81">161, 5 τοῖς τὴν φυλακὴν τούτων ἐμπεπιστευμένοις
+τῶν ἀνακτόρων] τῶν ἀνακτόρων inepte a quodam ad τούτων
+additum est.</p>
+<p n="82">161, 28 deest verbum cum ἰδεῖν articulis τε καὶ
+copulatum: ceteroquin locus sanus est et integer.</p>
+<p n="83">165, 5 cf. ad 1 45, 22.</p>
+<p n="84">166, 9 τὸν ἀναμεταξὺ Λογγιβαρδίας ἐπιμελῶς τηρεῖν
+πορθμὸν] deleto Λογγιβαρδίας additamento omnia bene se
+habent. cf. e. c. 11 169, 8 τὸν ἀναμεταξὺ πορθμόν :
+ν. 18 (in F) et 23 similes interpolationes.</p>
+<p n="85">168, 14 ἐπανιτέον δ’ αὖθις τὸν λόγον πρὸς τὸ προκείμενον]
+ἐπανακτέον scripsi. cf. π 185, 25 ἐπὶ τὸν βασιλέα
+καὶ αὖθις τὸν λόγον ἐπανακτέον.</p>
+<p n="86">168, 19 μᾶλλον posterius ex praecedentibus falso repetitum
+est.</p>
+<p n="87">172, 30 ὑπόπτερον δὴ τὸ τοῦ λόγου] ante δὴ intercidit
+τοῦτο cf. 1 26, 22 τὸν δ’ οὐκ εἶχε νήδυμος
+τοῦτο δὴ τὸ τῆς γλυκείας ποιήσεως 30, 25 καί, τοῦτο δὴ
+τὸ τοῦ Ἀριστοφάνους, ἐρεβοδιφῶν 74, 3 ὕστερον, τοῦτο δὴ τὸ
+πεπαροιμιασμένον, νοῦν οἴσαντες (11 283, 10) 149, 22
+τοῦτο δὴ τὸ τῶν μύθων, Πηγάσου πτερὰ λαβών. alia exempla
+praebet ind. graec. s. v. οὗτος.</p>
+
+<pb n="XXII"/>
+<p n="88">175, 22 πρὸς φόνον τὸ στασιάζον τοῦ αὐτοκράτορος
+μέρος παρέθηγε] ipse falsus locus emblema (τοῦ
+prodit; transpositione vero (φόνον τοῦ 0
+nihil lucramur nisi otiosum Additamentum.</p>
+<p n="89">177, 28 cf. 137, 21 1 232, 27.</p>
+<p n="90">180, 31 cf. Hom. Il. 7, 220. 11, 545.</p>
+<p n="91">182, 27 ᾔσθοντό τε αὐτοὺς καὶ μᾶλλον τὴν ἀπ’ ἐκείνων
+ὀπὴν ἀνερρωγότες καταντικρὺ] ante ὀπὴν lacunam
+signavi, quia μᾶλλον indicat sequi aliud substantivum,
+quod item ex ᾔσθοντο pendeat.</p>
+<p n="92">184, 31 εἰς πείσματος σχῆμα] πεῖσμα nihil hic significat.
+tabulati scilicet instar machina extruitur, itaque
+πήγματος Anna scripsit.</p>
+<p n="93">195, 31 καὶ τοὺς μὲν λοιποὺς κομήτας φρουρὰ διεδέξατο]
+ceteris comitibus sine dubio Anna aliquem vel aliquos nominatim
+opposuerat; sed cum nihil eiusmodi sequatur,
+verba intercidisse colligitur. an etiam hic imperfecti operis
+vestigia agnoscenda sunt? fortasse enim nomina, quae, dum
+haec scribit, praesto ei non fuerunt, postea additura erat.</p>
+<p n="94">207, 19 συνηγόρει δὲ τῷ μυκτῆρι διὰ τῶν στέρνων
+καὶ διὰ τοῦ μυκτῆρος τὴν τῶν στέρνων εὐρύτητα] verbum
+quod accusativum regit in altera sententiae parte deest:
+sic leniore medela utimur, quam si cum Millero audacter
+casum corrigimus.</p>
+<p n="95">209, 24 τράπωμαι] non potest facilius indicativi quae
+requiritur forma restitui quam ita, ut ex penu Homerico,
+ex quo sua depromere amat porphyrogenita, verbum τρωπᾶσθαι
+petatur.</p>
+<p n="96">210, 14 ἀλλ’ ἐπειδὴ λαμβάνω . . ., δέχομαι μὲν . . .
+καὶ τὸ ἐνδύναμον ἔχων . . ἀντίδοσιν . . δίδωμι τὴν πίστιν
+e. q. s.] perturbatur sententia particula μὲν, cui nihil respondet,
+et verbo finito δέχομαι. quae enim in protasi dixerat
+Βoëmundus, ea in principio apodosis repetivit; sed ut
+posterius membrum repetitionis τὸ ἐνδύναμον ἔχων, ita
+etiam prius non verbo finito sed participio expressum
+fuit: ergo δεχόμενος pro δέχομαι μὲν scribendum est.</p>
+
+<pb n="XXIII"/>
+<p n="97">211, 8 non εἴ τινεσ, sed οιτινες Annam scripsisse
+maxime apodosis κατὰ τούτων πάντων findem facit.</p>
+<p n="98">213, 5 τοὺς δὲ ἄλλους βαρβάρους, ἐθέλοντας δὲ ὅμως
+ὑπὸ τὸ ἐμὸν δόρυ γίνεσθαι] hos barbaros sui iuris nec
+imperio Romano subditos fuisse Boëmundus declaraverat:
+quae pars sententiae ante ἐθέλοντας intercidt.</p>
+<p n="99">216, 13 ἀλλὰ τοὺς τοιούτους τε πάντας καὶ ὅσοι τὸ
+Φραγγικὸν πεφοβημένοι ξίφος καὶ τὸν ἐπηρτημένον θάνατον
+ἀποκλίναντες τοὺς σεβαστοὺς βασιλέας ἐπικαλοῦνται ὑμᾶς,
+οὐ διὰ τοῦτο ἀνθέξεσθε τῶν ἡμετέρων δορυαλώτων] deest
+vebum, unde accusativi illi τοὺς τοιούτους πάντας pendeant:
+praeterea alia intercidisse consentaneum est.</p>
+<p n="100">218, 1 ἦσαν δὲ ἄρα καὶ αἱ ἀπὸ τῆς δουκικῆς ἀρχῆς
+τῆς κατὰ τὴν πόλιν Ἀντιοχείας ἀποτμηθεῖσαι μερίδες καὶ
+παρὰ τῆς βασιλείας ὁμῶν] καὶ ante παρὰ adiectum est a
+quodam, quem verborum sententia fugit.</p>
+<p n="101">218, 4 τό τε θέμα τὸ Ποδανδὸν καὶ πρὸς τούτοις]
+saltem unius regionis nomen deesse praeter particulam τε
+verba πρὸς τούτοις ostendunt.</p>
+<p n="102">219, 18 τὴν Νέκραν] nominativus requiritur: itaque
+ut antecedentia oppida ita etiam hoc neutri generis τὸ
+Νέκραν fuit.</p>
+<p n="103">219, 25 προσδεδώρηται γάρ μοι . . . καὶ τὸ δουκάτον]
+historicos nomemus, ne novam pacis condicionem a librariis
+obscuratam sed recta argumentatione recuperatam neglegant.
+de ipsa Edessa et de dono annuo in iis quae ab
+his verbis incipiunt stipulationibus agi verbis antecedentibus
+μηδὲ ταῦτα ἀμνημόνευτα κείσθω τὰ περὶ τῆς Ἐδέσης
+μηδὲ τὰ παρὰ τοῦ θεοφρουρήτου κράτους ὑμῶν τετυπωμένα
+μοι ἐτήσια τάλαντα, λέγω δὴ τὰς διακοσίας λίτρας τῆς Μιχαηλάτου
+χαραγῆς indicatur. cum igitur de dono annuo
+inde a verbis 220, 5 ἀλλὰ καὶ τὸ ἀπὸ τοῦδε dicatur, in
+proxime praecedentibus Edessam commemoratam esse necesse
+est. quare nomen eius in his restituendum est ita:
+καὶ τὸ δουκάτον τῆς Ἐδέσης.</p>
+<p n="104">220, 30 τὰ ὑπὲρ τοῦ κράτους ὑμῶν καὶ νῦν φρονῶ
+
+<pb n="XXIV"/>
+καὶ εἰσέτι φρονήσω μηδ’ ἄχρι ψιλῆς ἐννοίας κακόηθες ἢ
+δολερὸν πρὸς ὑμᾶς ἐνδειξόμενος] verbis μηδ’ ἄχρι ψιλῆς
+ἐννοίας adducimur ut ἐνδεξόμενος scribendum esse
+intellegamus.</p>
+<p n="105">221, 6 ἀλλὰ καὶ ὑπὲρ τῶν σῶν ἐχθρῶν θωρακιούμεθα]
+ὑπὲρ et τῶν σῶν ἐχθρῶν cum inter se non concinant,
+aliquot inter haec verba deesse perspicitur veluti haec
+σου κατα.</p>
+<p n="106">226, 21 συνείπετο καὶ αὐτὸς τοῖς πρὸς τὴν Σμύρνην
+ἀπερχομένοις] hoc loco in epitome nomen Smyrnae adiectum
+est, in F post πρὸς lacuna septem litterarum comparet.
+fortasse etiam Anna in suo opere nomen omiserat.
+sed cum indicium de hac re admodum esset lubricum,
+nomen addere maluimus.</p>
+<p n="107">227, 18 ὁ βασιλεὺς ἐνταῦθα κατανοῶν καὶ τοὺς ἐπὶ
+τῇ πόλει . . . καὶ ὅτι — 228, 1 μετεδίδοσαν, φέρειν οὐκ
+εἶχεν] pro ἐνταῦθα scribendum est ἐν ταὐτῷ ex usu Annae
+cf. 1 186, 3. 204, 9 alibi (ind. graec. s. ν.</p>
+<p n="108">228, 32 καὶ ἑαυτὸν μὲν εἶναι τὸν νοῦν τὸν μέγαν
+τὸν Ἀσσύριον καὶ ὥσπερ τινὰ γίγαντα μέγαν καὶ ἀνυπόστατον
+καὶ ἄχθος ἀρούρης ἑστῶτα τῇ γῇ, τοὺς δὲ Ῥωμαίους
+ξύμπαντας μύρμηκας ἐλογίζετο καὶ τῶν ζῴων τὰ ἀσθενέστατα]
+nus vel Nus ille magnus Assyrius nullus umquam fuit:
+frustra enim ut eum investiges Neoplatonicorum Gnostifrustra
+placita scrutabere aut Chaldaeorum et Assyriorum
+mysteria adibis. reposui Νίνον idque me recte fecisse
+veteres christiani scriptores fidem faciunt, qui Νίνον eundem
+atque Nemrod, qui γίγας κυνηγὸς ἐναντίον κυρίου
+τοῦ θεοῦ fuit secundum Septuaginta (genes. 10, 9), iudicantes
+illum quoque recte gigantem appelari probant.
+veluti Clement. recogn. 4, 29 ῾rex appellatur quidam Nemod,
+quem et ipsum Graeci Ninum vocaverunt, ex cuius
+nomine Ninive civitas vocabulum sumpsit’. Rufini versionem
+supplet chron. pasch. 1 50, 11 sqq. Bonn.:
+Νεβρὼδ ὁ κυνηγὸς καὶ γίγας, ὁ Αἰθίοψ, ἐξ οὗ Μυσοί.
+λέγει γὰρ ἡ γραφή ‘καὶ χοῦς ἐγέννησε τὸν Νεβρὼδ τὸν
+
+<pb n="XXV"/>
+κυνηγὸν καὶ γίγαντα Αἰθίοπα. οὗτός ἐστιν Νεβρὼδ ὀ γίγας
+καὶ κυνηγὸς ἐναντίον κυρίου.’ τούτῳ τῷ Νεβρὼδ την βασιλείαν
+Βαβυλῶνος μετὰ τὸν κατακλυσμὸν ἡ θεία γραφὴ ἀνατίθησι.
+φησὶ γὰρ ἡ γραφή ‘ἀρχὴ τῆς βασιλείας αὐτοῦ Βαβθλών᾿.
+λέγει δὲ περὶ τούτου Πέτρος ὁ ἀπόστολος εἰς τὰ
+Κλημέντια πῶς ἦρξεν εἰς Βαβυλῶνα ἐν Αἰγύπτῳ κληρωθείς·
+φησὶ γὰρ Πέτρος ‘οὗτος ὁ Νεβρὼδ μετοικήσας ἀπὸ Αἰγύπτου
+εἰς Ἀσσυρίους καὶ οἰκήσας εἰς Νίνον πόλιν ἣν ἔκτισεν Ἀσσοὺρ
+καὶ κτίσας τὴν πόλιν, ἥτις ἦν Βαβυλῶνος, πρὸς τὸ
+ὄνομα τῆς πόλεως ἐκάλεσεν αὐτόν. Νίνον τὸν Νεβρὼδ οἱ
+Ἀσσύριοι προσηγόρευσαν. οὗτος διδάσκει Ἀσσυρίους σέβειν
+τὸ πῦρ. ἔνθεν καὶ πρῶτον αὐτὸν βασιλέα μετὰ τὸν κατακλυσμὸν
+ἐποίησαν οἱ Ἀσσύριοι τοῦτον, ὃν μετωνόμασαν
+Νίνον.’ ταῦτα Πέτρος περὶ τούτου.</p>
+<p n="109">239, 10 lege Χοροσάν.</p>
+<p n="110">248, 6 καὶ ὃς περιζώσας τὸν καλαμῶνα διὰ τῶν στρατιωτῶν
+πῦρ ἐκ μέρους τοῦ καλαμῶνος ἀφεῖναι ἐπέταξε] verbo
+opus non esse videtur, ut demonstrem ἁφῆναι scribendum
+esse. pariter certae sunt emendationes 249, 3. 252, 7.23.
+253, 12 etc.</p>
+<p n="111">256, 1 οὔπω ἐνιαυτὸς εἷς παρεληλύθει καὶ λογοποιουμένην
+ἀκηκοὼς αὖθις περὶ τῶν Κομάνων διὰ τοῦ Ἴστρου
+διαπεραίωσιν] περὶ delendum est. cf. 11 73, 26 λογποιουμένην
+ἠκηκόει ἀπείρων Φραγγικῶν στρατευμάτων ἐπέλευσιν
+I 117, 10 λογοποιουμένην δὲ ἀποστασίαν περὶ τὴν
+μαθὼν 11 19, 9 λογοποιουμένην δὲ Κομάνων ἒφοδον
+μανθάνων.</p>
+<p n="112">256, 5 hinc incipit extrema operis pars, in qua Florentini
+ope destitutis summa cum cautione ad nius codicis
+Coisliniani memoriam nobis recensio instituenda est.
+valde enim corruptum esse hunc testem auctus ipse emendationum
+numerus documento est, quae plerumque ita
+sunt comparatae, ut commendatione non egeant. interdum
+prima manus Coisliniani veram scripturam habuisse videtur,
+in cuius locum a correctore falsa substituta est.</p>
+
+<pb n="XXVI"/>
+<p n="113">262, 9 οὐ μὴν ἄθηρος παντάπασιν ἦν, εἰ καὶ τούτους
+τοὺς ἀρχαίους λόγοις τῷ τέως οὐκ ἐθήρασεν] pro ἀρχαίους
+scripsi ἀρχηγούς, duces enim illos Anna vulgo
+haereticorum opponit; ἀρχαίους vero non est quo defendas.</p>
+<p n="114">262, 21 τοὺς δὲ χυδαιοτέρους συναθροίσας ἅπαντας
+καὶ ὅσοις καπανοῖς ἦσαν καὶ περί ἄροτρα καὶ βόας
+ἠσχόληντο] emendavi ὅσοι σκαπανεῖς: σκαπανεὺς enim
+apud posteriores scriptores idem yalere atque σκαφεὺς scimus.</p>
+<p n="115">265, 20 τον ἀναμεταξὺ Κιβωτῷ Αἰγιαλῷ διαπλῳσάμενος
+πορθμὸν] Κιβωτοῦ καὶ Αἰγιαλῶν scribendum esse
+docent Annae verba ΙΙ 244, 14 κατέλαβε τόπον τινά Αἰγιαλούς
+καλούμενον, ἐξ οὗ πρὸς τὴν Κιβωτὸν διαπλῴσασθαι ἔμελλεν.</p>
+<p n="116">269, 2 ἄνδρες οὗτοι μαχιμώτατοι καὶ τῶν πάλαι ὑμνουμένων,
+οὗτοι κατὰ τὰς ἀκρολοφίας τῶν Γερμίων ἐνδιατρίβοντες]
+οὗτοι posterius ex superiore versu repetitum.</p>
+<p n="117">273,	8 ὅτιπερ αὐτολογοῦσα C.</p>
+<p n="118">274,	19 fortasse etiam hoc loco Anna situm accuratius
+indicatura erat, sed ad propositum non rediit.</p>
+<p n="119">275,	30 sqq. iterata codicis lectione plura quam editor
+princeps dispicere potui, quod idem factum est 307, 17.</p>
+<p n="120">278,	1 ὁ δὲ Βούρτζης ἐκεῖθεν νικητὴς ὑποστρέφων
+καὶ πολλὴν συνεπιφερόμένος λείαν συνηντηκώς τινι τῶν
+ἐκεῖ ἐρχομένων] ἐκεῖθεν seclusi, ἐκεῖ autem in ἐκεῖθεν mutavi.
+correctio enim ἐκεῖθεν, quae agnito librarii errore,
+qui ἐκεῖ scripserat, in margine olim posita fuit, postea in
+falsum locum illata est. idem factum esse vidimus supra ad Ι 35, 7.</p>
+<p n="121">279,	9 εἶχε δὲ τὸ μὲν ἔμπροσθεν κέρας ὁ βασιλεὺς
+Μιχαήλ] quomodo Michaelis nomen irrepserit, iam in adnotatione
+ad h. l. explicavi.</p>
+<p n="122">287, 30 πάγας αὐτῷ καὶ βύθυνον ὀρύττων] deest
+verbum ad πάγας aptum.</p>
+<p n="123">292, 31 desideratur sententiae finis.</p>
+<p n="124">295, 30 verba seclusa repetita sunt ex versu 14 sq.</p>
+
+<pb n="XXVII"/>
+<p n="125">296, 1 μετακαλιῖται τὸν ἄνδρα μεθ’ οἴου προσχήματος]
+scripsi ὁσίου: ὅσιον πρόσχημα simulationem licitam
+significat.</p>
+<p n="126">301, 14 ἐκείνους δὲ πάλιν εἱρκταῖς εἶχε διαιρήσας τοὺς
+ἀποστόλους τοῦ ἀσεβοῦς βασιλείου διακρίνας τῶν ἄλλων]
+διαιρήσας vox vulgaris est: cum igitur verborum διαιρήσας
+et διακρίνας alterum eiciendum sit, utrum secludendum sit,
+ambigi non potest.</p>
+<p n="127">310, 20 τὰ τῆς σπουδῆς ἅπαντα κενόσπουδα . . . ἐδείκνυτο]
+raro vocabulo κενόσπουδος etiam alibi Anna sic
+utitur. cf. 11 131, 18. 238, 27.</p>
+<p n="128">310, 23 νοσήματος ἐπακμάζοντος] cf. 11 308, 29 τῆς
+νόσου ἐπακμαζούσης.</p>
+<p n="129">311, 23 κυκλώσαντος αὐτὴν παντὸς τοῦ συγγενῶν
+χοροῦ] cf. 11 221, 5 ὁπόσοι τῆς ἐμῆς ἐξουσίας εἰσὶ καὶ
+χορὸν τῶν ἐμῶν στρατιωτῶν ἀπαρτίζουσιν.</p>
+<p n="130">313, 27 καὶ αἱ ἄλλαι?</p>
+<p n="131">Pauca addo de Annae dicendi genere. Alexias igitur
+assiduam ubique prodit antiquorum imprimis Herodoti
+Thucydidis Polybii studium miraque arte quam prorsus
+muliebrem dicas distincta est variis illorum auctorum
+dictionibus et verbis singularibus. ex Polybio, quem maxime
+Anna imitatur, cum urbium oppugnationes et proelia describit,
+integram sententiam 1, 14 in praefationem suam
+4, 26 — 5, 3 transtulit nomine auctoris celato. Thucydidis
+vero adeo studiosa est, ut non solum verba eius
+insolita veluti πολεμησείω aucupetur, sed etiam eius idiotismos
+referat, in his eum cuius causas et historiam in
+analectis meis criticis et grammaticis (ind. schol. Vratislav.
+1877/78 p. 11 sqq.) illustravi. nempe Anna more Thucydideo
+participiis pro infinitivis utitur cf. 1 113, 6 ᾔδει
+ἀκριβῶς τὸ ταύτης ἐφ’ ἅπασιν ἐπὶ τὸ κράτιστον συγκεχωρηκός
+37, 21 καὶ προβάλλεται μὲν τὴν εὔνοιαν καὶ τὸ
+μεταμέλον πλάττεται. praeter ipsos auctores lexica adiisse videtur:
+certe Anna ἅπαξ εἰρημένων feracissima est, ut ex eiusd
+opere Dindorfius Stephani Thesaurum multis locis ditaverit.
+qua de re quaecumque sciri opus est, disci possunt ex
+
+<pb n="XXVIII"/>
+copioso graecitatis indice, quo editionem Bonnensem auxi.
+posterioris autem sermonis ac consuetudinis in Annae opere
+praeter voces et formas maxime verborum quasdam nos
+admonet perturbatio modorum, quos ut recte poneret, ne
+Annae quidem contigit. ceterum eius dicendi genus ab alio
+in libro peculiari mox exendo accurate tractabitur, quo
+via munietur ad graecitatis Byzantinae historiam, cuius
+nunc ne liniamenta quidem extant, condendam.</p>
+</div>
+</body>
+</text>
+</TEI>

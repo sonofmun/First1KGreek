@@ -1,0 +1,12 @@
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg2022" xml:lang="eng" urn="urn:cts:greekLit:tlg2022.1st1K001">
+  <ti:title xml:lang="eng">Commentary Matter for The Five Theological Orations of Gregory of Nazianzus</ti:title>
+  <ti:commentary urn="urn:cts:greekLit:tlg2022.1st1K001.1st1K-eng1" workUrn="urn:cts:greekLit:tlg2022.1st1K001" xml:lang="eng">
+    <ti:label xml:lang="eng">Preface to The Five Theological Orations of Gregory of Nazianzus</ti:label>
+    <ti:description xml:lang="eng">Preface to The Five Theological Orations of Gregory of Nazianzus, Mason, Cambridge, 1899</ti:description>
+    <ti:about urn="urn:cts:greekLit:tlg2022.tlg007.opp-grc1"/>
+    <ti:about urn="urn:cts:greekLit:tlg2022.tlg008.opp-grc1"/>
+    <ti:about urn="urn:cts:greekLit:tlg2022.tlg009.opp-grc1"/>
+    <ti:about urn="urn:cts:greekLit:tlg2022.tlg010.opp-grc1"/>
+    <ti:about urn="urn:cts:greekLit:tlg2022.tlg011.opp-grc1"/>
+  </ti:commentary>
+</ti:work>

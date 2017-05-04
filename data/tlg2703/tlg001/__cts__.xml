@@ -11,4 +11,14 @@
     <ti:label xml:lang="lat">Alexias</ti:label>
     <ti:description xml:lang="mul">Anna Comnena, Alexias, Reiferscheid, Teubner, 1884</ti:description>
   </ti:edition>
+  <ti:commentary urn="urn:cts:greekLit:tlg2703.tlg001.1st1K-lat1" xml:lang="lat" workUrn="urn:cts:greekLit:tlg2703.tlg001">
+    <ti:label xml:lang="eng">Preface to Alexias</ti:label>
+    <ti:description xml:lang="mul">Preface to Anna Comnena, Alexias, Reiferscheid, Teubner, 1884</ti:description>
+    <ti:about urn="urn:cts:greekLit:tlg2703.tlg001.opp-grc1"/>
+  </ti:commentary>
+  <ti:commentary urn="urn:cts:greekLit:tlg2703.tlg001.1st1K-lat2" xml:lang="lat" workUrn="urn:cts:greekLit:tlg2703.tlg001">
+    <ti:label xml:lang="mul">Index Nominum et Rerum to Alexias</ti:label>
+    <ti:description xml:lang="mul">Index Nominum et Rerum to Anna Comnena, Alexias, Reiferscheid, Teubner, 1884</ti:description>
+    <ti:about urn="urn:cts:greekLit:tlg2703.tlg001.opp-grc1"/>
+  </ti:commentary>
 </ti:work>

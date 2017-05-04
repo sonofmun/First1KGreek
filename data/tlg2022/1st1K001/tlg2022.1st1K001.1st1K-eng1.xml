@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xml:lang="eng">
+        <fileDesc>
+            <titleStmt>
+                <title>Preface to The Five Theological Orations of Gregory of Nazianzus</title>
+                <author>Arthur James Mason</author>
+                <sponsor>University of Leipzig</sponsor>
+                <funder>European Social Fund Saxony</funder>
+                <principal>Gregory Crane</principal>
+                <principal>Monica Berti</principal>
+                <meeting/>
+                <respStmt>
+                    <persName>Gregory R. Crane</persName>
+                    <resp>Editor-in-Chief, Perseus Digital Library</resp>
+                </respStmt>
+                <respStmt>
+                    <persName xml:id="DDD">Digital Divide Data</persName>
+                    <resp>Corrected and encoded the text</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Matt Munson</persName>
+                    <resp>Project Manager (University of Leipzig), 2016 - present</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Annette Geßner</persName>
+                    <resp>Project Assistant (University of Leipzig), 2015 - present</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Thibault Clérice</persName>
+                    <resp>Lead Developer (University of Leipzig)</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Bruce Robertson</persName>
+                    <resp>Technical Advisor</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Greta Franzini</persName>
+                    <resp>Project Manager (University of Leipzig), 2013-2014</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Frederik Baumgardt</persName>
+                    <resp>Technical Manager (University of Leipzig), 2013-2015</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Simona Stoyanova</persName>
+                    <resp>Project Manager (University of Leipzig), 2015</resp>
+                    <resp>Project Assistant (University of Leipzig), 2013-2014</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>University of Leipzig</authority>
+                <idno type="filename">tlg2022.1st1K001.1st1K-eng1.xml</idno>
+                <availability>
+                    <p n="1">Available under a Creative Commons Attribution-ShareAlike 4.0 International
+                        License</p>
+                </availability>
+                <date>2014</date>
+                <publisher>University of Leipzig</publisher>
+                <pubPlace>Germany</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <listBibl>
+                    <biblStruct>
+                        <monogr>
+                            <title>The Five Theological Orations of Gregory of Nazianzus</title>
+                            <editor>
+                                <persName>
+                                    <name>Arthur James Mason</name>
+                                </persName>
+                            </editor>
+                            <author ref="urn:cts:greekLit:tlg2022">Gregory of Nazianzus</author>
+                            <imprint>
+                                <publisher>Cambridge University Press</publisher>
+                                <pubPlace>Cambridge</pubPlace>
+                                <date>1899</date>
+                            </imprint>
+                            <biblScope unit="volume">vol.</biblScope>
+                        </monogr>
+                    </biblStruct>
+                </listBibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p n="1">Text encoded in accordance with the latest EpiDoc standards (January 2014)</p>
+            <refsDecl n="CTS">
+                <cRefPattern n="paragraph" matchPattern="(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:p[@n='$1'])"/>
+            </refsDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+            <div type="commentary" subtype="preface" n="urn:cts:greekLit:tlg2022.1st1K001.1st1K-eng1" xml:lang="eng">
+                <pb n="v"/>
+                <head>PREFATORY NOTE.</head>
+                <p n="1">THE Syndics of the Cambridge University Press
+                    have arranged for the issue of a series of Patristic
+                    Texts for Theological Students, of which the present
+                    volume is the first instalment. Other volumes are in
+                    course of preparation.</p>
+                <p n="2">The series will include not only complete treatises,
+                    but also parts of larger works, which will be treated as
+                    complete in themselves, and selections of letters and
+                    sermons. The present book may be taken as a sample
+                    of the size of the volumes.</p>
+                <p n="3">The object is to give to Theological Students the
+                    same kind of assistance in reading Patristic works,
+                    which is so abundantly given to students of the Classical
+                    authors. Regard will be had to the needs of those who
+                    have not many books of reference at hand.</p>
+                <p n="4">The main part of the work in each case will consist
+                    of the actual Text, based on the best editions, with a
+                    collation of MSS. where possible, together with a digest of
+                    important various reeidings, and with explanatory notes.
+                    Brief Introductions will deal with the place of the work
+                    
+                    <pb n="vi"/>
+                    in the history of the Christian Church, and give information
+                    with regard to the MSS., editions, and
+                    literature of the subject. Copious Indices will follow,
+                    of Subjects, of Scripture Texts, and of Words.</p>
+                <p n="5">The Indices to the present volume have been drawn
+                    up by the Rev. W. J. Foxell, M.A., Minor Canon of
+                    Canterbury Cathedral.</p>
+                <p n="6">Α. J. Μ.</p>
+                <p n="7">October, 1899.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
